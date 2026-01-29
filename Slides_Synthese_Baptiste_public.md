@@ -28,6 +28,7 @@
 
 ## 💼 STRATÉGIE & STRUCTURATION
 - Pilotage DAF (KPIs, trésorerie, rentabilité)
+- Pilotage Tech/CTO (documentation, outils, setup LMS avec Igor)
 - Structuration juridique (pacte associés, PI)
 - Business models innovants (récurrents, SaaS, abonnements)
 

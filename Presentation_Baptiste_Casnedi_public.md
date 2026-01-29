@@ -35,6 +35,12 @@
 - ✅ Suivi trésorerie et rentabilité par module
 - ✅ Modélisation financière et projections
 
+#### Pilotage Tech (CTO)
+- ✅ Documentation technique (GitHub Pages, Docsify)
+- ✅ Outils transverses (CRM, mails, collaboration)
+- ✅ Setup outils métier/formation en binôme avec Igor (LMS, parcours pédagogiques)
+- ✅ Site web : volet technique en collaboration avec Éloïse (charte graphique, identité)
+
 #### Structuration juridique
 - ✅ Pacte d'associés robuste (clauses sortie, non-concurrence, valorisation)
 - ✅ Propriété intellectuelle des contenus

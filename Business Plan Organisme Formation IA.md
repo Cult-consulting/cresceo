@@ -28,7 +28,7 @@ La structure capitalise sur :
 | Associé | Rôle | Apports Stratégiques | Rémunération |
 |---------|------|---------------------|--------------|
 | **Igor Cannone** | Président / Expert Métier | Ingénierie pédagogique, réseau formateurs, expertise IA/Lean/HSE, pilotage opérations | TJM Animation + Com + Dividendes |
-| **Baptiste Casnedi** | DG / DAF-Stratégie | Pilotage financier, réseau multi-entrepreneurial, structuration, apport d'affaires | TJM Prestation + Com + Dividendes |
+| **Baptiste Casnedi** | DG / DAF + CTO | Pilotage financier, structuration, réseau multi-entrepreneurial, apport d'affaires, tech (site web, outils, documentation) | TJM Prestation + Com + Dividendes |
 | **Julien Gardette** | Expert BTP | Expertise métier BTP, réseau contacts secteur construction | Com Apport + Dividendes |
 | **Éloïse Bouveret** | Marketing / Communication | Pilotage marketing digital, stratégie de communication (pilote market CAD42) | TJM Prestation + Com + Dividendes |
 

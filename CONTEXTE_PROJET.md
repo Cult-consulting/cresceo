@@ -23,7 +23,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 | Nom | Rôle | Parts | LinkedIn |
 |-----|------|-------|----------|
 | **Igor Cannone** | Président - Expert Métier/Opérations | 2 | [Profil](https://www.linkedin.com/in/igor-canonne) |
-| **Baptiste Casnedi** | DG - DAF/Stratégie | 1 | [Profil](https://www.linkedin.com/in/baptistecasnedi) |
+| **Baptiste Casnedi** | DG - DAF + CTO | 1 | [Profil](https://www.linkedin.com/in/baptistecasnedi) |
 | **Julien Gardette** | Expert BTP - Contacts secteur | 1 | [Profil](https://www.linkedin.com/in/jgardette/) |
 | **Éloïse Bouveret** | Marketing/Communication | 1 (?) | [Profil](https://www.linkedin.com/in/eloise-bouveret/) |
 | **Jean-Philippe Panaget** | CAD 42 - Actionnaire passif | 0.5 | [Profil](https://www.linkedin.com/in/jppanaget) |

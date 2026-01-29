@@ -12,6 +12,9 @@
 * **Identité**
   * [Recherche de Nom](RECHERCHE_NOM.md)
 
+* **Juridique**
+  * [Pacte d'Associés (Draft)](PACTE_ASSOCIES_DRAFT.md)
+
 * **Équipe**
   * [Présentation Baptiste Casnedi](Presentation_Baptiste_Casnedi_public.md)
   * [Slides Synthèse](Slides_Synthese_Baptiste_public.md)

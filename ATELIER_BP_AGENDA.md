@@ -66,11 +66,16 @@
 
 | Associé | Parts | % | Rôle | Engagement |
 |---------|-------|---|------|------------|
-| Igor | 2 | ? | Président, Expert Métier | ? j/semaine |
-| Baptiste | 1 | ? | DG, DAF/Stratégie | ? j/semaine |
+| Igor | 2 | ? | Président, Expert Métier/Pédagogie | ? j/semaine |
+| Baptiste | 1 | ? | DG, DAF + CTO | ? j/semaine |
 | Julien | 1 | ? | Expert BTP | ? j/semaine |
-| Éloïse | 1 | ? | Marketing | ? j/semaine |
+| Éloïse | 1 | ? | Marketing/Communication | ? j/semaine |
 | JP + Raph | 1 | ? | CAD 42, Passifs | Apport affaires |
+
+**Précision rôle CTO (Baptiste)** :
+- **Y1 (Light)** : Documentation technique, site web, GitHub Pages, outils transverses (CRM, mails)
+- **Setup outils métier/formation** (LMS Digiforma, parcours pédagogiques) : en binôme avec Igor
+- **Y2+ (si SaaS)** : Spécification plateforme, interface abonnements, pilotage dev
 
 ---
 

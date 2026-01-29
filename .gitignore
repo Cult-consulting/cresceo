@@ -1,0 +1,11 @@
+# Fichiers sensibles
+*.zip
+WhatsApp_*/
+
+# Fichiers privés (versions non-publiques)
+Presentation_Baptiste_Casnedi.md
+Slides_Synthese_Baptiste.md
+
+# Fichiers temporaires
+.DS_Store
+Thumbs.db

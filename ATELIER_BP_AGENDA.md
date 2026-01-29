@@ -87,10 +87,23 @@
   | Placement consultants | ? % marge | À définir |
   | Coordination SPS | ? €/projet | Basse |
 
-- [ ] **Structure de coûts** :
+- [ ] **Structure de coûts (setup)** :
   - TJM formateurs externes : 350€ ou plus ?
   - Commission apporteurs : 10% validé ?
   - Budget marketing Y1 : 5 050€ suffisant ?
+
+- [ ] **Charges courantes (récurrentes)** :
+  | Poste | Estimation mensuelle | Estimation annuelle |
+  |-------|---------------------|---------------------|
+  | Expert-comptable | 150-250€ | 1 800-3 000€ |
+  | Assurance RC Pro | 50-100€ | 600-1 200€ |
+  | Logiciels (LMS Digiforma, CRM, mails...) | 100-300€ | 1 200-3 600€ |
+  | Hébergement/domaine | 20-50€ | 240-600€ |
+  | Frais bancaires | 20-50€ | 240-600€ |
+  | Déplacements/frais pro | 100-300€ | 1 200-3 600€ |
+  | **TOTAL estimé** | **440-1 050€** | **5 280-12 600€** |
+
+  *Note : Pas de rémunération dirigeant prévue (associés actifs rémunérés via TJM formation/consulting)*
 
 - [ ] **Objectif CA Year 1** :
   - 60 000€ (BP actuel) réaliste ?

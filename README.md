@@ -1,8 +1,8 @@
-# Azimut
+# Cresceo
 
-> Organisme de Formation en Intelligence Artificielle
+> La croissance par le savoir
 
-Bienvenue sur la documentation du projet **Azimut**, un organisme de formation dédié à l'accompagnement des professionnels dans leur montée en compétences sur l'Intelligence Artificielle.
+Bienvenue sur la documentation du projet **Cresceo**, un organisme de formation dédié à l'accompagnement des professionnels dans leur montée en compétences sur l'Intelligence Artificielle, le Lean et la Prévention/HSE dans l'univers du BTP.
 
 ## Navigation
 

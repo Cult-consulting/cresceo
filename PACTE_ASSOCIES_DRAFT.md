@@ -1,7 +1,7 @@
 # Pacte d'Associés - Préparation
 
 **Statut** : Draft - À valider en atelier BP
-**Date** : 30 janvier 2026
+**Date** : 2 février 2026 (mise à jour)
 
 ---
 
@@ -9,17 +9,21 @@
 
 Le pacte d'associés complète les statuts et régit les relations entre associés. Il est **confidentiel** (contrairement aux statuts déposés au greffe).
 
-### Tour de table prévu
+### Tour de table - Proposition Igor (2 février 2026)
 
-| Associé | Parts | % estimé | Catégorie | Engagement |
-|---------|-------|----------|-----------|------------|
-| Igor Cannone | 2 | ~33% | Actif - Président | Majoritaire |
-| Baptiste Casnedi | 1 | ~17% | Actif - DG | Partiel |
-| Julien Gardette | 1 | ~17% | Actif | Partiel |
-| Éloïse Beauvais | 1 | ~17% | Actif | Partiel |
-| JP Panaget + Raph Garcia-Brotons | 1 (0.5+0.5) | ~17% | Passifs | Apport affaires |
+| Associé | % Capital | Catégorie | Engagement |
+|---------|-----------|-----------|------------|
+| Igor Cannone | 38,0 % | Actif - Président | Majoritaire |
+| Baptiste Casnedi | 19,0 % | Actif - DG | Partiel |
+| Julien Gardette | 19,0 % | Actif | Partiel |
+| Jean-Philippe Panaget | 9,5 % | Passif | Apport affaires |
+| Raphaël Garcia-Brotons | 9,5 % | Passif | Apport affaires |
+| Éloïse Bouveret | 5,0 % | Actif | MKG/Com |
+| **TOTAL** | **100 %** | | |
 
-*Note : % à confirmer lors de l'atelier BP*
+**Bloc de contrôle** : Igor + Baptiste + Julien = **76%** (majorité qualifiée 2/3)
+
+*Note : Proposition à valider lors de l'atelier BP*
 
 ---
 
@@ -210,9 +214,9 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 | Contenu | Propriétaire | Conditions |
 |---------|--------------|------------|
-| Formations créées pour Azimut | Azimut | 100% propriété société |
-| Méthodologies développées | Azimut | Licence perpétuelle si départ |
-| Contenus préexistants | Créateur original | Licence à Azimut |
+| Formations créées pour Cresceo | Cresceo | 100% propriété société |
+| Méthodologies développées | Cresceo | Licence perpétuelle si départ |
+| Contenus préexistants | Créateur original | Licence à Cresceo |
 | Contenus CAD 42 adaptés | Voir accord CAD 42 | À définir |
 
 #### 7.2 En cas de départ
@@ -252,7 +256,7 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 |-----------|-------|
 | Prospection Vinci | Associé non lié à Spiraliss pilote (pas le Président) |
 | Délivrance formation Vinci | Président peut délivrer (pas de conflit sur l'exécution) |
-| Conflit Spiraliss/Azimut | Déclaration préalable obligatoire au Comité |
+| Conflit Spiraliss/Cresceo | Déclaration préalable obligatoire au Comité |
 
 #### 9.3 Procédure générale
 
@@ -275,14 +279,14 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 ---
 
-### 11. Clauses Spécifiques Azimut
+### 11. Clauses Spécifiques Cresceo
 
 #### 11.1 Relation CAD 42
 
 | Clause | Description |
 |--------|-------------|
-| Priorité apport affaires | JP/Raph s'engagent à orienter clients CAD 42 vers Azimut |
-| Non-exclusivité | Azimut peut développer hors CAD 42 |
+| Priorité apport affaires | JP/Raph s'engagent à orienter clients CAD 42 vers Cresceo |
+| Non-exclusivité | Cresceo peut développer hors CAD 42 |
 | Durée engagement | 3 ans minimum, puis tacite reconduction |
 | Commission | À définir dans accord séparé (pas dans pacte) |
 

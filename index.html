@@ -2,9 +2,9 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Azimut - Organisme de Formation IA</title>
+  <title>Cresceo - La croissance par le savoir</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Documentation du projet Azimut - Organisme de Formation en Intelligence Artificielle">
+  <meta name="description" content="Documentation du projet Cresceo - Organisme de Formation IA, Lean et HSE pour le BTP">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- Thème Vue (professionnel et épuré) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -87,7 +87,7 @@
   <!-- Écran de protection par mot de passe -->
   <div id="password-screen" class="password-overlay">
     <div class="password-box">
-      <h2>Azimut</h2>
+      <h2>Cresceo</h2>
       <p>Accès réservé aux associés</p>
       <input type="password" id="password-input" placeholder="Mot de passe" onkeypress="if(event.key==='Enter')checkPassword()">
       <button onclick="checkPassword()">Accéder</button>
@@ -99,13 +99,13 @@
 
   <script>
     // Configuration du mot de passe (hash simple pour éviter de le voir en clair)
-    // Mot de passe : azimut2026
-    const PASSWORD_HASH = 'azimut2026';
+    // Mot de passe : cresceo2026
+    const PASSWORD_HASH = 'cresceo2026';
 
     function checkPassword() {
       const input = document.getElementById('password-input').value;
       if (input === PASSWORD_HASH) {
-        sessionStorage.setItem('azimut_auth', 'true');
+        sessionStorage.setItem('cresceo_auth', 'true');
         showContent();
       } else {
         document.getElementById('password-error').style.display = 'block';
@@ -119,13 +119,13 @@
     }
 
     // Vérifier si déjà authentifié dans la session
-    if (sessionStorage.getItem('azimut_auth') === 'true') {
+    if (sessionStorage.getItem('cresceo_auth') === 'true') {
       showContent();
     }
   </script>
   <script>
     window.$docsify = {
-      name: 'Azimut',
+      name: 'Cresceo',
       repo: '',
       loadSidebar: '_sidebar.md',
       alias: {
@@ -140,7 +140,7 @@
       },
       auto2top: true,
       homepage: 'README.md',
-      basePath: '/azimut/',
+      basePath: '/cresceo/',
       relativePath: true,
       notFoundPage: true
     }

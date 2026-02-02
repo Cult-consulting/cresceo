@@ -1,8 +1,36 @@
 # Recherche de Nom - Projet Formation IA
 
 **Objectif** : Trouver un nom distinctif, mémorable et disponible pour la nouvelle société
-**Date** : 30 janvier 2026 (mise à jour)
+**Date** : 2 février 2026 (mise à jour)
 **Vision** : Nom adapté à la diversification LT (au-delà du BTP : industrie, agroalimentaire, tech...)
+
+---
+
+## ✅ DÉCISION FINALE : CRESCEO
+
+**Nom retenu** : **CRESCEO**
+**Date de décision** : 31 janvier 2026
+**Méthode** : Sondage WhatsApp - Consensus unanime (4 votes)
+
+| Critère | Résultat |
+|---------|----------|
+| Disponibilité INPI classe 41 | ✅ Libre |
+| Domaine .fr | ✅ Disponible |
+| Domaine .com | ✅ Disponible |
+| SEO | ✅ Non saturé en France |
+| Prononciation FR/EN | ✅ Simple |
+
+### Signification et univers
+- **Origine** : Latin "crescere" = croître, grandir
+- **Tagline** : "La croissance par le savoir"
+- **Tagline EN** : "Growth through knowledge"
+
+### Déclinaison identitaire (proposition Éloïse)
+> **C**larté - **R**enforcement - **E**ngagement - **S**tructuration - **C**onversion - **É**lévation - **O**ptimisation
+
+---
+
+## Historique de la recherche (archives)
 
 ---
 
@@ -349,4 +377,17 @@ Vérifications SEO et homonymes réalisées le 30 janvier 2026.
 
 ---
 
-*Document mis à jour le 30 janvier 2026 - Vérifications Web effectuées - Top 5 finalisé*
+---
+
+## Conclusion
+
+**CRESCEO a été choisi** le 31 janvier 2026 par consensus unanime des associés.
+
+Les autres noms du Top 5 (Zenho, Skilleva, Upskila, Culmen) restent documentés à titre d'archive.
+
+**Prochaines étapes réalisées :**
+- [x] Vote final → CRESCEO
+- [ ] Achat domaines cresceo.fr + cresceo.com
+- [ ] Dépôt marque INPI classe 41
+
+*Document finalisé le 2 février 2026*

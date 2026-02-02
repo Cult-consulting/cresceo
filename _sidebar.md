@@ -11,6 +11,7 @@
 
 * **Identité**
   * [Recherche de Nom](RECHERCHE_NOM.md)
+  * [Plan de Lancement](PLAN_LANCEMENT_CRESCEO.md)
 
 * **Juridique**
   * [Pacte d'Associés (Draft)](PACTE_ASSOCIES_DRAFT.md)

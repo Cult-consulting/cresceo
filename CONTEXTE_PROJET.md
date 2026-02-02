@@ -1,7 +1,8 @@
-# Contexte Projet Azimut - Document de Référence
+# Contexte Projet Cresceo - Document de Référence
 
-**Dernière mise à jour** : 30 janvier 2026
+**Dernière mise à jour** : 2 février 2026
 **Statut** : En structuration - Ateliers en préparation
+**Nom validé** : ✅ Cresceo (consensus associés - 31 janvier 2026)
 
 ---
 
@@ -18,18 +19,27 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ## Tour de Table
 
-### Associés
+### Associés - Proposition Igor (2 février 2026)
 
-| Nom | Rôle | Parts | LinkedIn |
-|-----|------|-------|----------|
-| **Igor Cannone** | Président - Expert Métier/Opérations | 2 | [Profil](https://www.linkedin.com/in/igor-canonne) |
-| **Baptiste Casnedi** | DG - DAF + CTO | 1 | [Profil](https://www.linkedin.com/in/baptistecasnedi) |
-| **Julien Gardette** | Expert BTP - Contacts secteur | 1 | [Profil](https://www.linkedin.com/in/jgardette/) |
-| **Éloïse Bouveret** | Marketing/Communication | 1 (?) | [Profil](https://www.linkedin.com/in/eloise-bouveret/) |
-| **Jean-Philippe Panaget** | CAD 42 - Actionnaire passif | 0.5 | [Profil](https://www.linkedin.com/in/jppanaget) |
-| **Raphaël Garcia-Brotons** | CAD 42 - Actionnaire passif | 0.5 | [Profil](https://www.linkedin.com/in/raphaël-garcia-brotons-35284950) |
+| Nom | Rôle | % Capital | Catégorie | LinkedIn |
+|-----|------|-----------|-----------|----------|
+| **Igor Cannone** | Président - Expert Métier/Opérations | 38,0 % | Actif | [Profil](https://www.linkedin.com/in/igor-canonne) |
+| **Baptiste Casnedi** | DG - DAF + CTO | 19,0 % | Actif | [Profil](https://www.linkedin.com/in/baptistecasnedi) |
+| **Julien Gardette** | Expert BTP - Contacts secteur | 19,0 % | Actif | [Profil](https://www.linkedin.com/in/jgardette/) |
+| **Jean-Philippe Panaget** | CAD 42 - Apport affaires | 9,5 % | Passif | [Profil](https://www.linkedin.com/in/jppanaget) |
+| **Raphaël Garcia-Brotons** | CAD 42 - Apport affaires | 9,5 % | Passif | [Profil](https://www.linkedin.com/in/raphaël-garcia-brotons-35284950) |
+| **Éloïse Bouveret** | Marketing/Communication | 5,0 % | Actif | [Profil](https://www.linkedin.com/in/eloise-bouveret/) |
+| | **TOTAL** | **100 %** | | |
 
-**Note** : Répartition exacte à valider lors de l'atelier BP
+### Blocs de gouvernance
+
+| Bloc | Associés | % cumulé | Pouvoir |
+|------|----------|----------|---------|
+| **Contrôle opérationnel** | Igor + Baptiste + Julien | 76 % | Majorité qualifiée (2/3) |
+| **Fondateurs actifs** | Les 4 actifs | 81 % | Quasi-unanimité |
+| **CAD 42** | JP + Raph | 19 % | Minorité de blocage sur unanimité |
+
+**Note** : Proposition à valider lors de l'atelier BP (semaine du 3 février)
 
 ### Partenaires Contractuels
 
@@ -101,9 +111,12 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 ## Calendrier Prévisionnel
 
 ### Court terme (Février 2026)
+- [x] **Choix du nom définitif** - ✅ CRESCEO validé le 31 janvier 2026
 - [ ] **Atelier Business Plan** (semaine du 3 février) - Igor, Julien, Baptiste
   - Agenda préparé : [ATELIER_BP_AGENDA.md](ATELIER_BP_AGENDA.md)
-- [ ] **Choix du nom définitif** - Vote lors atelier BP
+  - **Sujet clé** : Répartition définitive des parts
+- [ ] **Achat domaines** cresceo.fr + cresceo.com
+- [ ] **Dépôt marque INPI** classe 41 (formation)
 - [ ] **Atelier Rampe de lancement CAD 42** (après atelier BP) - Igor, Baptiste, JP, Raph
   - Agenda préparé : [ATELIER_CAD42_AGENDA.md](ATELIER_CAD42_AGENDA.md)
 
@@ -121,25 +134,26 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ---
 
-## Nom de la Société - Top 5 Finalisé
+## Nom de la Société - CRESCEO ✅
 
-**Recherche effectuée** : 30 janvier 2026 - Vérifications Google/Web complètes
+**Décision** : 31 janvier 2026 - Consensus unanime des associés
 
-| Rang | Nom | Statut | Tagline | Notes |
-|------|-----|--------|---------|-------|
-| 1 | **Zenho** | ⚠️ Vérif INPI | "L'expertise en équilibre" | Choix Igor, zen + méthode, zenho.shop existe (secteur différent) |
-| 2 | **Skilleva** | ✅ Libre | "Élevez vos compétences" | Skill + élévation, moderne, aucun conflit trouvé |
-| 3 | **Cresceo** | ✅ Libre | "La croissance par le savoir" | Latin élégant, seulement complément US |
-| 4 | **Upskila** | ✅ Libre | "Montez en puissance" | Potentiel marketing U + iA, explicite |
-| 5 | **Culmen** | ⚠️ Modéré | "L'excellence au sommet" | Société existante faible notoriété |
+| Nom retenu | Tagline | Domaines | INPI |
+|------------|---------|----------|------|
+| **CRESCEO** | "La croissance par le savoir" | ✅ .fr et .com disponibles | ✅ Libre classe 41 |
 
-**Noms invalidés** : Azimut (SEO saturé), Altéo (ETI alumine 700+ employés), Sora (OpenAI + ESN), Kivo, Elevio, Leapwise, Talentio, Syneo, Lumeo, Skillevo, Kairos
+### Origine et signification
+- **Latin "crescere"** = croître, grandir
+- Évoque la **montée en compétences** et la **croissance professionnelle**
+- Court, élégant, prononçable en français et en anglais
+- Neutre sectoriellement → adapté à la diversification future
 
-**Actions avant atelier BP** :
-- [ ] Vérification INPI classe 41 pour Zenho (priorité)
-- [ ] Vérification domaines .fr pour top 5
+### Déclinaison identitaire (proposition Éloïse)
+> C - Clarté | R - Renforcement | E - Engagement | S - Structuration | C - Conversion | E - Élévation | O - Optimisation
 
-→ Détail complet : [RECHERCHE_NOM.md](RECHERCHE_NOM.md)
+**Noms non retenus** : Azimut (SEO saturé), Zenho (conflit potentiel), Multiprisme, Zero1, DeepFeel
+
+→ Historique recherche : [RECHERCHE_NOM.md](RECHERCHE_NOM.md)
 
 ---
 
@@ -215,17 +229,91 @@ Approche variables CSS → changer 5-6 valeurs = refonte complète
 
 ---
 
+## Optimisation Fiscale & Domiciliation
+
+**Réflexions Igor (31 jan - 1er fév 2026)**
+
+### Option 1 : ZFU Saint-Denis (Zone Franche Urbaine)
+
+| Critère | Détail |
+|---------|--------|
+| **Localisation** | Domiciliation près du bureau CAD42 @ incubateur Handilab |
+| **Avantage principal** | Exonération IS jusqu'à 50k€/an pendant 5 ans |
+| **Faisabilité** | ✅ Bureau CAD42 non utilisé par Cresceo (pas de conflit) |
+| **Condition** | Expliquer à l'incubateur qu'on crée une nouvelle offre de formation |
+| **Vérification** | À confirmer avec un expert fiscal (Gemini dit OK) |
+
+### Option 2 : BUD Douai (Bassin Urbain à Dynamiser)
+
+| Critère | Détail |
+|---------|--------|
+| **Localisation** | Domiciliation chez le père d'Igor à Douai |
+| **Avantage principal** | Exonérations fiscales zone prioritaire |
+| **Clause d'embauche** | S'applique à partir du 2ème salarié |
+| **Bonus** | Igor a un contact résidant dans la zone qui pourrait travailler quelques heures/semaine → force vive supplémentaire |
+
+### Comparatif préliminaire
+
+| Critère | ZFU Saint-Denis | BUD Douai |
+|---------|-----------------|-----------|
+| Proximité opérationnelle | ✅ Près de CAD42/Handilab | ❌ Éloigné |
+| Économie IS | ✅ Jusqu'à 50k€/an x 5 ans | ✅ À chiffrer |
+| Contrainte embauche | ❌ À vérifier | À partir du 2ème salarié |
+| Crédibilité siège | ✅ Paris/IDF | ⚠️ Hauts-de-France |
+| Ressource humaine locale | ❌ | ✅ Contact disponible |
+
+**Action** : Igor creuse les deux options et présente en atelier BP
+
+---
+
+## Banque & Outils Financiers
+
+### Comparatif Néobanques Pro
+
+| Critère | **Revolut Business Pro** | **Qonto Essential** |
+|---------|--------------------------|---------------------|
+| **Coût mensuel** | 25€/mois | 29€/mois |
+| **Ouverture** | 100% en ligne, rapide | 100% en ligne, rapide |
+| **IBAN** | Lituanien (LT) | Français (FR) |
+| **Cartes physiques** | 1 incluse | 2 incluses |
+| **Cartes virtuelles** | Illimitées | 5 incluses |
+| **Virements SEPA** | Illimités | Illimités |
+| **Multi-devises** | ✅ 25+ devises, taux interbancaire | ❌ EUR uniquement |
+| **Comptabilité** | Intégrations (Pennylane, etc.) | Intégrations natives + export |
+| **Support** | Chat, parfois lent | Chat FR réactif, téléphone |
+| **Dépôt de capital** | ❌ Non | ✅ Oui (partenaire Legalstart) |
+| **Réputation** | Bonne, mais support variable | Excellente en France |
+
+### Recommandation
+
+| Profil | Choix recommandé |
+|--------|------------------|
+| **Projets internationaux HSE** (devises, consultants abroad) | Revolut Business Pro |
+| **Activité 100% France**, simplicité, support FR | Qonto Essential |
+| **Création société** (dépôt capital simplifié) | Qonto |
+
+**Proposition Igor** : Revolut Business Pro (pour le multi-devises lié aux projets internationaux)
+
+**Alternative selon orientation** : Qonto si activité principalement française au démarrage
+
+**Autres options** : Shine (freelance-friendly), Banque traditionnelle (BNP, SG) si besoin de financement bancaire
+
+---
+
 ## Points Ouverts
 
-1. **Répartition exacte des parts** : À valider en atelier
+1. **Répartition des parts** : Proposition Igor à valider
+   - **Processus** : Igor échange de vive voix avec Julien et Éloïse avant l'atelier BP
+   - **Questions clés** :
+     - Éloïse 5% : Cohérent si Cresceo = side project pour elle ?
+     - Julien 19% + bloc de contrôle : Juste au regard de son engagement temps/énergie futur ?
 
-2. **Part d'Éloïse** : À confirmer (1 part ?)
+2. **Capital social** : 10k€ proportionnel aux parts (à valider)
+   - Si 10k€ : Igor 3 800€, Baptiste 1 900€, Julien 1 900€, JP 950€, Raph 950€, Éloïse 500€
 
-3. **Capital social** : 10k€ proportionnel aux parts (à valider)
+3. **Domiciliation** : Arbitrage ZFU Saint-Denis vs BUD Douai (voir section ci-dessus)
 
-4. **Implantation ZFU** : Option Saint-Denis pour exonération IS (jusqu'à 50k€ pendant 5 ans)
-
-5. **Bourse French Tech** : Potentiel si mobilisation 50k€ → 50k€ de subvention
+4. **Bourse French Tech** : Potentiel si mobilisation 50k€ → 50k€ de subvention
 
 ---
 
@@ -258,6 +346,8 @@ Approche variables CSS → changer 5-6 valeurs = refonte complète
 |------|------------------|
 | 28-29 jan 2026 | Setup projet, BP, analyse marché |
 | 30 jan 2026 | Recherche nom (Top 5), draft pacte associés, agendas ateliers, plan migration site web |
+| 31 jan 2026 | Consensus sur nom CRESCEO, groupe WhatsApp renommé |
+| 2 fév 2026 | Mise à jour docs (Azimut→Cresceo), intégration proposition parts Igor, plan lancement, options domiciliation (ZFU/BUD) |
 
 *Note : Ce tableau permet de tracer le travail effectué en cas de perte de contexte*
 

@@ -32,20 +32,44 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ---
 
-### 2. Domiciliation & Optimisation Fiscale (15 min)
+### 2. Domiciliation & Optimisation Fiscale (10 min)
 
-**Objectif** : Trancher entre les 2 options
+**Objectif** : Valider l'option BUD Douai (orientation privilégiée)
 
 | Option | Avantage | Contrainte |
 |--------|----------|------------|
-| ZFU Saint-Denis | Exonération IS 5 ans (jusqu'à 61k€/an) | Bail + embauche locale Y2 |
-| BUD Douai | Crédit d'impôt investissement | Moins structurant |
+| ~~ZFU Saint-Denis~~ | Exonération IS 5 ans | Bail + embauche locale |
+| **BUD Douai** ⭐ | Exo IS 5 ans + CFE/CVAE 7 ans + TF 10 ans | 50% salariés résidents BUD |
+
+**Points à confirmer** :
+- [ ] Adresse exacte de domiciliation (père d'Igor)
+- [ ] Contact local disponible pour clause emploi
 
 **Livrable** : Choix de domiciliation validé
 
 ---
 
-### 3. Prochaines Étapes & Actions (20 min)
+### 3. Expert-Comptable & Subventions (10 min)
+
+**Objectif** : Identifier le bon profil comptable et les pistes de financement
+
+| Question | Options / Réponse |
+|----------|-------------------|
+| **Profil comptable** | Généraliste ? Spécialisé OF/formation ? Basé Douai ou national ? |
+| **Recommandations** | Qui connaît un bon EC ? (réseau Igor, Julien, Baptiste ?) |
+| **Critères** | Connaissance Qualiopi, OPCO, création SAS, tarif |
+
+**Subventions à explorer** :
+- [ ] Bourse French Tech (50k€ si mobilisation 50k€)
+- [ ] Aides régionales Hauts-de-France (BUD)
+- [ ] BPI France (garantie, prêt d'honneur)
+- [ ] OPCO Constructys (financement formations)
+
+**Livrable** : Responsable identifié pour sourcing EC + liste subventions à creuser
+
+---
+
+### 4. Prochaines Étapes & Actions (15 min)
 
 **Objectif** : Répartir les actions concrètes
 
@@ -62,7 +86,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ---
 
-### 4. Wrap-up (5 min)
+### 5. Wrap-up (5 min)
 
 - [ ] Récap décisions prises
 - [ ] Date atelier follow-up si nécessaire

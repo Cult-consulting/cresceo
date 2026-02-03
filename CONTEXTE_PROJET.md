@@ -45,7 +45,8 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 | Partenaire | Contrat | Apports |
 |------------|---------|---------|
 | **[Yacine Benzina](https://www.linkedin.com/in/yacine-b-41b527bb/)** | Apport d'affaires | Pool formateurs IA + Contacts chimie |
-| **Luigi Andolina (Spiraliss Consultants)** | Partenariat potentiel | Contrat-cadre Vinci formations IA |
+
+**Note Luigi Andolina (Spiraliss Consultants)** : ~~Partenariat potentiel~~ - Luigi n'est plus intéressé par un partenariat de distribution. Il souhaite vendre son entreprise à Igor (opportunité distincte de Cresceo).
 
 ---
 
@@ -242,26 +243,71 @@ Approche variables CSS → changer 5-6 valeurs = refonte complète
 | **Condition** | Expliquer à l'incubateur qu'on crée une nouvelle offre de formation |
 | **Vérification** | À confirmer avec un expert fiscal (Gemini dit OK) |
 
-### Option 2 : BUD Douai (Bassin Urbain à Dynamiser)
+### Option 2 : BUD Douai (Bassin Urbain à Dynamiser) ⭐ Option privilégiée
 
-| Critère | Détail |
-|---------|--------|
-| **Localisation** | Domiciliation chez le père d'Igor à Douai |
-| **Avantage principal** | Exonérations fiscales zone prioritaire |
-| **Clause d'embauche** | S'applique à partir du 2ème salarié |
-| **Bonus** | Igor a un contact résidant dans la zone qui pourrait travailler quelques heures/semaine → force vive supplémentaire |
+#### Présentation du dispositif BUD
 
-### Comparatif préliminaire
+Le BUD est un dispositif d'exonération fiscale créé en 2017 pour relancer l'activité dans les anciens bassins miniers du Nord-Pas-de-Calais. **150+ communes éligibles**, dont Douai et 17 communes de la CA du Douaisis.
+
+**Prorogé jusqu'au 31 décembre 2026** (Loi de finances 2024).
+
+#### Avantages fiscaux détaillés
+
+| Avantage | Détail | Durée |
+|----------|--------|-------|
+| **Exonération IS/IR** | 100% pendant 2 ans, puis dégressive (75%, 50%, 25%) | 5 ans |
+| **Exonération CFE** | 50% de la base nette | 7 ans |
+| **Exonération CVAE** | Totale | 7 ans |
+| **Exonération taxe foncière** | Totale puis dégressive | 7 ans + 3 ans |
+| **Plafond global** | 7,5 M€ sur la période | - |
+
+#### Conditions d'éligibilité
+
+| Condition | Cresceo | Statut |
+|-----------|---------|--------|
+| PME (< 250 salariés, CA < 50 M€) | ✅ | OK |
+| Siège social dans le BUD | ✅ Domiciliation Douai | OK |
+| Activité industrielle/commerciale/artisanale | ✅ Formation professionnelle | OK |
+| Pas de reprise d'activité existante | ✅ Création ex nihilo | OK |
+| **Clause emploi local** | 50% des CDI/CDD ≥12 mois résidant dans le BUD | ⚠️ À respecter |
+| Non détenu > 50% par d'autres sociétés | ✅ | OK |
+
+#### Contraintes et limites
+
+| Contrainte | Détail | Mitigation |
+|------------|--------|------------|
+| **Clause emploi local** | 50% des salariés doivent résider dans le BUD | Contact d'Igor résidant dans la zone disponible |
+| **Éloignement géographique** | Siège à Douai vs activité Paris/national | Activité dématérialisée (formation), pas de contrainte réelle |
+| **Fin du dispositif** | Création avant le 31/12/2026 | ✅ Création prévue T1 2026 |
+
+#### Storytelling & Opportunité stratégique
+
+| Élément | Valeur ajoutée |
+|---------|----------------|
+| **Racines d'Igor** | Originaire de Douai, diplômé des Mines de Douai → authenticité, ancrage territorial |
+| **Présence BTP Nord** | Nombreux sièges sociaux/agences de groupes BTP dans la région (Rabot Dutilleul, Ramery, Demathieu Bard Nord...) |
+| **BU Nord future** | Possibilité de développer une business unit régionale Hauts-de-France |
+| **Différenciation** | "Organisme de formation ancré dans le territoire minier en reconversion" → RSE, impact |
+
+#### Sources
+
+- [Bpifrance Création - Exonérations BUD](https://bpifrance-creation.fr/encyclopedie/aides-a-creation-a-reprise-dentreprise/aides-fiscales/exonerations-dimpots-bud)
+- [Service-Public - Exonérations fiscales BUD](https://entreprendre.service-public.fr/vosdroits/F34799)
+- [Préfecture Hauts-de-France - Dispositif BUD](https://www.prefectures-regions.gouv.fr/hauts-de-france/Region-et-institutions/L-action-de-l-Etat-dans-la-region/Amenagement-du-territoire-logement-transport-et-infrastructures/Engagement-pour-le-renouveau-du-Bassin-minier-du-Nord-et-du-Pas-de-Calais)
+
+### Comparatif ZFU vs BUD
 
 | Critère | ZFU Saint-Denis | BUD Douai |
 |---------|-----------------|-----------|
-| Proximité opérationnelle | ✅ Près de CAD42/Handilab | ❌ Éloigné |
-| Économie IS | ✅ Jusqu'à 50k€/an x 5 ans | ✅ À chiffrer |
-| Contrainte embauche | ❌ À vérifier | À partir du 2ème salarié |
-| Crédibilité siège | ✅ Paris/IDF | ⚠️ Hauts-de-France |
-| Ressource humaine locale | ❌ | ✅ Contact disponible |
+| Économie IS | Jusqu'à 50k€/an x 5 ans | 100% puis dégressive x 5 ans (plafond 7,5M€) |
+| Exo CFE/CVAE | ❌ | ✅ 7 ans |
+| Exo taxe foncière | ❌ | ✅ 7-10 ans |
+| Contrainte embauche | Variable selon zone | 50% salariés résidents BUD |
+| Crédibilité siège | ✅ Paris/IDF | ⚠️ Hauts-de-France (mais storytelling fort) |
+| Ressource locale | ❌ | ✅ Contact disponible |
+| Fin dispositif | 2024 (terminé ou prolongé ?) | 31/12/2026 |
 
-**Action** : Igor creuse les deux options et présente en atelier BP
+**Orientation privilégiée** : BUD Douai (avantages fiscaux plus larges, storytelling, ressource locale)
 
 ---
 

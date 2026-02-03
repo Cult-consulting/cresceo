@@ -26,6 +26,7 @@
 |----------|--------|-------------|
 | **Digitalisation BTP** | Fort | Demande croissante IA/BIM/Digital |
 | **IA générative** | Très fort | Nouveaux usages, nouveaux besoins formation |
+| **Lean Construction** | Fort | Optimisation chantiers, réduction gaspillage (input Julien à explorer) |
 | **Réglementation HSE** | Fort | Formations obligatoires, renouvellements |
 | **Pénurie main d'oeuvre** | Moyen | Optimisation par IA, formation existants |
 | **RSE/Durabilité** | Croissant | Formations transition écologique |
@@ -50,7 +51,7 @@
 
 **Obligatoire depuis 2022** pour accéder aux fonds publics/mutualisés.
 
-| Critère | Importance pour Azimut |
+| Critère | Importance pour Cresceo |
 |---------|----------------------|
 | Conditions d'information | À mettre en place |
 | Objectifs et adaptation | Ingénierie pédagogique Igor |
@@ -75,18 +76,47 @@ Le marché du consulting HSE (Hygiène, Sécurité, Environnement) pour les gran
 
 #### Majors BTP français (cibles prioritaires)
 
-| Groupe | CA 2024 | Présence internationale | Potentiel |
-|--------|---------|------------------------|-----------|
-| **Vinci** | ~65 Mds € | Monde entier | Très élevé (via Spiraliss) |
-| **Bouygues Construction** | ~35 Mds € | Europe, Afrique, Asie | Élevé |
-| **Eiffage** | ~22 Mds € | Europe principalement | Moyen |
-| **Spie Batignolles** | ~3 Mds € | France + International | Élevé (client CAD42) |
+| Groupe | CA 2024 | Présence internationale | Potentiel | Contact |
+|--------|---------|------------------------|-----------|---------|
+| **Vinci** | ~65 Mds € | Monde entier | Très élevé | Via Spiraliss |
+| **Bouygues Construction** | ~35 Mds € | Europe, Afrique, Asie | Élevé | À prospecter |
+| **Colas** (groupe Bouygues) | ~15 Mds € | Monde entier (routes) | Élevé | À prospecter (entité distincte de Bouygues Construction) |
+| **Eiffage** | ~22 Mds € | Europe principalement | Moyen | À prospecter |
+| **Spie Batignolles** | ~3 Mds € | France + International | Élevé | Client CAD42 |
+| **NGE** | ~3,5 Mds € | France + International | Élevé | Contact Julien |
+| **Léon Grosse** | ~1 Mds € | France | Moyen | Contact Julien |
+
+*Note : Bouygues Construction et Colas sont deux entités distinctes du groupe Bouygues, avec des achats séparés.*
+
+#### Contacts institutionnels clés
+
+| Organisme | Rôle | Intérêt pour Cresceo |
+|-----------|------|----------------------|
+| **OPPBTP** (Organisme Professionnel de Prévention du BTP) | Prévention, formation HSE | Partenariats formation, légitimité HSE |
+| **FFB** (Fédération Française du Bâtiment) | Syndicat patronal bâtiment | Réseau, prescripteurs formation |
+| **EGFBTP** (Syndicat des Entreprises Générales de France) | Majors du BTP | Accès décideurs grands groupes |
 
 #### Process de référencement
 1. Qualification fournisseur (documents administratifs, références)
 2. Évaluation technique (expertise, CV consultants)
 3. Proposition commerciale
 4. Contrat-cadre ou mission ponctuelle
+
+#### Approche commerciale HSE International
+
+**Stratégie : Veille + Réponse aux Appels d'Offres**
+
+| Étape | Action | Outils/Sources |
+|-------|--------|----------------|
+| **Veille AO** | Monitoring appels d'offres HSE/BTP international | TED (Europe), BOAMP, plateformes sectorielles |
+| **Qualification** | Analyse critères, go/no-go | Matrice de scoring interne |
+| **Réponse** | Montage dossier, références, CV consultants | Templates standardisés |
+| **Suivi** | Relances, debriefs perdus | CRM |
+
+**Prérequis** :
+- Base de CV consultants qualifiés et disponibles
+- Références documentées (projets, clients, zones géographiques)
+- Capacité de réponse rapide (délais AO souvent courts)
 
 ### 2.3 Zones géographiques prioritaires
 
@@ -130,13 +160,13 @@ Le marché du consulting HSE (Hygiène, Sécurité, Environnement) pour les gran
 | **Socotec** | Inspection, conseil | Expertise technique | Lourd |
 | **Cabinets indépendants** | Niche, flexibles | Réactivité, prix | Capacité limitée |
 
-### 3.3 Positionnement différenciant Azimut
+### 3.3 Positionnement différenciant Cresceo
 
 ```
                     EXPERTISE IA
                          ↑
                          |
-        Cegos    ←-------+-------→    Azimut (cible)
+        Cegos    ←-------+-------→    Cresceo (cible)
         Demos            |            CAD 42
                          |
                          |
@@ -155,7 +185,7 @@ Le marché du consulting HSE (Hygiène, Sécurité, Environnement) pour les gran
 
 ---
 
-## 4. Matrice SWOT Azimut
+## 4. Matrice SWOT Cresceo
 
 ### Forces (Strengths)
 - Expertise IA + HSE combinée (rare)

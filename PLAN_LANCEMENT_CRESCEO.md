@@ -220,7 +220,7 @@ cresceo.com         → Redirection vers cresceo.fr
 | Domaines (.fr + .com) | 27€/an |
 | Dépôt marque INPI | 190€ |
 | Emails (Zoho gratuit) | 0€ |
-| Logo + Charte (Éloïse - option B) | 1 500€ |
+| Logo + Charte graphique (Éloïse) | ~1 500€ |
 | Site web V1 (Baptiste) | 0€ (interne) |
 | **Total lancement** | **~1 720€** |
 

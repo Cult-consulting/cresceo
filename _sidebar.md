@@ -7,6 +7,7 @@
 
 * **Ateliers**
   * [Atelier Business Plan](ATELIER_BP_AGENDA.md)
+  * [Atelier MKG/Com](ATELIER_MKG_AGENDA.md)
   * [Atelier CAD42](ATELIER_CAD42_AGENDA.md)
 
 * **Identité**

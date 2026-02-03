@@ -1,6 +1,6 @@
 # Atelier Rampe de Lancement CAD 42 - Agenda & Préparation
 
-**Date** : À planifier (après atelier BP)
+**Date** : À planifier (après ateliers BP et MKG/Com du 4 février)
 **Participants** : Igor, Baptiste, Jean-Philippe Panaget, Raphaël Garcia-Brotons
 **Durée estimée** : 2h
 **Objectif** : Structurer le partenariat CAD 42 comme accélérateur de lancement
@@ -13,12 +13,12 @@
 
 **Point clé** : CAD 42 n'est pas structuré pour la formation (pas de certification Qualiopi, pas de vocation OF). Leur cœur de métier reste le développement et la maintenance de logiciels métiers.
 
-**Azimut** devient donc le partenaire naturel pour assurer les formations liées aux solutions CAD 42, permettant à CAD 42 de :
+**Cresceo** devient donc le partenaire naturel pour assurer les formations liées aux solutions CAD 42, permettant à CAD 42 de :
 - Proposer un accompagnement complet à ses clients (logiciel + formation)
 - Se concentrer sur son cœur de métier (logiciels)
 - Valoriser son portefeuille clients sans investir dans une structure OF
 
-Azimut bénéficie de cette rampe de lancement pour :
+Cresceo bénéficie de cette rampe de lancement pour :
 1. Accéder rapidement à des clients qualifiés BTP
 2. Créer des formations autour des outils CAD 42
 3. Construire sa crédibilité via des références majors
@@ -33,7 +33,7 @@ Azimut bénéficie de cette rampe de lancement pour :
 
 #### Template à compléter avec JP/Raph
 
-| Client | Secteur | Relation CAD42 | Contact clé | Potentiel Formation IA | Pilote Azimut | Priorité |
+| Client | Secteur | Relation CAD42 | Contact clé | Potentiel Formation IA | Pilote Cresceo | Priorité |
 |--------|---------|----------------|-------------|----------------------|---------------|----------|
 | Vinci | BTP Major | Client actif | ? | Élevé | **Julien** (voir note) | 1 |
 | Bouygues | BTP Major | Client actif | ? | Élevé | Igor/Équipe | 2 |
@@ -41,7 +41,7 @@ Azimut bénéficie de cette rampe de lancement pour :
 | Eiffage | BTP Major | Prospect ? | ? | Moyen | Igor/Équipe | 3 |
 | ... | | | | | | |
 
-> **⚠️ Note Vinci** : Igor travaille pour Spiraliss (50% de son activité), qui a un contrat-cadre avec Vinci. Pour éviter tout conflit d'intérêt ou inconfort, Julien pourrait piloter l'approche commerciale Vinci côté Azimut, Igor intervenant uniquement sur la délivrance pédagogique si nécessaire.
+> **⚠️ Note Vinci** : Igor travaille pour Spiraliss (50% de son activité), qui a un contrat-cadre avec Vinci. Pour éviter tout conflit d'intérêt ou inconfort, Julien pourrait piloter l'approche commerciale Vinci côté Cresceo, Igor intervenant uniquement sur la délivrance pédagogique si nécessaire.
 
 **Questions à JP/Raph :**
 - [ ] Quels clients CAD 42 ont déjà exprimé un besoin formation IA ?
@@ -56,7 +56,7 @@ Azimut bénéficie de cette rampe de lancement pour :
 **Objectif** : Définir ce que la nouvelle structure peut proposer immédiatement
 
 #### Scénario 1 : Prestation de service
-CAD 42 vend une prestation globale (logiciel + accompagnement) → Azimut délivre la partie formation
+CAD 42 vend une prestation globale (logiciel + accompagnement) → Cresceo délivre la partie formation
 
 | Avantages | Inconvénients |
 |-----------|---------------|
@@ -67,16 +67,16 @@ CAD 42 vend une prestation globale (logiciel + accompagnement) → Azimut déliv
 *Note : CAD 42 n'étant pas certifié Qualiopi, les formations ne sont pas éligibles OPCO dans ce scénario*
 
 #### Scénario 2 : Co-branding
-"Formation par CAD 42 & Azimut"
+"Formation par CAD 42 & Cresceo"
 
 | Avantages | Inconvénients |
 |-----------|---------------|
-| Visibilité Azimut | Complexité contractuelle |
+| Visibilité Cresceo | Complexité contractuelle |
 | Crédibilité partagée | Partage revenus |
 | Construction marque | Image floue |
 
 #### Scénario 3 : Apport d'affaires pur
-CAD 42 recommande → Azimut contracte directement
+CAD 42 recommande → Cresceo contracte directement
 
 | Avantages | Inconvénients |
 |-----------|---------------|
@@ -107,16 +107,16 @@ CAD 42 recommande → Azimut contracte directement
 
 | Élément | Propriétaire | Utilisation |
 |---------|--------------|-------------|
-| Contenus formations existantes CAD42 | CAD 42 | Licence à Azimut ? |
+| Contenus formations existantes CAD42 | CAD 42 | Licence à Cresceo ? |
 | Nouveaux contenus co-développés | À définir | 50/50 ? |
 | Marque CAD 42 | CAD 42 | Usage limité co-branding |
-| Marque Azimut | Azimut | Exclusive |
+| Marque Cresceo | Cresceo | Exclusive |
 | Base clients | CAD 42 | Accès via apport affaires |
 
 **Questions juridiques à trancher :**
 - [ ] Qui rédige le contrat ? (Avocat commun ou chacun le sien ?)
-- [ ] Quid si conflit entre CAD 42 et Azimut ?
-- [ ] Clause de sortie pour JP/Raph (ils sont aussi associés Azimut)
+- [ ] Quid si conflit entre CAD 42 et Cresceo ?
+- [ ] Clause de sortie pour JP/Raph (ils sont aussi associés Cresceo)
 
 ---
 
@@ -131,7 +131,7 @@ CAD 42 recommande → Azimut contracte directement
 |--------|-------------|----------|
 | Identifier 3 clients CAD42 prioritaires | JP/Raph | Liste qualifiée |
 | Adapter 1-2 formations existantes | Igor | Programmes personnalisés |
-| Première vente sous-traitée | CAD42 → Azimut | 1er CA |
+| Première vente sous-traitée | CAD42 → Cresceo | 1er CA |
 | Setup facturation | Baptiste | Process validé |
 
 #### Phase 2 : Structuration (Mois 4-6)
@@ -157,7 +157,7 @@ CAD 42 recommande → Azimut contracte directement
 
 ### 6. Vision Moyen/Long Terme (10 min)
 
-**Objectif** : Aligner sur la trajectoire de développement d'Azimut au-delà du BTP
+**Objectif** : Aligner sur la trajectoire de développement d'Cresceo au-delà du BTP
 
 #### Roadmap de développement commercial
 
@@ -172,7 +172,7 @@ CAD 42 recommande → Azimut contracte directement
 - [ ] Comment intégrer de nouveaux apporteurs d'affaires sectoriels (industrie, agro...) sans créer de conflit ?
 - [ ] Quelle place pour les formations "non-BTP" dans la relation avec CAD 42 ?
 
-> **Vision** : Azimut doit pouvoir grandir au-delà du BTP tout en maintenant une relation forte avec CAD 42. Le partenariat CAD 42 est un accélérateur de démarrage, pas une dépendance structurelle.
+> **Vision** : Cresceo doit pouvoir grandir au-delà du BTP tout en maintenant une relation forte avec CAD 42. Le partenariat CAD 42 est un accélérateur de démarrage, pas une dépendance structurelle.
 
 ---
 
@@ -270,11 +270,11 @@ CAD 42 recommande → Azimut contracte directement
 
 ## Annexe : Questions Fréquentes
 
-**Q : Et si un client CAD42 veut contracter directement avec Azimut ?**
+**Q : Et si un client CAD42 veut contracter directement avec Cresceo ?**
 A : Commission due à CAD42 pendant la durée du contrat (à définir)
 
 **Q : Qui gère la relation client au quotidien ?**
-A : À définir selon le modèle (CAD42 si sous-traitance, Azimut si apport affaires)
+A : À définir selon le modèle (CAD42 si sous-traitance, Cresceo si apport affaires)
 
 **Q : Quid des formations hors scope IA/BTP ?**
 A : Restent chez CAD42, pas de transfert

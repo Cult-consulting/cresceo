@@ -9,3 +9,6 @@ Slides_Synthese_Baptiste.md
 # Fichiers temporaires
 .DS_Store
 Thumbs.db
+
+# Dossier CTO (docs tech internes, pas sur Docsify)
+CTO/

@@ -16,9 +16,9 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ## Ordre du Jour (60 min)
 
-### 1. Validation Répartition des Parts (20 min)
+### 1. Validation Répartition des Parts (5 min)
 
-**Objectif** : Valider les pourcentages exacts
+**Objectif** : Valider rapidement les pourcentages exacts
 
 | Point | Décision attendue |
 |-------|-------------------|
@@ -32,7 +32,39 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ---
 
-### 2. Domiciliation & Optimisation Fiscale (10 min)
+### 2. Revue des Projections Financières (20 min)
+
+**Objectif** : Valider les hypothèses et chiffres clés du BP
+
+**Support** : [Business Plan](Business%20Plan%20Organisme%20Formation%20IA.md) - Sections 6 & 7
+
+#### Budget de lancement (14 950€)
+
+| Poste | Coût | À valider |
+|-------|------|-----------|
+| Juridique (Captain Contrat/Qonto) | 400€ | OK ? |
+| IT & Outils (LMS, CRM, APIs) | 1 200€ | Setup suffisant ? |
+| Marketing (Site + Ads) | 4 000€ | Répartition OK ? |
+| Qualiopi (audit initial) | 1 700€ | Organisme identifié ? |
+
+#### Compte de résultat prévisionnel
+
+| Indicateur | Y1 | Y2 | Y3 |
+|------------|----|----|----|
+| **CA** | 60k€ | 120k€ | 240k€ |
+| Charges production | 38k€ | 77k€ | 154k€ |
+| Charges fixes | 12k€ | 20k€ | 34k€ |
+| **EBIT** | **10k€** (17%) | **23k€** (19%) | **52k€** (22%) |
+
+**Questions à valider** :
+- [ ] Hypothèse CA Y1 (60k€ = ~50 formations) réaliste ?
+- [ ] TJM formateurs (350€) et commission apporteurs (10%) OK ?
+- [ ] Charges fixes mensuelles (~970€ Y1) couvertes par tréso initiale ?
+- [ ] BFR OPCO (délai 60-90j) : besoin compte courant associés ?
+
+---
+
+### 3. Domiciliation & Optimisation Fiscale (10 min)
 
 **Objectif** : Valider l'option BUD Douai (orientation privilégiée)
 
@@ -49,7 +81,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ---
 
-### 3. Expert-Comptable & Subventions (10 min)
+### 4. Expert-Comptable & Subventions (10 min)
 
 **Objectif** : Identifier le bon profil comptable et les pistes de financement
 
@@ -69,7 +101,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ---
 
-### 4. Prochaines Étapes & Actions (15 min)
+### 5. Prochaines Étapes & Actions (10 min)
 
 **Objectif** : Répartir les actions concrètes
 
@@ -86,7 +118,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ---
 
-### 5. Wrap-up (5 min)
+### 6. Wrap-up (5 min)
 
 - [ ] Récap décisions prises
 - [ ] Date atelier follow-up si nécessaire
@@ -96,6 +128,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ## Documents de Référence
 
+- [Business Plan](Business%20Plan%20Organisme%20Formation%20IA.md) - **Projections financières détaillées**
 - [CONTEXTE_PROJET.md](CONTEXTE_PROJET.md) - Vue d'ensemble projet
 - [PACTE_ASSOCIES_DRAFT.md](PACTE_ASSOCIES_DRAFT.md) - Draft pacte associés
 - [PLAN_LANCEMENT_CRESCEO.md](PLAN_LANCEMENT_CRESCEO.md) - Plan de lancement
@@ -124,8 +157,14 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 | Raph | ? |
 | Éloïse | ? |
 
+### Projections financières
+- Budget lancement validé : Oui / Non (ajustements : ...)
+- CA Y1 (60k€) : Réaliste / Optimiste / Pessimiste
+- Charges fixes (~970€/mois) : OK / À ajuster
+- BFR OPCO : Couvert par capital / Compte courant nécessaire
+
 ### Domiciliation
-- Choix : ZFU Saint-Denis / BUD Douai
+- Choix : BUD Douai / Autre
 
 ### Capital social
 - Montant : ?

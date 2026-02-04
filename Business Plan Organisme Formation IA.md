@@ -109,20 +109,27 @@ La structure capitalise sur :
 
 ---
 
-## 6. Budget de Lancement
+## 6. Budget de Lancement (investissement initial, avant premier CA)
 
 | Phase | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
 | 1. Juridique | Pacte associés, Statuts, Greffe | 2,5j | 875€ | 1 500€ | 2 375€ |
 | 2. Pédagogie | Catalogue 3 modules, vidéos IA | 3,0j | 1 050€ | 500€ | 1 550€ |
-| 3. IT & Outils | LMS Digiforma, site web, APIs IA | 2,5j | 875€ | 1 200€ | 2 075€ |
+| 3. IT & Outils | LMS Digiforma (setup), CRM, APIs IA | 2,5j | 875€ | 1 200€ | 2 075€ |
 | 4. Admin & NDA | Dossier DREETS, convention, compta | 2,0j | 700€ | 0€ | 700€ |
-| 5. Marketing | Landing page, Lead Magnet, Ads | 3,0j | 1 050€ | 4 000€ | 5 050€ |
+| 5. Marketing | Site web, Lead Magnet, Ads lancement | 3,0j | 1 050€ | 4 000€ | 5 050€ |
 | 6. Qualiopi | Dossier preuves, Audit blanc + Initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
 | 7. Sales/Launch | Briefing, sourcing formateurs, webinaire | 2,0j | 700€ | 500€ | 1 200€ |
 | **TOTAL** | | **19j** | **6 650€** | **9 400€** | **16 050€** |
 
 **TJM interne** : 350€
+
+**Détail Marketing (4 000€ externes)** :
+- Site web design/intégration : ~1 500€
+- Création Lead Magnet (ebook, templates) : ~500€
+- Budget Ads lancement Google/LinkedIn : ~2 000€
+
+*Note : Ce budget de lancement est distinct du compte de résultat. Il est financé par le capital social et/ou compte courant d'associés.*
 
 ---
 
@@ -141,31 +148,35 @@ La structure capitalise sur :
 | *Abonnements API / Outils IA* | 2 500€ | 4 500€ | 8 500€ |
 | *Matériel pédagogique (supports, licences)* | 1 000€ | 2 000€ | 4 000€ |
 | | | | |
-| **Charges de Structure** | **(14 800€)** | **(22 300€)** | **(36 300€)** |
+| **Charges de Structure (fixes)** | **(11 600€)** | **(19 800€)** | **(33 800€)** |
 | *Assurance RC Pro* | 1 200€ | 1 500€ | 2 500€ |
 | *Frais fonctionnement (Web, Tel, Zoom, CRM)* | 2 400€ | 3 600€ | 5 400€ |
 | *Honoraires Compta/Juridique* | 3 000€ | 4 000€ | 6 000€ |
 | *Frais bancaires* | 400€ | 600€ | 900€ |
 | *Frais de mission (déplacements, hébergement)* | 2 000€ | 4 000€ | 8 000€ |
-| *Certification Qualiopi (initial + audits)* | 4 000€ | 2 500€ | 3 500€ |
-| *Marketing & Communication* | 1 800€ | 6 100€ | 10 000€ |
+| *Qualiopi (hors audit initial = budget lancement)* | 800€ | 2 500€ | 3 500€ |
+| *Marketing & Communication* | 1 800€ | 3 600€ | 7 500€ |
+
+*Note : Charges de production = variables (existent seulement si CA). Charges de structure = fixes (à payer même sans activité).*
 | | | | |
 | **Charges Marketing détaillées** | | | |
 | *Budget publicitaire (Ads, SEO)* | 1 000€ | 4 000€ | 7 000€ |
 | *Événementiel BTP (salons, networking)* | 800€ | 2 100€ | 3 000€ |
 | | | | |
-| **Résultat d'Exploitation (EBIT)** | **5 700€** | **19 200€** | **47 200€** |
-| **Marge Opérationnelle (%)** | **9,5%** | **16%** | **19,7%** |
+| **Résultat d'Exploitation (EBIT)** | **8 900€** | **21 700€** | **49 700€** |
+| **Marge Opérationnelle (%)** | **14,8%** | **18,1%** | **20,7%** |
 
 ### 7.2 Détail Certification Qualiopi
 
-| Poste | Année 1 | Année 2 | Année 3 | Notes |
-|-------|---------|---------|---------|-------|
-| Audit initial | 1 700€ | - | - | Obligatoire pour obtenir la certification |
-| Préparation/audit blanc | 1 500€ | - | - | Recommandé pour maximiser chances |
-| Audit de surveillance | - | 1 200€ | 1 200€ | Annuel obligatoire |
-| Mise à jour documentaire | 800€ | 1 300€ | 2 300€ | Process, indicateurs, preuves |
-| **Total Qualiopi** | **4 000€** | **2 500€** | **3 500€** | |
+| Poste | Budget lancement | Année 1 | Année 2 | Année 3 | Notes |
+|-------|-----------------|---------|---------|---------|-------|
+| Audit initial | 1 700€ | - | - | - | Inclus dans budget lancement |
+| Préparation/audit blanc | 1 400€ (TJM) | - | - | - | Inclus dans budget lancement |
+| Audit de surveillance | - | - | 1 200€ | 1 200€ | Annuel obligatoire (à partir de Y2) |
+| Mise à jour documentaire | - | 800€ | 1 300€ | 2 300€ | Process, indicateurs, preuves |
+| **Total** | **3 100€** | **800€** | **2 500€** | **3 500€** | |
+
+*Note : L'audit initial est comptabilisé dans le budget de lancement (section 6), pas dans le compte de résultat Y1, pour éviter le double comptage.*
 
 ### 7.3 Gestion du BFR (Besoin en Fonds de Roulement)
 
@@ -198,11 +209,15 @@ La structure capitalise sur :
 |-----|---------|---------|---------|
 | CA | 60 000€ | 120 000€ | 240 000€ |
 | Marge brute (après production) | 34% | 35% | 35% |
-| Marge opérationnelle | 9,5% | 16% | 19,7% |
-| Point mort mensuel | ~4 500€ | ~6 800€ | ~13 000€ |
-| Trésorerie minimum recommandée | 7 500€ | 16 000€ | 32 000€ |
+| Marge opérationnelle | 14,8% | 18,1% | 20,7% |
+| **Charges fixes mensuelles** | **~970€** | **~1 650€** | **~2 800€** |
+| Trésorerie recommandée (2 mois fixes + BFR) | 7 000€ | 15 000€ | 32 000€ |
 
-*Hypothèses : TJM formateurs 350€, commission apporteurs 10%, pas de salariés (associés en TJM)*
+**Charges fixes = "burn rate" si aucune activité** (assurance, abonnements, compta, etc.)
+
+**Charges variables = existent seulement si CA** (formateurs TJM, commissions apporteurs, frais mission)
+
+*Hypothèses : TJM formateurs 350€, commission apporteurs 10%, pas de salariés (associés rémunérés en TJM sur missions)*
 
 ---
 

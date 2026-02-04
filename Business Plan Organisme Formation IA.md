@@ -278,7 +278,7 @@ La structure capitalise sur :
 - [ ] **Atelier BP** (4 février 2026) - Igor, Julien, Baptiste
 - [ ] Validation répartition des parts
 - [ ] Choix domiciliation (BUD Douai privilégié)
-- [ ] Achat domaines cresceo.fr / cresceo.com
+- [ ] Achat domaines cresceo.fr / cresceo.fr
 - [ ] Dépôt marque INPI
 - [ ] Finalisation pacte d'associés
 - [ ] Création juridique SAS (mars 2026)

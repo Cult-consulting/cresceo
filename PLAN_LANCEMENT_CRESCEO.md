@@ -9,11 +9,13 @@
 
 ### Actions immédiates (à faire cette semaine)
 
-| Action | Priorité | Coût estimé | Responsable |
-|--------|----------|-------------|-------------|
-| Acheter **cresceo.fr** | CRITIQUE | ~12€/an | Baptiste |
-| Acheter **cresceo.com** | HAUTE | ~15€/an | Baptiste |
-| Optionnel : cresceo.eu | BASSE | ~10€/an | - |
+| Action | Priorité | Coût estimé | Responsable | Statut |
+|--------|----------|-------------|-------------|--------|
+| Acheter **cresceo.fr** | CRITIQUE | ~12€/an | Baptiste | À faire |
+| ~~Acheter cresceo.com~~ | ~~HAUTE~~ | - | - | **Non disponible** |
+| Optionnel : cresceo.eu | BASSE | ~10€/an | - | À évaluer |
+
+*Note : cresceo.com n'est pas disponible. Alternatives possibles : cresceo-formation.com, cresceo-consulting.com, ou rester sur .fr uniquement (suffisant pour marché France).*
 
 ### Registrars recommandés
 - **OVH** : Bon rapport qualité/prix, interface française
@@ -25,7 +27,6 @@
 cresceo.fr          → Site principal (Cloudflare Pages ou GitHub Pages)
 www.cresceo.fr      → Redirection vers cresceo.fr
 mail.cresceo.fr     → Configuration email (MX records)
-cresceo.com         → Redirection vers cresceo.fr
 ```
 
 ### Emails professionnels

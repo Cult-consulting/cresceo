@@ -38,13 +38,13 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 **Support** : [Business Plan](Business%20Plan%20Organisme%20Formation%20IA.md) - Sections 6 & 7
 
-#### Budget de lancement (14 950€)
+#### Budget de lancement (~15 000€)
 
 | Poste | Coût | À valider |
 |-------|------|-----------|
-| Juridique (Captain Contrat/Qonto) | 400€ | OK ? |
+| Juridique (Captain Contrat + Avocat pacte/CGV) | 1 900€ | Avocat identifié ? |
 | IT & Outils (LMS, CRM, APIs) | 1 200€ | Setup suffisant ? |
-| Marketing (Site + Ads) | 4 000€ | Répartition OK ? |
+| Marketing (Charte/logo + Ads, site DIY) | 2 500€ | Répartition OK ? |
 | Qualiopi (audit initial) | 1 700€ | Organisme identifié ? |
 
 #### Compte de résultat prévisionnel
@@ -53,8 +53,8 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 |------------|----|----|----|
 | **CA** | 60k€ | 120k€ | 240k€ |
 | Charges production | 38k€ | 77k€ | 154k€ |
-| Charges fixes | 12k€ | 20k€ | 34k€ |
-| **EBIT** | **10k€** (17%) | **23k€** (19%) | **52k€** (22%) |
+| Charges fixes | 11k€ | 20k€ | 34k€ |
+| **EBIT** | **10k€** (17%) | **24k€** (20%) | **53k€** (22%) |
 
 **Questions à valider** :
 - [ ] Hypothèse CA Y1 (60k€ = ~50 formations) réaliste ?

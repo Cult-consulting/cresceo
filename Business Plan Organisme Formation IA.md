@@ -113,21 +113,25 @@ La structure capitalise sur :
 
 | Phase | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| 1. Juridique | Pacte associés, Statuts via Captain Contrat/Qonto | 2,5j | 875€ | 400€ | 1 275€ |
+| 1. Juridique | Statuts (Captain Contrat) + Pacte associés + CGV (avocat) | 2,5j | 875€ | 1 900€ | 2 775€ |
 | 2. Pédagogie | Catalogue 3 modules, vidéos IA | 3,0j | 1 050€ | 500€ | 1 550€ |
 | 3. IT & Outils | LMS Digiforma (setup), CRM, APIs IA | 2,5j | 875€ | 1 200€ | 2 075€ |
 | 4. Admin & NDA | Dossier DREETS, convention, compta | 2,0j | 700€ | 0€ | 700€ |
-| 5. Marketing | Site web, Lead Magnet, Ads lancement | 3,0j | 1 050€ | 4 000€ | 5 050€ |
+| 5. Marketing | Charte graphique/logo, Ads lancement (site DIY) | 2,0j | 700€ | 2 500€ | 3 200€ |
 | 6. Qualiopi | Dossier preuves, Audit blanc + Initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
 | 7. Sales/Launch | Briefing, sourcing formateurs, webinaire | 2,0j | 700€ | 500€ | 1 200€ |
-| **TOTAL** | | **19j** | **6 650€** | **8 300€** | **14 950€** |
+| **TOTAL** | | **18j** | **6 300€** | **8 300€** | **14 600€** |
 
 **TJM interne** : 350€
 
-**Détail Marketing (4 000€ externes)** :
-- Site web design/intégration : ~1 500€
-- Création Lead Magnet (ebook, templates) : ~500€
-- Budget Ads lancement Google/LinkedIn : ~2 000€
+**Détail Juridique (1 900€ externes)** :
+- Création SAS via Captain Contrat/Qonto : ~400€
+- Pacte d'associés + CGV (avocat spécialisé) : ~1 500€
+
+**Détail Marketing (2 500€ externes)** :
+- Charte graphique + logo (Éloïse) : ~1 000€
+- Budget Ads lancement Google/LinkedIn : ~1 500€
+- Site web : DIY (Baptiste + Claude)
 
 *Note : Ce budget de lancement représente l'investissement initial avant le premier CA. Il est financé par le capital social et/ou compte courant d'associés. Les charges récurrentes en Y1 (P&L) prennent le relais après cette phase de lancement.*
 
@@ -148,14 +152,14 @@ La structure capitalise sur :
 | *Abonnements API / Outils IA (120€/mois Y1)* | 1 440€ | 2 900€ | 5 800€ |
 | *Matériel pédagogique (supports, licences)* | 1 000€ | 2 000€ | 4 000€ |
 | | | | |
-| **Charges de Structure (fixes)** | **(11 600€)** | **(19 800€)** | **(33 800€)** |
+| **Charges de Structure (fixes)** | **(11 300€)** | **(19 500€)** | **(33 500€)** |
 | *Assurance RC Pro* | 1 200€ | 1 500€ | 2 500€ |
 | *Frais fonctionnement (Web, Tel, Zoom, CRM)* | 2 400€ | 3 600€ | 5 400€ |
 | *Honoraires Compta/Juridique* | 3 000€ | 4 000€ | 6 000€ |
 | *Frais bancaires* | 400€ | 600€ | 900€ |
 | *Frais de mission (déplacements, hébergement)* | 2 000€ | 4 000€ | 8 000€ |
 | *Qualiopi (hors audit initial = budget lancement)* | 800€ | 2 500€ | 3 500€ |
-| *Marketing & Communication* | 1 800€ | 3 600€ | 7 500€ |
+| *Marketing & Communication (site DIY, Ads linéaires)* | 1 500€ | 3 300€ | 7 200€ |
 
 *Note : Charges de production = variables (existent seulement si CA). Charges de structure = fixes (à payer même sans activité).*
 | | | | |
@@ -163,8 +167,8 @@ La structure capitalise sur :
 | *Budget publicitaire (Ads, SEO)* | 1 000€ | 4 000€ | 7 000€ |
 | *Événementiel BTP (salons, networking)* | 800€ | 2 100€ | 3 000€ |
 | | | | |
-| **Résultat d'Exploitation (EBIT)** | **9 960€** | **23 300€** | **52 400€** |
-| **Marge Opérationnelle (%)** | **16,6%** | **19,4%** | **21,8%** |
+| **Résultat d'Exploitation (EBIT)** | **10 260€** | **23 600€** | **52 700€** |
+| **Marge Opérationnelle (%)** | **17,1%** | **19,7%** | **22,0%** |
 
 ### 7.2 Détail Certification Qualiopi
 
@@ -209,8 +213,8 @@ La structure capitalise sur :
 |-----|---------|---------|---------|
 | CA | 60 000€ | 120 000€ | 240 000€ |
 | Marge brute (après production) | 36% | 36% | 36% |
-| Marge opérationnelle | 16,6% | 19,4% | 21,8% |
-| **Charges fixes mensuelles** | **~970€** | **~1 650€** | **~2 800€** |
+| Marge opérationnelle | 17,1% | 19,7% | 22,0% |
+| **Charges fixes mensuelles** | **~940€** | **~1 625€** | **~2 790€** |
 | Trésorerie recommandée (2 mois fixes + BFR) | 7 000€ | 15 000€ | 32 000€ |
 
 **Charges fixes = "burn rate" si aucune activité** (assurance, abonnements, compta, etc.)

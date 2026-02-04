@@ -115,41 +115,44 @@ La structure capitalise sur :
 - **Phase 1** : Incompressibles (création juridique, setup minimal)
 - **Phase 2** : Post-rampe CAD42 (Qualiopi, Ads, développement)
 
-### 6.1 Phase 1 : Lancement minimal (~5 000€)
+### 6.1 Phase 1 : Lancement minimal (~6 500€)
 
 | Poste | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| Juridique | Création SAS (Captain Contrat) | 1,0j | 350€ | 400€ | 750€ |
+| Juridique | Création SAS (Captain Contrat) + Pacte associés + CGV (avocat) | 2,5j | 875€ | 1 900€ | 2 775€ |
 | Pédagogie | Catalogue 1 module MVP | 1,0j | 350€ | 500€ | 850€ |
 | IT & Outils | Setup minimal (CRM, outils basiques) | 0,5j | 175€ | 500€ | 675€ |
 | Admin & NDA | Dossier DREETS, convention | 2,0j | 700€ | 0€ | 700€ |
-| Marketing | Logo + charte graphique (site DIY) | 0,5j | 175€ | 1 000€ | 1 175€ |
+| Marketing | Logo + charte graphique (budget Éloïse à proposer) | 0,5j | 175€ | À définir | À définir |
 | Sales/Launch | Briefing CAD42, sourcing formateurs | 1,0j | 350€ | 500€ | 850€ |
-| **TOTAL Phase 1** | | **6j** | **2 100€** | **2 900€** | **5 000€** |
+| **TOTAL Phase 1** | | **7,5j** | **2 625€** | **~3 900€** | **~6 500€** |
 
-### 6.2 Phase 2 : Développement post-validation marché (~9 500€)
+*Note Juridique : Le pacte d'associés et les CGV sont incompressibles en Phase 1 (enjeux : convention, clauses de non-concurrence, gouvernance).*
+
+*Note Marketing : Éloïse doit proposer un budget setup (logo/charte) Phase 1, puis un budget mensuel TJM pour la montée en puissance com (fin Phase 1 / Phase 2).*
+
+### 6.2 Phase 2 : Développement post-validation marché (~8 000€)
 
 | Poste | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| Juridique | Pacte associés + CGV (avocat) | 1,5j | 525€ | 1 500€ | 2 025€ |
 | Pédagogie | Catalogue complet (2 modules add.) | 2,0j | 700€ | 0€ | 700€ |
 | IT & Outils | LMS Digiforma, APIs IA | 2,0j | 700€ | 700€ | 1 400€ |
 | Marketing | Budget Ads Google/LinkedIn | 0,5j | 175€ | 1 500€ | 1 675€ |
 | Qualiopi | Dossier preuves, Audit initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
 | Webinaire | Webinaire de lancement | 1,0j | 350€ | 0€ | 350€ |
-| **TOTAL Phase 2** | | **11j** | **3 850€** | **5 400€** | **9 250€** |
+| **TOTAL Phase 2** | | **9,5j** | **3 325€** | **3 900€** | **~7 200€** |
 
 ### 6.3 Récapitulatif
 
 | Phase | Déclencheur | Budget |
 |-------|-------------|--------|
-| **Phase 1** | Création société | **~5 000€** |
-| **Phase 2** | Premières ventes CAD42 validées | **~9 500€** |
-| **TOTAL** | | **~14 500€** |
+| **Phase 1** | Création société | **~6 500€** |
+| **Phase 2** | Premières ventes CAD42 validées | **~7 200€** |
+| **TOTAL** | | **~13 700€** |
 
 **TJM interne** : 350€
 
-*Note : La Phase 1 permet de démarrer avec un investissement minimal. La Phase 2 est conditionnée à la validation de la réponse marché via les premières ventes CAD42.*
+*Note : La Phase 1 permet de démarrer avec un investissement minimal mais sécurisé juridiquement. La Phase 2 est conditionnée à la validation de la réponse marché via les premières ventes CAD42.*
 
 ---
 
@@ -193,10 +196,12 @@ La structure capitalise sur :
 
 **2 canaux de vente** :
 
-| Canal | CA estimé | Logique |
-|-------|-----------|---------|
-| **CAD42** | 40 000€ | Sous-traitance via 3 commerciaux CAD42 (focus prioritaire) |
-| **Réseau associés** | 20 000€ | Igor, Julien, Baptiste, JP/Raph (temps 2) |
+| Canal | CA estimé | Logique | Timing |
+|-------|-----------|---------|--------|
+| **CAD42** | 40 000€ | Sous-traitance via 3 commerciaux CAD42 | Focus prioritaire Phase 1 |
+| **Réseau associés** | 20 000€ | Igor, Julien, Baptiste, JP/Raph | **À démarrer dès maintenant** |
+
+*Note importante : Le canal "Réseau associés" doit être activé en parallèle de CAD42, malgré la logique de phasage. Raison : inertie importante en vente complexe B2B (grands groupes = cycles longs). Il faut anticiper pour que les premiers contacts réseau se concrétisent en Phase 2.*
 
 ### 7.2 Détail Certification Qualiopi
 

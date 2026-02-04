@@ -12,7 +12,7 @@
 
 ## Décisions prises
 
-### Répartition des parts (validé)
+### Répartition des parts (schéma validé, approbation unanime requise)
 
 | Associé | % | Catégorie |
 |---------|---|-----------|
@@ -26,6 +26,8 @@
 **Capital social** : 10 000€
 
 **Bloc de contrôle** : Igor + Baptiste + Julien = 76% (majorité qualifiée)
+
+*Note : Ce schéma doit recevoir l'approbation unanime de tous les associés avant finalisation.*
 
 ### Domiciliation
 
@@ -97,18 +99,24 @@
 | Action | Responsable | Échéance |
 |--------|-------------|----------|
 | Restructurer budget Phase 1/2 dans BP | Baptiste | 07/02 |
+| Proposer budget marketing setup (logo/charte) | Éloïse | 11/02 |
+| Proposer budget mensuel com (TJM) | Éloïse | 11/02 |
 | Écrire pipe de démarrage CAD42 | Igor + Baptiste | Avant 27/02 |
+| **Activer prospection réseau associés** | Igor, Julien, Baptiste | **Dès maintenant** |
 | Organiser atelier préambule marché | Igor + Julien | Avant 27/02 |
 | Sondage CPF conducteurs travaux | Igor | À définir |
 | Valider adresse BUD Douai | Igor | 11/02 |
+| Valider schéma parts avec tous les associés | Igor | 11/02 |
 
 ---
 
 ## Prochaines réunions
 
+**Point hebdomadaire acté** : Mercredi 15h (tous les associés actifs)
+
 | Date | Objet | Participants |
 |------|-------|--------------|
-| **11/02** | Follow-up BP / Validation | Igor, Julien, Baptiste |
+| **11/02** | Follow-up général | Igor, Julien, Baptiste, **Éloïse** |
 | **27/02** | Atelier Analyse Marché & Prospection | Igor, Julien, Baptiste |
 
 **Lieu atelier 27/02** : Lyon (présentiel)

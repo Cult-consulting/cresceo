@@ -1,14 +1,29 @@
 # Fichiers sensibles
 *.zip
 WhatsApp_*/
+WhatApp/
+
+# Fichiers binaires (pas sur Docsify)
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.docx
+*.xlsx
+
+# Dossiers privés
+DAF/
+CTO/
 
 # Fichiers privés (versions non-publiques)
 Presentation_Baptiste_Casnedi.md
 Slides_Synthese_Baptiste.md
 
+# Claude Code
+CLAUDE.md
+.claude/
+
 # Fichiers temporaires
 .DS_Store
 Thumbs.db
-
-# Dossier CTO (docs tech internes, pas sur Docsify)
-CTO/
+nul

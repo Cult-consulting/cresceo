@@ -16,6 +16,7 @@
 
 * **Juridique**
   * [Pacte d'Associés (Draft)](PACTE_ASSOCIES_DRAFT.md)
+  * [Statuts SAS (Draft)](STATUTS_SAS_DRAFT.md)
 
 * **Équipe**
   * [Slides Synthèse Baptiste](Slides_Synthese_Baptiste_public.md)

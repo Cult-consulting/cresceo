@@ -1,7 +1,7 @@
 # Pacte d'Associés - Préparation
 
-**Statut** : Draft - À valider en atelier BP
-**Date** : 2 février 2026 (mise à jour)
+**Statut** : Draft - À finaliser post-création SAS (Temps 2, voir STATUTS_SAS_DRAFT.md)
+**Date** : 11 février 2026 (mise à jour)
 
 ---
 
@@ -9,20 +9,20 @@
 
 Le pacte d'associés complète les statuts et régit les relations entre associés. Il est **confidentiel** (contrairement aux statuts déposés au greffe).
 
-### Tour de table - Structure en discussion
+### Tour de table - Répartition validée (4 février 2026)
 
-| Associé | Catégorie | Engagement | Logique |
-|---------|-----------|------------|---------|
-| Igor Cannone | Actif - Président | Temps plein | Part majoritaire |
-| Baptiste Casnedi | Actif - DG | Partiel | Bloc de contrôle |
-| Julien Gardette | Actif | Partiel | Bloc de contrôle |
-| Jean-Philippe Panaget | Passif | Apport affaires | Part minoritaire |
-| Raphaël Garcia-Brotons | Passif | Apport affaires | Part minoritaire |
-| Éloïse Bouveret | Actif | MKG/Com | Part mineure |
+| Associé | Catégorie | % Capital | Engagement | Via |
+|---------|-----------|-----------|------------|-----|
+| Igor Cannone | Actif - Président | **38%** | Temps significatif | Direct |
+| Baptiste Casnedi | Actif - DG | **19%** | Partiel | Direct |
+| Julien Gardette | Actif | **19%** | Partiel | Holding (en cours) |
+| Jean-Philippe Panaget | Passif | **9,5%** | Apport affaires | Holding (en cours) |
+| Raphaël Garcia-Brotons | Passif | **9,5%** | Apport affaires | Holding (en cours) |
+| Éloïse Bouveret | Actif | **5%** | MKG/Com (forfait EBCI) | Direct |
 
-**Bloc de contrôle** : Igor + Baptiste + Julien = majorité qualifiée (2/3)
+**Bloc de contrôle** : Igor + Baptiste + Julien = 76% (majorité qualifiée 2/3)
 
-*Répartition exacte à valider lors de l'atelier BP (4 février)*
+*Note : Les statuts SAS sont créés en Temps 1 (dès holdings prêtes). Le pacte d'associés est finalisé en Temps 2 (2-3 semaines après). Voir STATUTS_SAS_DRAFT.md pour les clauses de gouvernance couvrant le gap.*
 
 ---
 
@@ -81,6 +81,37 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 - [ ] Flexibilité en fonction du CA généré ?
 - [ ] Clause de "best efforts" plutôt que temps fixe ?
 - [ ] Période de référence pour le suivi (mensuel ? trimestriel ?)
+
+#### 2.1bis Rémunération pilotage — Compte Courant d'Associé (CCA)
+
+> **Mécanisme hybride : CCA + seuil de déclenchement TJM**
+
+Le temps consacré par les associés actifs au pilotage et à la gestion du projet (hors missions facturables à un client) est valorisé à **350€/jour** et géré comme suit :
+
+**Phase amorçage** (CA cumulé encaissé < seuil) :
+- Le temps de pilotage est tracké par chaque associé actif
+- Il est valorisé à 350€/jour et inscrit en **compte courant d'associé** (CCA)
+- La société reconnaît une dette envers l'associé, sans sortie de cash
+
+**Post-seuil** (CA cumulé encaissé ≥ seuil) :
+- Le TJM pilotage est payé en réel selon le temps tracké
+- Le solde CCA accumulé est remboursé progressivement, en fonction de la capacité de trésorerie
+
+| Paramètre | Proposition | À valider |
+|-----------|-------------|-----------|
+| **TJM pilotage** | 350€/jour | Consensus existant |
+| **Seuil de déclenchement** | 30 000€ CA cumulé encaissé | Autre seuil ? |
+| **Suivi du temps** | Déclaratif mensuel, validé par le DG | Autre méthode ? |
+| **Remboursement CCA** | Sur décision collective, préavis 3 mois | Automatique ? |
+| **Taux d'intérêt CCA** | Taux fiscal max déductible (BdF) | Sans intérêt ? |
+
+**Cas particulier Éloïse** : Son temps est couvert par le forfait EBCI (2 500€ HT année 1). Pas de CCA pilotage pour Éloïse sauf dépassement significatif du périmètre EBCI.
+
+**Questions à valider :**
+- [ ] Seuil de déclenchement (30K€ CA ? Point mort ? Autre ?)
+- [ ] Fréquence de déclaration du temps (mensuelle ? trimestrielle ?)
+- [ ] Plafond mensuel par associé (pour éviter les dérives)
+- [ ] CCA rémunéré (intérêts) ou non ?
 
 #### 2.2 Associés passifs (JP + Raph)
 
@@ -216,7 +247,24 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 | Formations créées pour Cresceo | Cresceo | 100% propriété société |
 | Méthodologies développées | Cresceo | Licence perpétuelle si départ |
 | Contenus préexistants | Créateur original | Licence à Cresceo |
-| Contenus CAD 42 adaptés | Voir accord CAD 42 | À définir |
+| **Modules A "Expertise Unifield"** | **À définir** | Structurés à partir de l'outil CAD42 — voir ci-dessous |
+| **Modules B "Innovation & Futur du BTP"** | **Cresceo** | Créés ex-nihilo, financés par CAD42, duplicables |
+| **Modules C "Culture Interne"** | **Cresceo** | Créés pour CAD42, offerts en investissement partenariat |
+
+#### 7.1bis Propriété intellectuelle — Modules CAD42 x CRESCEO
+
+La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes de PI distincts :
+
+| Programme | Contenu | PI proposée | Logique |
+|-----------|---------|-------------|---------|
+| **A. Expertise Unifield** | Modules structurés autour de l'outil Unifield (propriété CAD42) | **Licence croisée** : Cresceo détient l'ingénierie pédagogique, CAD42 conserve la PI sur Unifield. Cresceo peut réutiliser la méthodologie (pas l'outil) pour d'autres clients | L'outil est à CAD42, la pédagogie est à Cresceo |
+| **B. Innovation & Futur du BTP** | Modules créés ex-nihilo par Cresceo | **100% Cresceo** | Financés par CAD42 mais duplicables sans restriction |
+| **C. Culture Interne** | Modules de formation interne CAD42 | **Cresceo** (licence d'usage gratuite et perpétuelle à CAD42) | Offerts en investissement partenariat |
+
+**Questions à valider :**
+- [ ] Licence croisée sur les modules A : Cresceo peut-elle réutiliser la méthodologie hors Unifield ?
+- [ ] CAD42 a-t-elle un droit d'usage sur les modules B pour ses propres clients ?
+- [ ] Formaliser dans un accord séparé CAD42-Cresceo ou dans le pacte ?
 
 #### 7.2 En cas de départ
 
@@ -288,6 +336,9 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 | Non-exclusivité | Cresceo peut développer hors CAD 42 |
 | Durée engagement | 3 ans minimum, puis tacite reconduction |
 | Commission | À définir dans accord séparé (pas dans pacte) |
+| **Exception propale fondatrice** | **Pas de commission apporteurs** sur la propale initiale "CAD42 x CRESCEO" (ingénierie + animation). Logique : dossier fondateur commun, permet à CAD42 de bénéficier de formations à coût maîtrisé, modules duplicables pour Cresceo |
+
+*Note : La propale CAD42 x CRESCEO a été co-rédigée par Igor (Président) et Baptiste (DG). Pas de conflit d'intérêt identifié sur ce dossier.*
 
 #### 11.2 Évolution du capital
 
@@ -332,10 +383,12 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 ## Prochaines Étapes
 
-1. 🔲 **Validation clauses** - Atelier BP (semaine du 3 février)
-2. 🔲 **Rédaction draft** - Avocat ou modèle adapté
-3. 🔲 **Relecture collective** - Tous les associés
-4. 🔲 **Signature** - Avant création juridique
+1. ✅ **Validation répartition parts** - Atelier BP 4 février (unanimité)
+2. 🔲 **Compléter les checkboxes** - Points hebdos (en cours)
+3. 🔲 **Création SAS (Temps 1)** - Via Qonto, dès holdings prêtes (~fin février)
+4. 🔲 **Rédaction pacte final** - Avocat ou modèle adapté (2-3 semaines post-statuts)
+5. 🔲 **Relecture collective** - Tous les associés
+6. 🔲 **Signature pacte (Temps 2)** - Avant lancement propale CAD42
 
 ---
 
@@ -349,4 +402,4 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 ---
 
-*Document préparatoire - À compléter lors de l'atelier BP*
+*Document préparatoire - Mis à jour le 11 février 2026*

@@ -1,7 +1,7 @@
 # Business Plan Synthétique : Organisme de Formation IA & Performance
 
 **Nom** : Cresceo (validé par consensus - 31 janvier 2026)
-**Date de mise à jour** : 4 février 2026
+**Date de mise à jour** : 11 février 2026
 
 ---
 
@@ -69,7 +69,42 @@ La structure capitalise sur :
 | **Apport d'affaires** | 10% du CA HT | Contrat signé, encaissé et délai de rétractation passé |
 | **Prestation technique** | 350€ / jour | Qualiopi, Catalogue Formation, Supports pédagogiques |
 | **Prestation Admin/DAF** | 350€ / jour | Suivi comptable, pilotage financier et gestion admin |
+| **Pilotage / Gestion (CCA)** | 350€ / jour | Temps non facturable consacré au projet (voir §3bis) |
 | **Dividendes** | Pro rata du capital | Après clôture annuelle, mise en réserve légale et réserve de croissance |
+
+---
+
+## 3bis. Rémunération Pilotage Associés Actifs (Compte Courant d'Associé)
+
+**Problématique** : Les associés actifs consacrent du temps au pilotage et à la gestion du projet (non facturable à un client). Ce temps n'est ni de la production/formation, ni de l'apport d'affaires — c'est du management/structuration.
+
+**Mécanisme retenu** : Compte Courant d'Associé (CCA) + seuil de déclenchement
+
+### Phase amorçage (0 → seuil)
+
+Le temps de pilotage est tracké, valorisé à **350€/jour**, et inscrit en **compte courant d'associé** (CCA). La société a une dette envers les associés, mais pas de sortie de cash.
+
+### Post-seuil (CA cumulé encaissé > 30 000€)
+
+Le TJM pilotage est payé en réel à chaque associé actif selon le temps tracké. Le solde CCA accumulé en phase amorçage est remboursé progressivement quand la trésorerie le permet.
+
+### Estimation annuelle du temps de pilotage (Y1)
+
+| Associé | Activités pilotage | Estimation | Coût annuel (350€/j) |
+|---------|-------------------|-----------|---------------------|
+| Igor | Commercial, stratégie péda, partenariats | ~3-4 j/mois | 12 600 - 16 800€ |
+| Baptiste | DAF, CTO, structuration, juridique | ~2-3 j/mois | 8 400 - 12 600€ |
+| Julien | Expertise marché, réseau, prospection | ~1-2 j/mois | 4 200 - 8 400€ |
+| Éloïse | Marketing, communication | Inclus dans forfait EBCI (2 500€ HT) | 0€ |
+| **Total estimé Y1** | | | **25 200 - 37 800€** |
+
+**Impact sur le résultat** : Ce coût n'impacte pas la trésorerie tant que le seuil n'est pas atteint (inscrit en CCA = dette, pas une charge cash). Après le seuil, il apparaît comme charge de structure.
+
+**Avantages fiscaux** :
+- Les intérêts versés sur les CCA sont déductibles du résultat (dans la limite du taux fiscal)
+- Les CCA sont des créances des associés, prioritaires sur les capitaux propres
+
+*Note : Les modalités détaillées sont définies dans le pacte d'associés. Les statuts posent le cadre légal des CCA (article 24 des statuts).*
 
 ---
 
@@ -79,6 +114,31 @@ La structure capitalise sur :
 - Utilisation de la force commerciale de CAD 42
 - Transformation des prestations d'accompagnement actuelles en modules de formation sous-traités à la nouvelle structure
 - Quick wins sur portefeuille clients existant
+
+### 4bis. Propale CAD42 x CRESCEO — Rampe de lancement
+
+La première propale commerciale de Cresceo est une offre de formation à CAD42, structurée en 3 programmes (10 modules) :
+
+| Programme | Modules | Cible |
+|-----------|---------|-------|
+| A. "Expertise Unifield" | 3 modules | Utilisateurs actuels CAD42 |
+| B. "Innovation & Futur du BTP" | 5 modules | Nouveaux clients via CAD42 |
+| C. "Culture Interne" | 2 modules | Équipes internes CAD42 (OFFERT) |
+
+**Modèle économique :**
+
+| Volet | CA facturé | Coût interne (Igor TJM 350€/j) | Marge Cresceo |
+|-------|-----------|-------------------------------|--------------|
+| Ingénierie pédagogique (15j facturés + 2j offerts) | 17 490€ HT | 5 950€ | 11 540€ (66%) |
+| Animation (par jour de session) | 1 166€/jour | 350€/jour | 816€/jour (70%) |
+
+**Logique stratégique** :
+- CAD42 finance l'ingénierie pédagogique → Cresceo capitalise sur des modules **duplicables** pour d'autres clients
+- Pas de commission apporteurs sur ce dossier fondateur (eau au moulin commun)
+- Les modules C (culture interne) sont offerts comme investissement dans le partenariat
+- Le démarrage est conditionné à la création juridique de la SAS
+
+*Voir document complet : "Proposition de Partenariat de Formation _ CAD42 x CRESCEO.docx"*
 
 ### Phase 2 : Développement (6-18 mois)
 - Développement d'une identité propre
@@ -119,36 +179,38 @@ La structure capitalise sur :
 
 | Poste | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| Juridique | Création SAS (Captain Contrat) + Pacte associés + CGV (avocat) | 2,5j | 875€ | 1 900€ | 2 775€ |
-| Pédagogie | Catalogue 1 module MVP | 1,0j | 350€ | 500€ | 850€ |
+| Juridique | Création SAS (Qonto) + Pacte associés + CGV (avocat) | 2,5j | 875€ | 1 900€ | 2 775€ |
+| ~~Pédagogie~~ | ~~Catalogue 1 module MVP~~ | - | - | - | ~~850€~~ **0€** |
 | IT & Outils | Setup minimal (CRM, outils basiques) | 0,5j | 175€ | 500€ | 675€ |
 | Admin & NDA | Dossier DREETS, convention | 2,0j | 700€ | 0€ | 700€ |
-| Marketing | Logo + charte graphique (budget Éloïse à proposer) | 0,5j | 175€ | À définir | À définir |
+| Marketing | Acompte EBCI - setup identité visuelle (logo, charte, maquette site) | 0,5j | 175€ | 1 000 - 1 500€ | 1 175 - 1 675€ |
 | Sales/Launch | Briefing CAD42, sourcing formateurs | 1,0j | 350€ | 500€ | 850€ |
-| **TOTAL Phase 1** | | **7,5j** | **2 625€** | **~3 900€** | **~6 500€** |
+| **TOTAL Phase 1** | | **6,5j** | **2 275€** | **~3 900 - 4 400€** | **~6 175 - 6 675€** |
 
-*Note Juridique : Le pacte d'associés et les CGV sont incompressibles en Phase 1 (enjeux : convention, clauses de non-concurrence, gouvernance).*
+*Note Pédagogie : L'ingénierie pédagogique est désormais financée par la propale CAD42 x CRESCEO (voir §4bis). Le poste Pédagogie Phase 1 est supprimé.*
 
-*Note Marketing : Éloïse doit proposer un budget setup (logo/charte) Phase 1, puis un budget mensuel TJM pour la montée en puissance com (fin Phase 1 / Phase 2).*
+*Note Marketing : Devis EBCI (Éloïse Bouveret) validé à 2 500€ HT pour l'accompagnement marketing & communication année 1 (identité visuelle, maquette site web, vidéo, templates, gestion réseaux sociaux, stratégie). Paiement échelonné : acompte setup en Phase 1, solde en Phase 2.*
+
+*Note Juridique : Création SAS via Qonto (statuts 24h + certificat dépôt capital 12h). Pacte d'associés finalisé 2-3 semaines après. Voir STATUTS_SAS_DRAFT.md pour les clauses de gouvernance couvrant le gap.*
 
 ### 6.2 Phase 2 : Développement post-validation marché (~8 000€)
 
 | Poste | Action | Jours | Coût interne | Dépenses externes | Total |
 |-------|--------|-------|--------------|-------------------|-------|
-| Pédagogie | Catalogue complet (2 modules add.) | 2,0j | 700€ | 0€ | 700€ |
+| Marketing solde EBCI | Solde accompagnement marketing année 1 | - | - | 1 000 - 1 500€ | 1 000 - 1 500€ |
 | IT & Outils | LMS Digiforma, APIs IA | 2,0j | 700€ | 700€ | 1 400€ |
-| Marketing | Budget Ads Google/LinkedIn | 0,5j | 175€ | 1 500€ | 1 675€ |
+| Marketing Ads | Budget Ads Google/LinkedIn | 0,5j | 175€ | 1 500€ | 1 675€ |
 | Qualiopi | Dossier preuves, Audit initial | 4,0j | 1 400€ | 1 700€ | 3 100€ |
 | Webinaire | Webinaire de lancement | 1,0j | 350€ | 0€ | 350€ |
-| **TOTAL Phase 2** | | **9,5j** | **3 325€** | **3 900€** | **~7 200€** |
+| **TOTAL Phase 2** | | **7,5j** | **2 625€** | **~4 900 - 5 400€** | **~7 525 - 8 025€** |
 
 ### 6.3 Récapitulatif
 
 | Phase | Déclencheur | Budget |
 |-------|-------------|--------|
-| **Phase 1** | Création société | **~6 500€** |
-| **Phase 2** | Premières ventes CAD42 validées | **~7 200€** |
-| **TOTAL** | | **~13 700€** |
+| **Phase 1** | Création société | **~6 200 - 6 700€** |
+| **Phase 2** | Premières ventes CAD42 validées | **~7 500 - 8 000€** |
+| **TOTAL** | | **~13 700 - 14 700€** |
 
 **TJM interne** : 350€
 
@@ -275,15 +337,21 @@ La structure capitalise sur :
 ## 9. Prochaines Étapes
 
 - [x] ~~Choix du nom définitif~~ → **Cresceo** (validé 31 janvier 2026)
-- [ ] **Atelier BP** (4 février 2026) - Igor, Julien, Baptiste
-- [ ] Validation répartition des parts
+- [x] ~~Atelier BP~~ (4 février 2026) - Igor, Julien, Baptiste → Voir CR_ATELIER_BP_2026-02-04.md
+- [x] ~~Validation répartition des parts~~ → Igor 38%, Baptiste 19%, Julien 19%, JP 9,5%, Raph 9,5%, Éloïse 5%
+- [x] ~~Achat domaine cresceo.fr~~ → Fait (Baptiste)
+- [x] ~~Propale formation CAD42~~ → Document "CAD42 x CRESCEO" rédigé (Igor + Baptiste)
+- [x] ~~Devis marketing/communication~~ → EBCI (Éloïse) 2 500€ HT validé
+- [ ] **Dépôt marque INPI** → En cours (Baptiste)
+- [ ] **Propositions logo** → 3 options reçues d'Éloïse (10/02), choix à valider
+- [ ] **Holdings JP, Raph, Julien** → Statuts en relecture, finalisable fin février
 - [ ] Choix domiciliation (BUD Douai privilégié)
-- [ ] Achat domaines cresceo.fr / cresceo.fr
-- [ ] Dépôt marque INPI
-- [ ] Finalisation pacte d'associés
-- [ ] Création juridique SAS (mars 2026)
+- [ ] **Création juridique SAS** → Via Qonto (~1 semaine dès holdings prêtes). Voir STATUTS_SAS_DRAFT.md
+- [ ] **Pacte d'associés** → 2-3 semaines après statuts. Voir PACTE_ASSOCIES_DRAFT.md
+- [ ] **Atelier Marché & Prospection** → 27 février 2026, Lyon (présentiel)
+- [ ] Lancement propale CAD42 (post-création SAS + signature pacte)
 - [ ] Lancement certification Qualiopi
 
 ---
 
-*Document de travail - Version 3.0 - Mise à jour 4 février 2026*
+*Document de travail - Version 4.0 - Mise à jour 11 février 2026*

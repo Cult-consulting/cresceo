@@ -1,6 +1,6 @@
 # Plan de Lancement - CRESCEO
 
-**Date** : 11 février 2026 (mise à jour)
+**Date** : 18 février 2026 (mise à jour)
 **Statut** : En cours d'exécution
 
 ---
@@ -29,15 +29,18 @@ www.cresceo.fr      → Redirection vers cresceo.fr
 mail.cresceo.fr     → Configuration email (MX records)
 ```
 
-### Emails professionnels
-| Option | Coût | Avantages |
-|--------|------|-----------|
-| Google Workspace | 6€/user/mois | Suite complète, fiable |
-| Microsoft 365 | 5€/user/mois | Intégration Office |
-| Zoho Mail | Gratuit (5 users) | Suffisant pour démarrer |
-| Infomaniak | 5€/user/mois | Suisse, éthique |
+### Emails professionnels — ✅ FAIT (Zimbra OVH)
 
-**Recommandation** : Zoho Mail gratuit pour démarrer, migration Google Workspace si croissance.
+| Compte | Statut |
+|--------|--------|
+| baptiste@cresceo.fr | ✅ Configuré |
+| igor@cresceo.fr | ✅ Configuré |
+| julien@cresceo.fr | ✅ Configuré |
+| eloise@cresceo.fr | ✅ Configuré |
+| contact@cresceo.fr | ✅ Configuré |
+
+**Solution retenue** : Zimbra Starter (OVH) — IMAP/POP/SMTP natif, 15 Go/compte, hébergé en France (RGPD/souveraineté).
+Upgrade possible vers Zimbra Pro (1,99€ HT/mois/compte) si besoin ActiveSync ou 50 Go.
 
 ---
 
@@ -55,7 +58,7 @@ mail.cresceo.fr     → Configuration email (MX records)
 | Étape | Délai | Action | Statut |
 |-------|-------|--------|--------|
 | 1. Recherche d'antériorité | 1h | Vérifier sur [data.inpi.fr](https://data.inpi.fr/) | **FAIT** (Raph, 31/01) |
-| 2. Dépôt en ligne | 30 min | Via [procedures.inpi.fr](https://procedures.inpi.fr/) | **EN COURS** (Baptiste) |
+| 2. Dépôt en ligne | 30 min | Via [procedures.inpi.fr](https://procedures.inpi.fr/) | **EN COURS** (Baptiste) — question : dépôt au nom perso → transfert ou licence de marque ? |
 | 3. Publication BOPI | ~6 semaines | Automatique | En attente |
 | 4. Opposition éventuelle | 2 mois | Période d'opposition tiers | En attente |
 | 5. Enregistrement définitif | ~4 mois | Certificat INPI | En attente |
@@ -124,31 +127,34 @@ mail.cresceo.fr     → Configuration email (MX records)
 
 ---
 
-## 4. Identité Visuelle (brief pour Éloïse)
+## 4. Identité Visuelle — ✅ VALIDÉE
 
-### Palette de couleurs suggérée
+### Logo retenu : Logo 2
+- **C vert** avec **flèche orange ascendante** — orientation tech tout en gardant l'ancrage BTP
+- Baseline intégrée : "La croissance par le savoir"
+- Fichier : `COM/cresceo_logo.jpeg`
 
-| Couleur | Usage | Hex | Évocation |
-|---------|-------|-----|-----------|
-| **Bleu profond** | Primaire | #1E3A5F | Confiance, expertise, sérieux |
-| **Vert croissance** | Secondaire | #2ECC71 | Croissance, évolution, nature |
-| **Gris anthracite** | Texte | #2C3E50 | Professionnalisme |
-| **Blanc** | Fond | #FFFFFF | Clarté, simplicité |
-| **Or/Bronze** | Accent | #D4A853 | Excellence, premium |
+### Charte graphique (Éloïse/EBCI) — ✅ Reçue
+- Document complet : `COM/Charte-Graphique_CRESCEO.pdf` (11 pages)
+- ⚠️ Typo page 1 : "la connaissance par le savoir" → à corriger en "la croissance par le savoir"
 
-### Typographie suggérée
-- **Titres** : Sans-serif moderne (Montserrat, Poppins, Inter)
-- **Corps** : Sans-serif lisible (Open Sans, Lato, Source Sans Pro)
+### Palette de couleurs (validée)
 
-### Éléments graphiques
-- Logo texte "CRESCEO" avec le "C" stylisé en courbe ascendante
-- Motif optionnel : progression, escalier, flèche montante
-- Éviter : cliparts, icônes génériques, effets 3D datés
+| Couleur | Usage | Hex |
+|---------|-------|-----|
+| **Bleu Profond** | Primaire, fonds | #112331 |
+| **Vert Tech** | Secondaire, accents | #079b85 |
+| **Orange Signal** | Accent, CTA | #f9a937 |
+| **Blanc** | Texte sur fond sombre | #FFFFFF |
 
-### Déclinaisons à prévoir
-1. Logo principal (couleur)
+### Typographies (validées)
+- **Titres** : Montserrat (semibold/bold)
+- **Corps** : Roboto (regular/light)
+
+### Déclinaisons à prévoir (Éloïse)
+1. ~~Logo principal~~ ✅
 2. Logo monochrome (noir/blanc)
-3. Favicon (16x16, 32x32)
+3. Favicon
 4. Format réseaux sociaux (carré, bannière)
 5. Signature email
 6. Template PowerPoint/Google Slides
@@ -161,8 +167,8 @@ mail.cresceo.fr     → Configuration email (MX records)
 
 | Action | Responsable | Livrable | Statut |
 |--------|-------------|----------|--------|
-| Logo + Charte graphique | Éloïse (EBCI) | Guide de marque PDF | **3 propositions reçues** (10/02) |
-| Site web V1 (landing page) | Baptiste + Éloïse (maquette) | cresceo.fr en ligne | En attente logo validé |
+| Logo + Charte graphique | Éloïse (EBCI) | Guide de marque PDF | **✅ Logo 2 validé + charte reçue** |
+| Site web V1 (landing page) | Baptiste + Éloïse (maquette) | cresceo.fr en ligne | **✅ Landing page temporaire en ligne** |
 | Profils réseaux sociaux | Éloïse | LinkedIn, peut-être Instagram | En attente identité visuelle |
 | Signatures email | Éloïse | Template pour tous | En attente logo |
 | Vidéo présentation (1-2 min) | Éloïse | YouTube/LinkedIn | Inclus dans devis EBCI |
@@ -198,22 +204,25 @@ mail.cresceo.fr     → Configuration email (MX records)
 ### Fait
 - [x] Acheter domaine cresceo.fr (Baptiste)
 - [x] Brief identité visuelle transmis à Éloïse
-- [x] Propositions logo reçues (3 options, 10/02)
-- [x] Guide Zoho Mail + DNS OVH rédigé (voir CTO/GUIDE_ZOHO_MAIL_OVH.md)
+- [x] Logo 2 validé (C vert + flèche orange, orientation tech/BTP)
+- [x] Charte graphique reçue d'Éloïse/EBCI
+- [x] Devis EBCI validé (2 500€ HT, expire 10/03)
+- [x] Landing page temporaire déployée sur cresceo.fr
+- [x] Emails Zimbra OVH configurés (5 comptes)
 
-### En cours (semaine du 11/02)
-- [ ] Dépôt marque INPI classe 41 (Baptiste)
-- [ ] Valider logo parmi les 3 propositions (tous)
-- [ ] Valider devis EBCI 2 500€ HT (expire 10 mars)
-- [ ] Configurer DNS cresceo.fr + Zoho Mail
+### En cours (semaine du 18/02)
+- [ ] Dépôt marque INPI classe 41 (Baptiste) — question transfert/licence
+- [ ] Holdings : Julien (signature en cours), JP + Raph (à valider)
+- [ ] Pédagogie CAD42 : Igor + JP sur les modules
 
 ### Prochaines semaines
-- [ ] Charte graphique complète (Éloïse, post-validation logo)
-- [ ] Holdings JP, Raph, Julien finalisées (fin février)
-- [ ] **Création SAS via Qonto** (~1 semaine dès holdings prêtes)
+- [ ] **Point stratégique complet** (25/02, tous les associés)
+- [ ] **Atelier Marché & Prospection Lyon** (27/02)
+- [ ] Création SAS via Qonto (~1 semaine dès holdings prêtes)
 - [ ] Pacte d'associés (2-3 semaines post-statuts)
+- [ ] Workspace Notion (post-création SAS, mars)
 - [ ] Créer page LinkedIn entreprise
-- [ ] Site public V1 (landing page cresceo.fr)
+- [ ] Site public V1 (maquette Éloïse)
 
 ### Atelier Lyon 27/02
 - [ ] Finaliser agenda atelier Marché & Prospection
@@ -228,7 +237,7 @@ mail.cresceo.fr     → Configuration email (MX records)
 |-------|------|-------|
 | Domaine cresceo.fr | ~12€/an | Phase 1 (FAIT) |
 | Dépôt marque INPI | 190€ | Phase 1 |
-| Emails (Zoho gratuit) | 0€ | Phase 1 |
+| Emails (Zimbra OVH, inclus hébergement) | 0€ | Phase 1 |
 | Accompagnement EBCI — acompte setup | 1 000 - 1 500€ | Phase 1 |
 | Accompagnement EBCI — solde | 1 000 - 1 500€ | Phase 2 |
 | Site web V1 (Baptiste) | 0€ (interne) | Phase 1 |
@@ -243,15 +252,16 @@ mail.cresceo.fr     → Configuration email (MX records)
 ```
 Février 2026
 ├── S1 (3-7)  : Ateliers BP + MKG ✅ | Achat cresceo.fr ✅
-├── S2 (10-14): Choix logo | Dépôt INPI | Devis EBCI à valider
-├── S3 (17-21): Charte graphique | Config DNS/Emails | Statuts SAS (Baptiste)
-├── S4 (24-28): Holdings finalisées (JP, Raph, Julien) | Atelier Lyon 27/02
+├── S2 (10-14): Logo validé ✅ | Charte reçue ✅ | Devis EBCI validé ✅
+├── S3 (17-21): Landing page ✅ | Emails Zimbra ✅ | INPI en cours | Holdings en signature
+├── S4 (24-28): Point stratégique complet (25/02) | Atelier Lyon (27/02) | Holdings finalisées
 
 Mars 2026
 ├── S1 : Création SAS Qonto (dès holdings prêtes, ~1 semaine)
-├── S2 : Kbis reçu | Ouverture compte bancaire
+├── S2 : Kbis reçu | Ouverture compte bancaire | Workspace Notion
 ├── S3-S4 : Pacte d'associés finalisé + signé
-├── En parallèle : Site public V1, Page LinkedIn
+├── 31/03 : Deadline Go/No-Go Phase 2
+├── En parallèle : Site public V1 (Éloïse), Page LinkedIn
 
 Avril 2026
 ├── Lancement propale CAD42 (post-pacte)
@@ -261,4 +271,4 @@ Avril 2026
 
 ---
 
-*Document créé le 2 février 2026 - Mis à jour le 11 février 2026*
+*Document créé le 2 février 2026 - Mis à jour le 18 février 2026*

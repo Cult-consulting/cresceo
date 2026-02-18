@@ -1,7 +1,7 @@
 # Contexte Projet Cresceo - Document de Référence
 
-**Dernière mise à jour** : 2 février 2026
-**Statut** : En structuration - Ateliers en préparation
+**Dernière mise à jour** : 18 février 2026
+**Statut** : En lancement - Création juridique imminente
 **Nom validé** : ✅ Cresceo (consensus associés - 31 janvier 2026)
 
 ---
@@ -19,26 +19,24 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ## Tour de Table
 
-### Associés - Structure en discussion
+### Associés - Parts validées (4 février 2026, approbation unanime)
 
-| Nom | Rôle | Catégorie | Logique |
-|-----|------|-----------|---------|
-| **Igor Cannone** | Président - Expert Métier/Opérations | Actif | Part majoritaire – porteur du projet, temps plein |
-| **Baptiste Casnedi** | DG - DAF + CTO | Actif | Bloc de contrôle – engagement fort, compétences finance/tech |
-| **Julien Gardette** | Expert BTP - Contacts secteur | Actif | Bloc de contrôle – engagement fort, réseau BTP |
-| **Jean-Philippe Panaget** | CAD 42 - Apport affaires | Passif | Part minoritaire – apporteur d'affaires |
-| **Raphaël Garcia-Brotons** | CAD 42 - Apport affaires | Passif | Part minoritaire – apporteur d'affaires |
-| **Éloïse Bouveret** | Marketing/Communication | Actif | Part mineure – contribution complémentaire |
+| Nom | % | Rôle | Via |
+|-----|---|------|-----|
+| **Igor Cannone** | 38% | Président - Expert Métier/Opérations | ELFE CONSEIL |
+| **Baptiste Casnedi** | 19% | DG - DAF + CTO | CULT (holding) |
+| **Julien Gardette** | 19% | Expert BTP - Contacts secteur | Holding (statuts OK, en cours de signature) |
+| **Jean-Philippe Panaget** | 9,5% | CAD 42 - Apport affaires | Holding (en cours, à valider — à l'étranger cette semaine) |
+| **Raphaël Garcia-Brotons** | 9,5% | CAD 42 - Apport affaires | Holding (en cours, à valider — à l'étranger cette semaine) |
+| **Éloïse Bouveret** | 5% | Marketing/Communication | EBCI |
 
 ### Blocs de gouvernance
 
 | Bloc | Associés | Pouvoir |
 |------|----------|---------|
-| **Contrôle opérationnel** | Igor + Baptiste + Julien | Majorité qualifiée (2/3) pour décisions stratégiques |
+| **Contrôle opérationnel** | Igor (38%) + Baptiste (19%) + Julien (19%) = 76% | Majorité qualifiée (2/3) pour décisions stratégiques |
 | **Associés actifs** | Igor, Baptiste, Julien, Éloïse | Opérations quotidiennes |
-| **Associés passifs** | JP + Raph | Apporteurs d'affaires, minorité de blocage sur unanimité |
-
-**À valider** : Répartition exacte lors de l'atelier BP (4 février 2026)
+| **Associés passifs** | JP + Raph (via holding commune) | Apporteurs d'affaires, minorité de blocage sur unanimité |
 
 ### Partenaires Contractuels
 
@@ -46,7 +44,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 |------------|---------|---------|
 | **[Yacine Benzina](https://www.linkedin.com/in/yacine-b-41b527bb/)** | Apport d'affaires | Pool formateurs IA + Contacts chimie |
 
-**Note Luigi Andolina (Spiraliss Consultants)** : ~~Partenariat potentiel~~ - Luigi n'est plus intéressé par un partenariat de distribution. Il souhaite vendre son entreprise à Igor (opportunité distincte de Cresceo).
+**Note Luigi Andolina (Spiraliss Consultants)** : ~~Partenariat potentiel~~ - Luigi n'est plus intéressé par un partenariat de distribution. Situation dégradée : hostilité de Luigi, risque pour Igor (~50% de son CA actuel via Spiraliss/Vinci). Non-concurrence à clarifier. Sujet stratégique à traiter lors du point du 25/02.
 
 ---
 
@@ -75,19 +73,27 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ---
 
-## Budget de Lancement
+## Budget de Lancement (révisé 04/02)
 
-**Total** : 16 050€ (6 650€ coûts internes + 9 400€ dépenses externes)
-**Durée** : 19 jours de travail
+### Phase 1 (~6 200-6 700€) — Incompressibles
+| Poste | Montant | Notes |
+|-------|---------|-------|
+| Juridique | 2 775€ | Qonto + Avocat pacte/CGV |
+| Pédagogie | 0€ | Couvert par propale CAD42 |
+| IT | 675€ | Domaine, hébergement, emails |
+| Admin | 700€ | DREETS, conventions |
+| Sales | 850€ | Supports commerciaux |
+| Marketing (acompte EBCI) | 1 000-1 500€ | Identité visuelle + site |
 
-### Détail par phase
-1. **Juridique** : 2 375€ - Pacte, Statuts, Greffe
-2. **Pédagogie** : 1 550€ - Catalogue 3 modules, vidéos
-3. **IT & Outils** : 2 075€ - LMS Digiforma, site, APIs
-4. **Admin & NDA** : 700€ - DREETS, conventions
-5. **Marketing** : 5 050€ - Landing page, Lead Magnet, Ads
-6. **Qualiopi** : 3 100€ - Dossier, Audit blanc, Certification
-7. **Sales/Launch** : 1 200€ - Briefing, webinaire
+### Phase 2 (~7 500-8 000€) — Post-validation marché
+| Poste | Montant | Notes |
+|-------|---------|-------|
+| Qualiopi | 3 100€ | Dossier, audit, certification |
+| Ads | 1 675€ | LinkedIn + Google Ads |
+| LMS/APIs | 1 400€ | Digiforma + outils |
+| Marketing (solde EBCI) | 1 000-1 500€ | Solde accompagnement |
+
+**Critères Go/No-Go Phase 2** : deadline 31 mars 2026 (voir agenda atelier 27/02)
 
 ---
 
@@ -100,36 +106,50 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 - **Commercialisation** : Formations CAD 42 sous-traitées à la nouvelle structure
 
 ### Clients potentiels via CAD 42
-- Vinci (+ potentiel via Spiraliss)
-- Bouygues
 - Spie Batignolles
+- Colas
+- Bouygues
 - Eiffage
+- Vinci
 - Autres majors BTP
 
 ---
 
 ## Calendrier Prévisionnel
 
-### Court terme (Février 2026)
-- [x] **Choix du nom définitif** - ✅ CRESCEO validé le 31 janvier 2026
-- [ ] **Atelier Business Plan** (semaine du 3 février) - Igor, Julien, Baptiste
-  - Agenda préparé : [ATELIER_BP_AGENDA.md](ATELIER_BP_AGENDA.md)
-  - **Sujet clé** : Répartition définitive des parts
-- [ ] **Achat domaines** cresceo.fr + cresceo.com
-- [ ] **Dépôt marque INPI** classe 41 (formation)
-- [ ] **Atelier Rampe de lancement CAD 42** (après atelier BP) - Igor, Baptiste, JP, Raph
-  - Agenda préparé : [ATELIER_CAD42_AGENDA.md](ATELIER_CAD42_AGENDA.md)
-
-### Moyen terme (Q1 2026)
+### Fait
+- [x] Choix du nom CRESCEO (31 janvier 2026)
+- [x] Atelier Business Plan (4 février) — parts validées, budget révisé
+- [x] Atelier Marketing/Com (4 février) — consensus Notion, brief Éloïse
+- [x] Achat domaine cresceo.fr (Baptiste)
+- [x] Logo 2 validé (tech, C vert + flèche orange ascendante)
+- [x] Charte graphique reçue d'Éloïse/EBCI
+- [x] Devis EBCI validé (2 500€ HT, expire 10/03)
+- [x] Landing page cresceo.fr déployée (logo + baseline + contact)
+- [x] Emails pro Zimbra OVH configurés (5 comptes : baptiste@, igor@, julien@, eloise@, contact@cresceo.fr)
 - [x] Draft pacte d'associés préparé
-- [ ] Validation pacte en atelier → signature
-- [ ] Création juridique (Mars)
-- [ ] Setup IT (LMS Digiforma, site web)
-- [ ] Dossier DREETS
+- [x] Draft statuts SAS préparé
 
-### Long terme (2026)
-- [ ] Premiers clients via CAD 42 (Mai)
-- [ ] Certification Qualiopi (Octobre)
+### En cours (semaine du 18/02)
+- [ ] **Dépôt marque INPI** classe 41 (Baptiste)
+- [ ] **Holdings** : Julien (statuts OK, signature en cours), JP et Raph (à valider, à l'étranger cette semaine)
+- [ ] **Pédagogie CAD42** : Premiers modules définis par Igor + JP (voir `Pédagogie/`), à affiner avec données chiffrées + CRM lors de l'atelier
+- [ ] **Expert-comptable** : RDV exploratoire Igor + Baptiste avec cabinet Expertys (Jonathan Bez) — bases posées pour collaboration
+
+### Semaine prochaine (25/02)
+- [ ] **Point stratégique complet** (tous les associés) : validation statuts/pacte, relation CAD42 x Cresceo, situation Spiraliss/Igor
+- [ ] **Atelier Marché & Prospection** à Lyon (27/02) — Igor, Julien, Baptiste
+
+### Mars 2026
+- [ ] Création SAS Qonto (~1 semaine dès holdings prêtes)
+- [ ] Pacte d'associés finalisé + signé
+- [ ] Workspace Notion (post-création, coût supporté par Cresceo)
+- [ ] Page LinkedIn entreprise
+- [ ] Go/No-Go Phase 2 (deadline 31 mars)
+
+### Avril 2026+
+- [ ] Lancement propale CAD42 (post-pacte)
+- [ ] Dossier Qualiopi (préparation)
 - [ ] Prospection autonome
 
 ---
@@ -140,7 +160,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 | Nom retenu | Tagline | Domaines | INPI |
 |------------|---------|----------|------|
-| **CRESCEO** | "La croissance par le savoir" | ✅ .fr et .com disponibles | ✅ Libre classe 41 |
+| **CRESCEO** | "La croissance par le savoir" | ✅ .fr acheté (.com non disponible) | En cours de dépôt classe 41 |
 
 ### Origine et signification
 - **Latin "crescere"** = croître, grandir
@@ -183,49 +203,36 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 ---
 
-## Migration Site Web (Docsify → HTML sécurisé)
+## Présence Web & IT
 
-**Statut** : Plan défini, en attente charte graphique et choix nom
+### cresceo.fr — Landing page temporaire
+- **Statut** : ✅ En ligne (hébergement OVH)
+- Logo Cresceo + baseline "La croissance par le savoir"
+- Description + 3 piliers (IA, Lean, HSE) + contact@cresceo.fr
+- Design responsive, couleurs charte (bleu profond #112331, vert tech #079b85, orange signal #f9a937)
 
-### Situation actuelle
-- Docsify sur GitHub Pages
-- Protection par mot de passe côté client (symbolique)
+### Emails professionnels — Zimbra OVH
+- **Statut** : ✅ Configurés
+- 5 comptes : baptiste@, igor@, julien@, eloise@, contact@cresceo.fr
+- Zimbra Starter (inclus hébergement OVH) — IMAP/POP/SMTP natif
+- Hébergement France (RGPD, souveraineté)
 
-### Plan de migration retenu
+### Identité visuelle — Validée
+- **Logo** : Logo 2 retenu (C vert + flèche orange ascendante, orientation tech + BTP)
+- **Charte graphique** : Reçue d'Éloïse/EBCI (11 pages)
+  - Couleurs : Bleu Profond #112331, Vert Tech #079b85, Orange Signal #f9a937
+  - Typographies : Montserrat (titres), Roboto (corps)
+  - Note : typo page 1 "la connaissance par le savoir" → à corriger en "la croissance par le savoir"
 
-| Phase | Solution | Déclencheur |
-|-------|----------|-------------|
-| **Court terme** | Rester sur Docsify | Pas de charte graphique |
-| **Moyen terme** | Cloudflare Access | Charte graphique + nom validé |
+### Documentation interne — Docsify
+- GitHub Pages : https://cult-consulting.github.io/cresceo/
+- Migration vers **Notion** repoussée à post-création SAS (mars)
+  - Raisons : coût supporté par Cresceo + travail collaboratif Éloïse/Baptiste à planifier (atelier outils)
+  - Besoin complémentaire : Drive partagé pour documents lourds (actuellement Drive d'Igor)
 
-### Cloudflare Access (solution cible)
-- **Sécurité** : Excellente (authentification OTP par email)
-- **Coût** : Gratuit (jusqu'à 50 users)
-- **Avantages** : Pas de mot de passe partagé, révocation facile, logs d'accès
-
-### Prérequis migration
-- [ ] Nom de société validé → achat domaine
-- [ ] Charte graphique (couleurs, typo, logo)
-- [ ] Compte Cloudflare
-
-### Étapes migration (quand prérequis OK)
-1. Acheter domaine (15 min)
-2. Configurer DNS sur Cloudflare (30 min)
-3. Convertir MD → HTML statique (2-3h)
-4. Appliquer CSS charte graphique (2-4h)
-5. Configurer Cloudflare Access Zero Trust (1h)
-6. Définir emails autorisés (associés)
-7. Déployer et tester
-
-### Gestion charte graphique
-Approche variables CSS → changer 5-6 valeurs = refonte complète
-```css
-:root {
-  --color-primary: #667eea;    /* À adapter */
-  --color-secondary: #764ba2;  /* À adapter */
-  --font-family: 'Inter', sans-serif;
-}
-```
+### Site V1 (à venir)
+- Maquette et réalisation par Éloïse (inclus devis EBCI)
+- Option technique : HTML+CSS + Decap CMS (à valider avec Éloïse)
 
 ---
 
@@ -309,6 +316,8 @@ Le BUD est un dispositif d'exonération fiscale créé en 2017 pour relancer l'a
 
 **Orientation privilégiée** : BUD Douai (avantages fiscaux plus larges, storytelling, ressource locale)
 
+⚠️ **Mise à jour 18/02** : Après consultation d'un expert-comptable (Expertys), le BUD présente peu d'intérêt si pas de salarié la première année (exonérations IS limitées sans masse salariale significative). À réévaluer si embauche prévue.
+
 ---
 
 ## Banque & Outils Financiers
@@ -337,25 +346,25 @@ Le BUD est un dispositif d'exonération fiscale créé en 2017 pour relancer l'a
 | **Activité 100% France**, simplicité, support FR | Qonto Essential |
 | **Création société** (dépôt capital simplifié) | Qonto |
 
-**Proposition Igor** : Revolut Business Pro (pour le multi-devises lié aux projets internationaux)
+**Décision** : **Qonto Essential** retenu — création SAS + dépôt de capital via Qonto, IBAN français, support FR.
 
-**Alternative selon orientation** : Qonto si activité principalement française au démarrage
-
-**Autres options** : Shine (freelance-friendly), Banque traditionnelle (BNP, SG) si besoin de financement bancaire
+~~Proposition initiale Igor : Revolut Business Pro (multi-devises)~~ — Qonto privilégié pour la simplicité au démarrage.
 
 ---
 
 ## Points Ouverts
 
-1. **Répartition des parts** : À finaliser lors de l'atelier BP
-   - **Principes actés** : Igor majoritaire, bloc de contrôle Igor+Baptiste+Julien, JP et Raph passifs, part mineure pour Éloïse
-   - **À valider** : Pourcentages exacts en séance (4 février)
+1. **INPI** : Dépôt marque classe 41 en cours (Baptiste)
 
-2. **Capital social** : Montant cible 10k€, répartition proportionnelle aux parts
+2. **Domiciliation** : BUD Douai retenu en principe, mais peu d'intérêt sans salarié Y1 (avis EC Expertys). À réévaluer
 
-3. **Domiciliation** : Arbitrage ZFU Saint-Denis vs BUD Douai (voir section ci-dessus)
+3. **Spiraliss / Non-concurrence Igor** : Situation dégradée avec Luigi. Igor a ~50% de son CA via Spiraliss/Vinci. Clause de non-concurrence à clarifier. Sujet stratégique pour le point du 25/02
 
-4. **Bourse French Tech** : Potentiel si mobilisation 50k€ → 50k€ de subvention
+4. **Capital social** : Montant cible 10k€, répartition proportionnelle aux parts
+
+5. **Outils collaboratifs** : Notion + Drive à planifier post-création SAS (atelier outils Éloïse + Baptiste)
+
+6. **Bourse French Tech** : Potentiel si mobilisation 50k€ → 50k€ de subvention
 
 ---
 
@@ -365,14 +374,16 @@ Le BUD est un dispositif d'exonération fiscale créé en 2017 pour relancer l'a
 
 | Document | Description | Statut |
 |----------|-------------|--------|
-| [CONTEXTE_PROJET.md](CONTEXTE_PROJET.md) | Ce fichier - Vue d'ensemble | ✅ À jour |
+| [CONTEXTE_PROJET.md](CONTEXTE_PROJET.md) | Ce fichier - Vue d'ensemble | ✅ À jour (18/02) |
 | [Business Plan Organisme Formation IA.md](Business%20Plan%20Organisme%20Formation%20IA.md) | BP détaillé | ✅ |
 | [ANALYSE_MARCHE.md](ANALYSE_MARCHE.md) | SWOT, concurrence, opportunités | ✅ |
-| [RECHERCHE_NOM.md](RECHERCHE_NOM.md) | Top 5 noms avec vérifications | ✅ |
+| [PLAN_LANCEMENT_CRESCEO.md](PLAN_LANCEMENT_CRESCEO.md) | Plan de lancement complet | ✅ À jour (18/02) |
+| [STATUTS_SAS_DRAFT.md](STATUTS_SAS_DRAFT.md) | Draft statuts SAS | ✅ |
 | [PACTE_ASSOCIES_DRAFT.md](PACTE_ASSOCIES_DRAFT.md) | Draft pacte d'associés | ✅ |
-| [ATELIER_BP_AGENDA.md](ATELIER_BP_AGENDA.md) | Agenda atelier Business Plan | ✅ |
-| [ATELIER_CAD42_AGENDA.md](ATELIER_CAD42_AGENDA.md) | Agenda atelier CAD 42 | ✅ |
-| [Presentation_Baptiste_Casnedi.md](Presentation_Baptiste_Casnedi.md) | Présentation Baptiste | ✅ |
+| [ATELIER_MARCHE_PROSPECTION_AGENDA.md](ATELIER_MARCHE_PROSPECTION_AGENDA.md) | Agenda atelier Lyon 27/02 | ✅ |
+| [CR_ATELIER_BP_2026-02-04.md](CR_ATELIER_BP_2026-02-04.md) | CR atelier BP 04/02 | ✅ |
+| [CR_ATELIER_MKG_2026-02-04.md](CR_ATELIER_MKG_2026-02-04.md) | CR atelier MKG 04/02 | ✅ |
+| [RECHERCHE_NOM.md](RECHERCHE_NOM.md) | Top 5 noms avec vérifications | ✅ Archive |
 
 ### Documents Externes
 
@@ -390,6 +401,9 @@ Le BUD est un dispositif d'exonération fiscale créé en 2017 pour relancer l'a
 | 30 jan 2026 | Recherche nom (Top 5), draft pacte associés, agendas ateliers, plan migration site web |
 | 31 jan 2026 | Consensus sur nom CRESCEO, groupe WhatsApp renommé |
 | 2 fév 2026 | Mise à jour docs (Azimut→Cresceo), intégration proposition parts Igor, plan lancement, options domiciliation (ZFU/BUD) |
+| 4 fév 2026 | Ateliers BP + MKG, CRs rédigés, consensus Notion, structure Notion proposée |
+| 11 fév 2026 | Draft statuts SAS, guide Zoho Mail/DNS, mise à jour sidebar + plan lancement |
+| 18 fév 2026 | Landing page cresceo.fr, config emails Zimbra OVH (5 comptes), audit + mise à jour complète Docsify |
 
 *Note : Ce tableau permet de tracer le travail effectué en cas de perte de contexte*
 

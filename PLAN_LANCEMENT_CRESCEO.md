@@ -58,7 +58,7 @@ Upgrade possible vers Zimbra Pro (1,99€ HT/mois/compte) si besoin ActiveSync o
 | Étape | Délai | Action | Statut |
 |-------|-------|--------|--------|
 | 1. Recherche d'antériorité | 1h | Vérifier sur [data.inpi.fr](https://data.inpi.fr/) | **FAIT** (Raph, 31/01) |
-| 2. Dépôt en ligne | 30 min | Via [procedures.inpi.fr](https://procedures.inpi.fr/) | **EN COURS** (Baptiste) — question : dépôt au nom perso → transfert ou licence de marque ? |
+| 2. Dépôt en ligne | 30 min | Via [procedures.inpi.fr](https://procedures.inpi.fr/) | **EN COURS** (Baptiste) |
 | 3. Publication BOPI | ~6 semaines | Automatique | En attente |
 | 4. Opposition éventuelle | 2 mois | Période d'opposition tiers | En attente |
 | 5. Enregistrement définitif | ~4 mois | Certificat INPI | En attente |
@@ -211,7 +211,7 @@ Upgrade possible vers Zimbra Pro (1,99€ HT/mois/compte) si besoin ActiveSync o
 - [x] Emails Zimbra OVH configurés (5 comptes)
 
 ### En cours (semaine du 18/02)
-- [ ] Dépôt marque INPI classe 41 (Baptiste) — question transfert/licence
+- [ ] Dépôt marque INPI classe 41 (Baptiste)
 - [ ] Holdings : Julien (signature en cours), JP + Raph (à valider)
 - [ ] Pédagogie CAD42 : Igor + JP sur les modules
 

@@ -90,21 +90,19 @@ Le capital social est fixé à **10 000 euros (10 000€)**, divisé en **1 000 
 
 ### Article 7 — Répartition du capital
 
-| Associé | Catégorie | Nombre d'actions | % Capital | Apport (€) |
-|---------|-----------|-----------------|-----------|------------|
-| Igor Cannone | Actif - Président | 380 | 38% | 3 800€ |
-| Baptiste Casnedi | Actif - DG | 190 | 19% | 1 900€ |
-| Julien Gardette | Actif | 190 | 19% | 1 900€ |
-| Jean-Philippe Panaget (*) | Passif | 95 | 9,5% | 950€ |
-| Raphaël Garcia-Brotons (*) | Passif | 95 | 9,5% | 950€ |
-| Éloïse Bouveret | Actif | 50 | 5% | 500€ |
-| **TOTAL** | | **1 000** | **100%** | **10 000€** |
+| Associé | Nombre d'actions | % Capital | Apport (€) |
+|---------|-----------------|-----------|------------|
+| Holding Igor Cannone (*) | 380 | 38% | 3 800€ |
+| Holding Baptiste Casnedi (*) | 190 | 19% | 1 900€ |
+| Holding Julien Gardette (*) | 190 | 19% | 1 900€ |
+| Holding Jean-Philippe Panaget (*) | 95 | 9,5% | 950€ |
+| Holding Raphaël Garcia-Brotons (*) | 95 | 9,5% | 950€ |
+| Holding Éloïse Bouveret (*) | 50 | 5% | 500€ |
+| **TOTAL** | **1 000** | **100%** | **10 000€** |
 
-(*) Via leur holding respective (à préciser une fois les holdings créées)
+(*) Chaque associé souscrit via sa holding respective (dénominations sociales exactes à compléter une fois les holdings créées/immatriculées)
 
 **Questions à valider :**
-- [ ] JP et Raph souscrivent-ils en direct ou via holding ? (holding privilégié)
-- [ ] Julien souscrit-il en direct ou via holding ?
 - [ ] Libération intégrale à la constitution ou 50% puis solde sous 5 ans ? (intégrale recommandée pour 10K€)
 
 ### Article 8 — Apports
@@ -113,7 +111,7 @@ Les apports sont exclusivement en **numéraire** (pas d'apport en nature ni en i
 
 Chaque associé libère l'intégralité de son apport à la constitution, par virement sur le compte de la société ouvert auprès de **Qonto**.
 
-**Note** : Les apports en industrie (expertise, temps de travail) ne constituent pas du capital social en SAS. Ils seront valorisés via le mécanisme de **compte courant d'associé** défini dans le pacte.
+**Note** : Les apports en industrie (expertise, temps de travail) ne constituent pas du capital social en SAS. Ils peuvent être valorisés via le mécanisme de **compte courant d'associé** défini dans le pacte.
 
 ---
 
@@ -260,7 +258,7 @@ Les décisions collectives sont prises :
 
 Le Président convoque les associés au moins **8 jours** à l'avance, par tout moyen écrit (email, LRAR).
 
-Tout associé représentant au moins **10% du capital** peut demander la convocation d'une AG.
+Tout associé, ou groupe d'associés, représentant au moins **10% du capital** peut demander la convocation d'une AG.
 
 ### Article 19 — Majorités
 
@@ -303,7 +301,7 @@ Un associé peut être exclu par décision collective des associés statuant à 
 2. Condamnation pénale pour des faits portant atteinte à l'honneur ou à la probité
 3. Mise en liquidation judiciaire de l'associé personne morale (holding)
 4. Incapacité légale
-5. Exercice d'une activité directement concurrente (si constatée avant signature du pacte)
+5. Exercice d'une activité directement concurrente non déclarée et non autorisée par les associés (clause transitoire applicable jusqu'à la signature du pacte d'associés, qui définira le régime complet de non-concurrence)
 
 #### Procédure d'exclusion
 
@@ -364,7 +362,7 @@ Les CCA sont rémunérés à un taux d'intérêt fixé annuellement par décisio
 
 Les CCA sont remboursables sur décision du titulaire, sous réserve d'un préavis de **3 mois** et de la capacité de trésorerie de la société. En cas de pluralité de demandes, les remboursements sont effectués **au prorata** des soldes de CCA.
 
-**Le temps consacré par les associés actifs au pilotage et à la gestion de la société peut être valorisé et inscrit en CCA**, selon les modalités définies dans le pacte d'associés.
+**Le temps consacré par les associés au pilotage et à la gestion de la société peut être valorisé et inscrit en CCA**, selon les modalités définies dans le pacte d'associés.
 
 ---
 
@@ -376,14 +374,7 @@ Toute convention intervenant entre la société et l'un de ses associés, dirige
 
 Le Président établit un rapport sur ces conventions, soumis à l'approbation des associés lors de la décision d'approbation des comptes annuels.
 
-**Sont expressément visées** (liste non exhaustive) :
-
-| Convention | Parties | Objet |
-|------------|---------|-------|
-| Prestations CAD42 → Cresceo | JP Panaget, R. Garcia-Brotons | Toute facturation croisée |
-| Prestations Cresceo → CAD42 | JP Panaget, R. Garcia-Brotons | Propale formation, animation |
-| Prestations Spiraliss | Igor Cannone | Toute opération impliquant Spiraliss/Vinci |
-| Prestations EBCI → Cresceo | Éloïse Bouveret | Devis marketing/communication |
+**Sont expressément visées** (liste non exhaustive) : toute convention entre la société et une entité dans laquelle un associé ou dirigeant détient une participation, directe ou indirecte, notamment les prestations de services, facturations croisées, et opérations commerciales impliquant les holdings des associés ou les sociétés auxquelles ils sont liés.
 
 **L'associé intéressé ne participe pas au vote** lors de l'approbation de la convention le concernant.
 

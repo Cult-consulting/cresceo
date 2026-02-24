@@ -1,7 +1,7 @@
 # Pacte d'Associés - Préparation
 
-**Statut** : Draft - À finaliser post-création SAS (Temps 2, voir STATUTS_SAS_DRAFT.md)
-**Date** : 11 février 2026 (mise à jour)
+**Statut** : Draft v2 - À finaliser post-création SAS (Temps 2, voir STATUTS_SAS_DRAFT.md)
+**Date** : 24 février 2026 (v2 — intègre retours JP du 24/02)
 
 ---
 
@@ -11,18 +11,20 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 ### Tour de table - Répartition validée (4 février 2026)
 
-| Associé | Catégorie | % Capital | Engagement | Via |
-|---------|-----------|-----------|------------|-----|
-| Igor Cannone | Actif - Président | **38%** | Temps significatif | Direct |
-| Baptiste Casnedi | Actif - DG | **19%** | Partiel | Direct |
-| Julien Gardette | Actif | **19%** | Partiel | Holding (en cours) |
-| Jean-Philippe Panaget | Passif | **9,5%** | Apport affaires | Holding (en cours) |
-| Raphaël Garcia-Brotons | Passif | **9,5%** | Apport affaires | Holding (en cours) |
-| Éloïse Bouveret | Actif | **5%** | MKG/Com (forfait EBCI) | Direct |
+| Associé | % Capital | Rôle / Engagement | Via |
+|---------|-----------|-------------------|-----|
+| Igor Cannone | **38%** | Président — Pilotage, expertise métier, animation formations | Holding |
+| Baptiste Casnedi | **19%** | DG/DAF/CTO — Gestion, finance, tech | Holding |
+| Julien Gardette | **19%** | Réseau BTP, prospection terrain | Holding |
+| Jean-Philippe Panaget | **9,5%** | Réseau, apport d'affaires | Holding |
+| Raphaël Garcia-Brotons | **9,5%** | Réseau, apport d'affaires | Holding |
+| Éloïse Bouveret | **5%** | Marketing/Communication | Holding |
 
 **Bloc de contrôle** : Igor + Baptiste + Julien = 76% (majorité qualifiée 2/3)
 
 *Note : Les statuts SAS sont créés en Temps 1 (dès holdings prêtes). Le pacte d'associés est finalisé en Temps 2 (2-3 semaines après). Voir STATUTS_SAS_DRAFT.md pour les clauses de gouvernance couvrant le gap.*
+
+> **Principe adopté (24/02)** : Les relations commerciales entre Cresceo et les entités liées aux associés (CAD42, Spiraliss, EBCI, etc.) sont régies par des **contrats de prestation séparés**, et non par le présent pacte. Le pacte ne traite que de la gouvernance entre associés.
 
 ---
 
@@ -52,44 +54,46 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 
 | Type | Fréquence | Participants | Quorum |
 |------|-----------|--------------|--------|
-| Comité opérationnel | Mensuel | Associés actifs | 3/4 |
-| AG ordinaire | Annuelle | Tous | Tous convoqués |
-| AG extraordinaire | Sur demande | Tous | 2/3 présents |
+| Comité opérationnel | Mensuel | Associés impliqués dans les opérations | 3/4 des convoqués |
+| AG ordinaire | Annuelle | Tous les associés | Tous convoqués |
+| AG extraordinaire | Sur demande | Tous les associés | 2/3 présents |
 
 ---
 
 ### 2. Engagement des Associés
 
-#### 2.1 Engagement temps (associés actifs)
+#### 2.1 Engagements individuels
 
-*Note : Unité flexible selon les profils - h/semaine ou j/mois selon la nature de l'engagement*
+Chaque associé s'engage selon un profil d'engagement défini ci-dessous. L'unité est flexible selon la nature de la contribution (h/semaine pour un engagement régulier, j/mois pour un engagement ponctuel).
 
-| Associé | Engagement minimum | Unité | Activités autorisées en parallèle |
-|---------|-------------------|-------|-----------------------------------|
-| Igor | ? | h/sem ou j/mois | Spiraliss (50%), autres formations |
-| Baptiste | ? | h/sem ou j/mois | Autres activités entrepreneuriales |
-| Julien | ? | j/mois | Activité BTP principale |
-| Éloïse | ? | h/sem ou j/mois | Autres clients communication |
+| Associé | Engagement minimum | Unité | Nature de l'engagement | Activités autorisées en parallèle |
+|---------|-------------------|-------|------------------------|-----------------------------------|
+| Igor | ? | h/sem | Pilotage, expertise, animation | Spiraliss (50%), autres formations |
+| Baptiste | ? | h/sem | Gestion, finance, tech | Autres activités entrepreneuriales |
+| Julien | ? | j/mois | Prospection, réseau BTP | Activité BTP principale |
+| Éloïse | ? | j/mois | Marketing, communication | Autres clients communication |
+| JP | — | — | Apport d'affaires, réseau | Activités propres (holdings, etc.) |
+| Raph | — | — | Apport d'affaires, réseau | Activités propres (holdings, etc.) |
 
-**Proposition d'unités par profil :**
-- **Engagement régulier** (Igor, Baptiste) → h/semaine (ex: 8h, 16h, 24h)
-- **Engagement ponctuel** (Julien, Éloïse) → j/mois (ex: 2j, 4j, 6j)
+**Obligations communes à tous les associés :**
+- Non-obstruction : ne pas bloquer le développement de la société
+- Information : droit d'information trimestriel (reporting financier et opérationnel)
+- Loyauté : agir dans l'intérêt social de Cresceo
+- Respect du pacte et des statuts
 
 **Questions à valider :**
-- [ ] Unité par associé (h/semaine vs j/mois) ?
-- [ ] Engagement minimum pour chaque associé actif ?
-- [ ] Flexibilité en fonction du CA généré ?
+- [ ] Engagement minimum pour chaque associé (h/sem ou j/mois) ?
 - [ ] Clause de "best efforts" plutôt que temps fixe ?
 - [ ] Période de référence pour le suivi (mensuel ? trimestriel ?)
 
-#### 2.1bis Rémunération pilotage — Compte Courant d'Associé (CCA)
+#### 2.2 Rémunération pilotage — Compte Courant d'Associé (CCA)
 
 > **Mécanisme hybride : CCA + seuil de déclenchement TJM**
 
-Le temps consacré par les associés actifs au pilotage et à la gestion du projet (hors missions facturables à un client) est valorisé à **350€/jour** et géré comme suit :
+Le temps consacré par les associés au pilotage et à la gestion du projet (hors missions facturables à un client) est valorisé à **350€/jour** et géré comme suit :
 
 **Phase amorçage** (CA cumulé encaissé < seuil) :
-- Le temps de pilotage est tracké par chaque associé actif
+- Le temps de pilotage est tracké par chaque associé concerné
 - Il est valorisé à 350€/jour et inscrit en **compte courant d'associé** (CCA)
 - La société reconnaît une dette envers l'associé, sans sortie de cash
 
@@ -102,25 +106,17 @@ Le temps consacré par les associés actifs au pilotage et à la gestion du proj
 | **TJM pilotage** | 350€/jour | Consensus existant |
 | **Seuil de déclenchement** | 30 000€ CA cumulé encaissé | Autre seuil ? |
 | **Suivi du temps** | Déclaratif mensuel, validé par le DG | Autre méthode ? |
+| **Plafond mensuel** | 10 j/mois par associé (phase amorçage) | Autre plafond ? |
 | **Remboursement CCA** | Sur décision collective, préavis 3 mois | Automatique ? |
 | **Taux d'intérêt CCA** | Taux fiscal max déductible (BdF) | Sans intérêt ? |
+| **Reporting** | Cumul CCA communiqué à tous les associés chaque trimestre | Autre fréquence ? |
 
-**Cas particulier Éloïse** : Son temps est couvert par le forfait EBCI (2 500€ HT année 1). Pas de CCA pilotage pour Éloïse sauf dépassement significatif du périmètre EBCI.
+**Cas particulier Éloïse** : Son temps est couvert par le forfait de prestation de sa holding (2 500€ HT année 1). Pas de CCA pilotage sauf dépassement significatif du périmètre convenu.
 
 **Questions à valider :**
 - [ ] Seuil de déclenchement (30K€ CA ? Point mort ? Autre ?)
-- [ ] Fréquence de déclaration du temps (mensuelle ? trimestrielle ?)
-- [ ] Plafond mensuel par associé (pour éviter les dérives)
+- [ ] Plafond mensuel par associé (10j ? 15j ?)
 - [ ] CCA rémunéré (intérêts) ou non ?
-
-#### 2.2 Associés passifs (JP + Raph)
-
-| Obligation | Description |
-|------------|-------------|
-| Apport affaires | Mise en relation clients CAD 42 |
-| Non-obstruction | Ne pas bloquer le développement |
-| Information | Droit d'information trimestriel |
-| Pas d'engagement temps | Aucune obligation opérationnelle |
 
 ---
 
@@ -240,31 +236,15 @@ Le temps consacré par les associés actifs au pilotage et à la gestion du proj
 
 ### 7. Propriété Intellectuelle
 
-#### 7.1 Contenus créés
+#### 7.1 Principes généraux
 
 | Contenu | Propriétaire | Conditions |
 |---------|--------------|------------|
 | Formations créées pour Cresceo | Cresceo | 100% propriété société |
-| Méthodologies développées | Cresceo | Licence perpétuelle si départ |
-| Contenus préexistants | Créateur original | Licence à Cresceo |
-| **Modules A "Expertise Unifield"** | **À définir** | Structurés à partir de l'outil CAD42 — voir ci-dessous |
-| **Modules B "Innovation & Futur du BTP"** | **Cresceo** | Créés ex-nihilo, financés par CAD42, duplicables |
-| **Modules C "Culture Interne"** | **Cresceo** | Créés pour CAD42, offerts en investissement partenariat |
+| Méthodologies développées | Cresceo | Licence perpétuelle si départ (good leaver) |
+| Contenus préexistants | Créateur original | Licence d'usage concédée à Cresceo |
 
-#### 7.1bis Propriété intellectuelle — Modules CAD42 x CRESCEO
-
-La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes de PI distincts :
-
-| Programme | Contenu | PI proposée | Logique |
-|-----------|---------|-------------|---------|
-| **A. Expertise Unifield** | Modules structurés autour de l'outil Unifield (propriété CAD42) | **Licence croisée** : Cresceo détient l'ingénierie pédagogique, CAD42 conserve la PI sur Unifield. Cresceo peut réutiliser la méthodologie (pas l'outil) pour d'autres clients | L'outil est à CAD42, la pédagogie est à Cresceo |
-| **B. Innovation & Futur du BTP** | Modules créés ex-nihilo par Cresceo | **100% Cresceo** | Financés par CAD42 mais duplicables sans restriction |
-| **C. Culture Interne** | Modules de formation interne CAD42 | **Cresceo** (licence d'usage gratuite et perpétuelle à CAD42) | Offerts en investissement partenariat |
-
-**Questions à valider :**
-- [ ] Licence croisée sur les modules A : Cresceo peut-elle réutiliser la méthodologie hors Unifield ?
-- [ ] CAD42 a-t-elle un droit d'usage sur les modules B pour ses propres clients ?
-- [ ] Formaliser dans un accord séparé CAD42-Cresceo ou dans le pacte ?
+> **Note** : La PI des contenus co-développés avec des partenaires (clients, prestataires, entités liées aux associés) est régie par les **contrats de prestation** concernés, et non par le présent pacte. Voir notamment le contrat Cresceo ↔ CAD42 pour les modules de formation co-produits.
 
 #### 7.2 En cas de départ
 
@@ -289,28 +269,38 @@ La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes d
 
 ### 9. Gestion des Conflits d'Intérêts
 
-#### 9.1 Cas spécifique JP + Raph (CAD 42)
+#### 9.1 Principes
+
+Tous les associés détiennent ou sont susceptibles de détenir des intérêts dans d'autres entités. Les règles ci-dessous s'appliquent **à tous les associés** de manière uniforme, dès lors qu'une décision de Cresceo impacte une entité dans laquelle ils détiennent un intérêt direct ou indirect.
+
+#### 9.2 Règles applicables
 
 | Situation | Règle |
 |-----------|-------|
-| Décision impactant CAD 42 | JP/Raph s'abstiennent du vote |
-| Négociation commerciale avec CAD 42 | Mandataire non directement lié à CAD 42 (DG ou associé désigné, pas le Président) |
-| Litige avec CAD 42 | Médiation externe obligatoire |
+| Décision impactant une entité liée à un associé | L'associé concerné **s'abstient du vote** |
+| Négociation commerciale avec une entité liée | Le mandataire de Cresceo doit être un associé **non lié** à l'entité en question |
+| Litige avec une entité liée | Médiation externe obligatoire (cf. art. 10) |
+| Prospection d'un client lié à un associé | L'associé concerné ne pilote pas la prospection ; il peut intervenir en délivrance |
 
-#### 9.2 Cas spécifique Président (Spiraliss/Vinci)
+#### 9.3 Procédure
 
-| Situation | Règle |
-|-----------|-------|
-| Prospection Vinci | Associé non lié à Spiraliss pilote (pas le Président) |
-| Délivrance formation Vinci | Président peut délivrer (pas de conflit sur l'exécution) |
-| Conflit Spiraliss/Cresceo | Déclaration préalable obligatoire au Comité |
+1. **Déclaration** : Tout associé déclare sans délai tout conflit d'intérêts potentiel
+2. **Abstention** : L'associé concerné s'abstient du vote sur le sujet
+3. **Registre** : Les conflits déclarés sont consignés dans un registre tenu par le DG
+4. **Médiation** : En cas de désaccord sur l'existence d'un conflit, médiation avant contentieux
 
-#### 9.3 Procédure générale
+#### 9.4 Activités déclarées à la signature
 
-1. **Déclaration** : Tout associé déclare un conflit potentiel
-2. **Abstention** : L'associé concerné s'abstient du vote
-3. **Registre** : Les conflits sont consignés dans un registre
-4. **Médiation** : En cas de litige, médiation avant contentieux
+Chaque associé déclare ci-dessous les entités et activités susceptibles de générer un conflit d'intérêts. Cette liste est mise à jour en cas de changement.
+
+| Associé | Entité / Activité déclarée |
+|---------|---------------------------|
+| Igor Cannone | Spiraliss (Vinci) — missions HSE/SPS |
+| Baptiste Casnedi | Activités tech/entrepreneuriales hors formation |
+| Julien Gardette | Activité BTP principale (hors formation) |
+| JP Panaget | Holdings, CAD42, autres participations |
+| Raph Garcia-Brotons | Holdings, CAD42, autres participations |
+| Éloïse Bouveret | Autres clients communication/marketing |
 
 ---
 
@@ -328,17 +318,19 @@ La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes d
 
 ### 11. Clauses Spécifiques Cresceo
 
-#### 11.1 Relation CAD 42
+#### 11.1 Relations commerciales avec entités liées
 
-| Clause | Description |
-|--------|-------------|
-| Priorité apport affaires | JP/Raph s'engagent à orienter clients CAD 42 vers Cresceo |
-| Non-exclusivité | Cresceo peut développer hors CAD 42 |
-| Durée engagement | 3 ans minimum, puis tacite reconduction |
-| Commission | À définir dans accord séparé (pas dans pacte) |
-| **Exception propale fondatrice** | **Pas de commission apporteurs** sur la propale initiale "CAD42 x CRESCEO" (ingénierie + animation). Logique : dossier fondateur commun, permet à CAD42 de bénéficier de formations à coût maîtrisé, modules duplicables pour Cresceo |
+Les relations commerciales entre Cresceo et les entités liées aux associés sont régies par des **contrats de prestation séparés**, négociés et signés indépendamment du présent pacte.
 
-*Note : La propale CAD42 x CRESCEO a été co-rédigée par Igor (Président) et Baptiste (DG). Pas de conflit d'intérêt identifié sur ce dossier.*
+Le pacte impose uniquement les règles de gouvernance suivantes pour ces contrats :
+- Respect de la procédure de **conventions réglementées** prévue aux statuts (article 25)
+- Respect des règles de **gestion des conflits d'intérêts** (article 9 du présent pacte)
+- **Information de tous les associés** lors de la conclusion ou modification d'un contrat avec une entité liée
+
+> **Contrats à formaliser en parallèle du pacte :**
+> - Cresceo ↔ CAD42 (apport d'affaires, PI modules co-produits, commissions)
+> - Cresceo ↔ Holding Éloïse Bouveret (prestations marketing/communication)
+> - Tout autre contrat impliquant une entité liée à un associé
 
 #### 11.2 Évolution du capital
 
@@ -352,7 +344,7 @@ La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes d
 
 ## Checklist Validation
 
-### Clauses à valider en atelier BP
+### Clauses à valider en réunion associés
 
 **Gouvernance**
 - [ ] Seuil palier 1 (Président seul) : _____ €
@@ -361,10 +353,15 @@ La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes d
 - [ ] Fréquence comité opérationnel : _____
 
 **Engagement**
-- [ ] Engagement temps Igor : _____ (h/sem ou j/mois)
-- [ ] Engagement temps Baptiste : _____ (h/sem ou j/mois)
+- [ ] Engagement temps Igor : _____ h/sem
+- [ ] Engagement temps Baptiste : _____ h/sem
 - [ ] Engagement temps Julien : _____ j/mois
-- [ ] Engagement temps Éloïse : _____ (h/sem ou j/mois)
+- [ ] Engagement temps Éloïse : _____ j/mois
+
+**CCA**
+- [ ] Seuil de déclenchement TJM : _____ € CA cumulé
+- [ ] Plafond mensuel par associé : _____ j/mois
+- [ ] CCA rémunéré (intérêts) ou non : _____
 
 **Sortie**
 - [ ] Durée lock-up : _____ ans
@@ -383,12 +380,43 @@ La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes d
 
 ## Prochaines Étapes
 
-1. ✅ **Validation répartition parts** - Atelier BP 4 février (unanimité)
-2. 🔲 **Compléter les checkboxes** - Points hebdos (en cours)
-3. 🔲 **Création SAS (Temps 1)** - Via Qonto, dès holdings prêtes (~fin février)
-4. 🔲 **Rédaction pacte final** - Avocat ou modèle adapté (2-3 semaines post-statuts)
-5. 🔲 **Relecture collective** - Tous les associés
-6. 🔲 **Signature pacte (Temps 2)** - Avant lancement propale CAD42
+1. ✅ **Validation répartition parts** — Atelier BP 4 février (unanimité)
+2. ✅ **Retours JP sur statuts et pacte** — 24 février
+3. 🔲 **Point all associates** — 26 février (valider les orientations v2)
+4. 🔲 **Création SAS (Temps 1)** — Via Qonto, dès holdings prêtes
+5. 🔲 **Rédaction pacte final + contrat presta CAD42** — En parallèle (avocat ou modèle adapté)
+6. 🔲 **Relecture collective** — Tous les associés
+7. 🔲 **Signature pacte + contrat presta (Temps 2)** — Avant lancement opérationnel
+
+---
+
+## Ce qui sort du pacte → Contrat de prestation séparé
+
+> Récapitulatif des éléments retirés du pacte v1, à formaliser dans un ou plusieurs contrats B2B.
+
+### Contrat Cresceo ↔ CAD42
+
+| Clause | Contenu à formaliser |
+|--------|---------------------|
+| **Apport d'affaires** | Modalités de mise en relation clients, priorité ou non-exclusivité |
+| **Commissions** | Taux, assiette, conditions de déclenchement, facturation |
+| **Exception propale fondatrice** | Pas de commission sur la propale initiale "CAD42 x CRESCEO" (si maintenu) |
+| **PI modules co-produits** | Licence croisée modules Unifield (A), propriété modules Innovation (B), licence modules Culture (C) |
+| **Durée et résiliation** | Durée engagement, tacite reconduction, conditions de sortie |
+| **Non-exclusivité** | Cresceo peut développer hors CAD42, CAD42 peut travailler avec d'autres OF |
+
+### Contrat Cresceo ↔ Holding Éloïse (EBCI)
+
+| Clause | Contenu à formaliser |
+|--------|---------------------|
+| **Périmètre** | Marketing, communication, identité visuelle |
+| **Forfait** | Montant annuel (2 500€ HT année 1), révision |
+| **Dépassement** | Conditions de facturation hors forfait |
+
+### Autres contrats éventuels
+
+- Cresceo ↔ Holding Igor (si missions Spiraliss nécessitent formalisation)
+- Tout autre contrat impliquant une entité liée à un associé
 
 ---
 
@@ -402,4 +430,4 @@ La propale "CAD42 x CRESCEO" crée 3 catégories de contenus avec des régimes d
 
 ---
 
-*Document préparatoire - Mis à jour le 11 février 2026*
+*Document préparatoire — v2 du 24 février 2026 (intègre retours JP)*

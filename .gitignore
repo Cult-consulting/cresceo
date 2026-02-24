@@ -1,7 +1,7 @@
 # Fichiers sensibles
 *.zip
 WhatsApp_*/
-WhatApp/
+WhatsApp/
 
 # Fichiers binaires (pas sur Docsify)
 *.pdf
@@ -16,11 +16,11 @@ DAF/
 CTO/
 
 # Fichiers privés (versions non-publiques)
-Presentation_Baptiste_Casnedi.md
-Slides_Synthese_Baptiste.md
-NOTE_SYNTHESE_*.md
-ANALYSE_RACHAT_OF_QUALIOPI.md
-BP_SCENARIOS_COMPARATIF.md
+COM/Presentation_Baptiste_Casnedi.md
+COM/Slides_Synthese_Baptiste.md
+Reunions/NOTE_SYNTHESE_*.md
+Projet/BP_SCENARIOS_COMPARATIF.md
+Projet/ANALYSE_RACHAT_OF_QUALIOPI.md
 
 # Claude Code
 CLAUDE.md
@@ -29,4 +29,3 @@ CLAUDE.md
 # Fichiers temporaires
 .DS_Store
 Thumbs.db
-nul

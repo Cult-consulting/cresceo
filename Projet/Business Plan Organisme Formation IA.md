@@ -191,7 +191,7 @@ La première propale commerciale de Cresceo est une offre de formation à CAD42,
 
 *Note Marketing : Devis EBCI (Éloïse Bouveret) validé à 2 500€ HT pour l'accompagnement marketing & communication année 1 (identité visuelle, maquette site web, vidéo, templates, gestion réseaux sociaux, stratégie). Paiement échelonné : acompte setup en Phase 1, solde en Phase 2.*
 
-*Note Juridique : Création SAS via Qonto (statuts 24h + certificat dépôt capital 12h). Pacte d'associés finalisé 2-3 semaines après. Voir STATUTS_SAS_DRAFT.md pour les clauses de gouvernance couvrant le gap.*
+*Note Juridique : Création SAS via Qonto (statuts 24h + certificat dépôt capital 12h). Pacte d'associés finalisé 2-3 semaines après. Voir Juridique/STATUTS_SAS_DRAFT.md pour les clauses de gouvernance couvrant le gap.*
 
 ### 6.2 Phase 2 : Développement post-validation marché (~8 000€)
 
@@ -337,7 +337,7 @@ La première propale commerciale de Cresceo est une offre de formation à CAD42,
 ## 9. Prochaines Étapes
 
 - [x] ~~Choix du nom définitif~~ → **Cresceo** (validé 31 janvier 2026)
-- [x] ~~Atelier BP~~ (4 février 2026) - Igor, Julien, Baptiste → Voir CR_ATELIER_BP_2026-02-04.md
+- [x] ~~Atelier BP~~ (4 février 2026) - Igor, Julien, Baptiste → Voir Reunions/CR_ATELIER_BP_2026-02-04.md
 - [x] ~~Validation répartition des parts~~ → Igor 38%, Baptiste 19%, Julien 19%, JP 9,5%, Raph 9,5%, Éloïse 5%
 - [x] ~~Achat domaine cresceo.fr~~ → Fait (Baptiste)
 - [x] ~~Propale formation CAD42~~ → Document "CAD42 x CRESCEO" rédigé (Igor + Baptiste)
@@ -346,8 +346,8 @@ La première propale commerciale de Cresceo est une offre de formation à CAD42,
 - [ ] **Propositions logo** → 3 options reçues d'Éloïse (10/02), choix à valider
 - [ ] **Holdings JP, Raph, Julien** → Statuts en relecture, finalisable fin février
 - [ ] Choix domiciliation (BUD Douai privilégié)
-- [ ] **Création juridique SAS** → Via Qonto (~1 semaine dès holdings prêtes). Voir STATUTS_SAS_DRAFT.md
-- [ ] **Pacte d'associés** → 2-3 semaines après statuts. Voir PACTE_ASSOCIES_DRAFT.md
+- [ ] **Création juridique SAS** → Via Qonto (~1 semaine dès holdings prêtes). Voir Juridique/STATUTS_SAS_DRAFT.md
+- [ ] **Pacte d'associés** → 2-3 semaines après statuts. Voir Juridique/PACTE_ASSOCIES_DRAFT.md
 - [ ] **Atelier Marché & Prospection** → 27 février 2026, Lyon (présentiel)
 - [ ] Lancement propale CAD42 (post-création SAS + signature pacte)
 - [ ] Lancement certification Qualiopi

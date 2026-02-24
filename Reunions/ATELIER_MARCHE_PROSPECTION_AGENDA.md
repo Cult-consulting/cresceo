@@ -200,10 +200,10 @@ Julien a contacté **Cyril Cortial** (Directeur d'agence Grands Travaux Industri
 
 ## Documents de Référence
 
-- [BP Scénarios Comparatif](BP_SCENARIOS_COMPARATIF.md) - Scénario prudent vs ambitieux
-- [Business Plan](Business%20Plan%20Organisme%20Formation%20IA.md) - BP détaillé (v4)
-- [Analyse Marché](ANALYSE_MARCHE.md) - Données marché
-- [Analyse Rachat OF Qualiopi](ANALYSE_RACHAT_OF_QUALIOPI.md) - Étude de faisabilité
+- [BP Scénarios Comparatif](../Projet/BP_SCENARIOS_COMPARATIF.md) - Scénario prudent vs ambitieux
+- [Business Plan](../Projet/Business%20Plan%20Organisme%20Formation%20IA.md) - BP détaillé (v4)
+- [Analyse Marché](../Projet/ANALYSE_MARCHE.md) - Données marché
+- [Analyse Rachat OF Qualiopi](../Projet/ANALYSE_RACHAT_OF_QUALIOPI.md) - Étude de faisabilité
 - [CR Atelier BP 04/02](CR_ATELIER_BP_2026-02-04.md) - Décisions précédentes
 - BP chiffré Igor (Google Sheets) — lien dans le groupe WhatsApp
 - Fiches programmes (Google Docs) — liens dans le groupe WhatsApp

@@ -36,7 +36,7 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 **Objectif** : Valider les hypothèses et chiffres clés du BP
 
-**Support** : [Business Plan](Business%20Plan%20Organisme%20Formation%20IA.md) - Sections 6 & 7
+**Support** : [Business Plan](../Projet/Business%20Plan%20Organisme%20Formation%20IA.md) - Sections 6 & 7
 
 #### Budget de lancement (~15 000€)
 
@@ -128,10 +128,10 @@ Un atelier de follow-up/validation sera programmé si nécessaire.
 
 ## Documents de Référence
 
-- [Business Plan](Business%20Plan%20Organisme%20Formation%20IA.md) - **Projections financières détaillées**
-- [CONTEXTE_PROJET.md](CONTEXTE_PROJET.md) - Vue d'ensemble projet
-- [PACTE_ASSOCIES_DRAFT.md](PACTE_ASSOCIES_DRAFT.md) - Draft pacte associés
-- [PLAN_LANCEMENT_CRESCEO.md](PLAN_LANCEMENT_CRESCEO.md) - Plan de lancement
+- [Business Plan](../Projet/Business%20Plan%20Organisme%20Formation%20IA.md) - **Projections financières détaillées**
+- [CONTEXTE_PROJET.md](../Projet/CONTEXTE_PROJET.md) - Vue d'ensemble projet
+- [PACTE_ASSOCIES_DRAFT.md](../Juridique/PACTE_ASSOCIES_DRAFT.md) - Draft pacte associés
+- [PLAN_LANCEMENT_CRESCEO.md](../Projet/PLAN_LANCEMENT_CRESCEO.md) - Plan de lancement
 
 ---
 

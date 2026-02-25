@@ -1,8 +1,7 @@
 # Statuts SAS CRESCEO - Draft
 
-**Statut** : Draft - À valider avant création juridique
-**Date** : 11 février 2026
-**Outil prévu** : Qonto (génération statuts 24h + dépôt capital 12h)
+**Statut** : Draft v3 — Post-comité all associates du 25/02
+**Date** : 25 février 2026
 
 ---
 
@@ -49,16 +48,11 @@ Dans tous les actes et documents, la dénomination sera suivie des mots "Sociét
 
 La société a pour objet, en France et à l'étranger :
 
-- La **formation professionnelle continue** dans les domaines de l'intelligence artificielle, du Lean management, de la prévention et de la santé-sécurité au travail (HSE)
-- L'**expertise et le conseil** en organisation, performance opérationnelle et systèmes de management
+- La **formation professionnelle, conseil et accompagnement** des entreprises dans leurs transformations organisationnelles, digitales et opérationnelles
 - La **coordination en matière de sécurité et de protection de la santé** (SPS)
 - Le **placement de consultants** sur des missions d'expertise technique
 - La conception, le développement et la commercialisation de **contenus pédagogiques** et d'outils numériques associés
 - Et plus généralement, toutes opérations industrielles, commerciales, financières, mobilières ou immobilières se rattachant directement ou indirectement à l'objet social
-
-**Question à valider :**
-- [ ] L'objet social est-il assez large pour couvrir tous les développements envisagés ?
-- [ ] Faut-il mentionner explicitement le BTP comme secteur cible ? (Non recommandé : rester généraliste pour ne pas limiter)
 
 ### Article 4 — Siège social
 
@@ -68,13 +62,8 @@ Options en discussion :
 
 | Option | Adresse | Avantages | Inconvénients |
 |--------|---------|-----------|---------------|
-| **BUD Douai** (privilégié) | Pépinière BUD, Douai (59) | Exonération IS/CFE/CVAE | Clause emploi 50% résidents |
 | Domiciliation classique | Paris ou Lyon | Simplicité | Pas d'avantages fiscaux |
 | Adresse Président | Domicile Igor | Gratuit 5 ans max | Moins professionnel |
-
-**Questions à valider :**
-- [ ] Confirmation BUD Douai (vérifier éligibilité et clause emploi)
-- [ ] Adresse de repli si BUD non retenu
 
 ### Article 5 — Durée
 
@@ -102,8 +91,7 @@ Le capital social est fixé à **10 000 euros (10 000€)**, divisé en **1 000 
 
 (*) Chaque associé souscrit via sa holding respective (dénominations sociales exactes à compléter une fois les holdings créées/immatriculées)
 
-**Questions à valider :**
-- [ ] Libération intégrale à la constitution ou 50% puis solde sous 5 ans ? (intégrale recommandée pour 10K€)
+**Validé** : Libération intégrale à la constitution.
 
 ### Article 8 — Apports
 
@@ -145,25 +133,20 @@ Toute cession d'actions à un tiers non-associé, à quelque titre que ce soit (
 | À un tiers externe | **Oui** (2/3 des voix) |
 | Par dévolution successorale | **Non** (mais information obligatoire) |
 
-**Questions à valider :**
-- [ ] Majorité pour agrément entre associés : majorité simple ou 2/3 ?
-- [ ] Agrément en cas de cession au conjoint : oui ou non ?
-- [ ] Délai maximum avant décision (30 jours suffisant ?)
+**Validé** : Agrément majorité 2/3, cession au conjoint soumise à agrément (majorité simple), délai 30 jours.
 
 ### Article 11 — Inaliénabilité temporaire (Lock-up)
 
 > **⚠️ Clause recommandée dans les statuts — Protège contre les sorties prématurées pendant le gap**
 
-Les actions sont **inaliénables** pendant une durée de **3 ans** à compter de l'immatriculation de la société.
+Les actions sont **inaliénables** pendant une durée de **2 ans** à compter de l'immatriculation de la société.
 
 Pendant cette période, aucune cession, totale ou partielle, n'est autorisée, sauf :
 - Décès de l'associé (transmission aux héritiers)
 - Invalidité permanente empêchant toute activité professionnelle
 - Accord unanime de tous les associés
 
-**Questions à valider :**
-- [ ] Durée lock-up (2 ans ? 3 ans ?)
-- [ ] Exceptions supplémentaires à prévoir ?
+**Validé** : Lock-up 2 ans (comité 25/02)
 
 ### Article 12 — Droit de préemption
 
@@ -224,10 +207,7 @@ Les actes suivants nécessitent une décision collective des associés :
 - Acquisition ou cession de tout actif immobilisé d'une valeur supérieure à 5 000€
 - Toute prise de participation dans une autre société
 
-**Questions à valider :**
-- [ ] Seuil palier 1 (1K€ ? 2K€ ? 3K€ ?)
-- [ ] Seuil palier 2 (5K€ ? 10K€ ? 15K€ ?)
-- [ ] Liste des actes soumis à autorisation : trop restrictive ? pas assez ?
+**À finaliser avec l'avocat** : Seuils paliers à confirmer (actuellement 2K€ / 10K€).
 
 ### Article 16 — Rémunération de la direction
 
@@ -237,13 +217,9 @@ La rémunération du Président et du Directeur Général est fixée par décisi
 
 ### Article 17 — Révocation
 
-Le Président et le Directeur Général sont révocables **à tout moment** par décision collective des associés statuant à la majorité des **deux tiers (2/3)** des voix.
+Le Président et le Directeur Général sont révocables **à tout moment** par décision collective des associés statuant à l'**unanimité hors intéressé**.
 
 La révocation n'ouvre droit à aucune indemnité, sauf décision contraire des associés ou stipulation du pacte d'associés.
-
-**Question à valider :**
-- [ ] Majorité pour révocation (2/3 ? unanimité hors intéressé ?)
-- [ ] Prévoir un juste motif obligatoire ou révocation ad nutum ?
 
 ---
 
@@ -256,7 +232,7 @@ Les décisions collectives sont prises :
 - Par **consultation écrite** (email avec accusé de réception)
 - Par **acte unanime** signé par tous les associés
 
-Le Président convoque les associés au moins **8 jours** à l'avance, par tout moyen écrit (email, LRAR).
+Le Président convoque les associés au moins **5 jours** à l'avance, par tout moyen écrit (email, LRAR).
 
 Tout associé, ou groupe d'associés, représentant au moins **10% du capital** peut demander la convocation d'une AG.
 
@@ -271,10 +247,9 @@ Tout associé, ou groupe d'associés, représentant au moins **10% du capital** 
 - Approbation des conventions réglementées
 - Engagements > 10 000€ HT (Palier 3)
 
-#### Décisions extraordinaires (majorité qualifiée 2/3)
+#### Décisions extraordinaires (majorité qualifiée 2/3 + Droit de veto du Président)
 
 - Modification des statuts (hors capital et dissolution)
-- Révocation du Président ou du DG
 - Agrément de cession à un tiers
 - Exclusion d'un associé (art. 20)
 - Émission de valeurs mobilières
@@ -286,10 +261,7 @@ Tout associé, ou groupe d'associés, représentant au moins **10% du capital** 
 - Entrée d'un nouvel associé (sauf augmentation de capital votée aux 2/3)
 - Dissolution anticipée
 - Changement de nationalité de la société
-
-**Questions à valider :**
-- [ ] Majorité pour modification du capital (2/3 ou unanimité ?)
-- [ ] Droit de veto pour certains associés sur certains sujets ?
+- Modification du capital
 
 ### Article 20 — Exclusion d'un associé (RECOMMANDÉE)
 
@@ -314,9 +286,7 @@ Un associé peut être exclu par décision collective des associés statuant à 
 
 **En l'absence de pacte d'associés**, la valorisation pour le rachat des actions de l'exclu est déterminée par un **expert désigné** conformément à l'article 1843-4 du Code civil.
 
-**Question à valider :**
-- [ ] Ajouter d'autres motifs d'exclusion ?
-- [ ] Majorité d'exclusion (2/3 ou 3/4 ?)
+**Validé** : Majorité d'exclusion 2/3 hors intéressé.
 
 ---
 
@@ -326,11 +296,7 @@ Un associé peut être exclu par décision collective des associés statuant à 
 
 L'exercice social a une durée de **12 mois**, du 1er janvier au 31 décembre.
 
-**Exceptionnellement**, le premier exercice commencera à la date d'immatriculation et se terminera le **31 décembre 2026**.
-
-**Question à valider :**
-- [ ] Premier exercice long (immatriculation → 31/12/2026) ou court (immatriculation → 31/12/2026 si création en mars = 10 mois) ?
-- [ ] Exercice calé sur année civile (jan-déc) ou décalé ?
+**Exceptionnellement**, le premier exercice commencera à la date d'immatriculation et se terminera le **31 décembre 2027**.
 
 ### Article 22 — Approbation des comptes
 
@@ -341,12 +307,10 @@ Les comptes annuels sont soumis à l'approbation des associés dans les **6 mois
 Le bénéfice distribuable est réparti comme suit :
 
 1. **Réserve légale** : 5% du bénéfice net, jusqu'à ce qu'elle atteigne 10% du capital social (soit 1 000€)
-2. **Réserve de croissance** : montant décidé par les associés (recommandé : 30-50% du résultat les 3 premières années)
+2. **Réserve de croissance** : montant décidé à l'AGO annuelle
 3. **Dividendes** : le solde est distribué aux associés **proportionnellement** à leur participation au capital, sauf décision contraire unanime
 
-**Question à valider :**
-- [ ] Réserve de croissance obligatoire dans les statuts ou laissée à l'appréciation annuelle ?
-- [ ] Possibilité de dividendes non proportionnels (avantages particuliers) ?
+**Validé** : Réserve de croissance décidée annuellement en AGO.
 
 ---
 
@@ -417,7 +381,7 @@ Les frais de constitution sont pris en charge par la société et portés au com
 | **Gouvernance** | 13-17 | Président, DG, plafonds de dépenses, révocation |
 | **Majorités** | 19 | Simple, qualifiée, unanimité selon le type |
 | **Agrément cession** | 10 | Toute cession soumise à accord 2/3 |
-| **Lock-up** | 11 | Inaliénabilité 3 ans |
+| **Lock-up** | 11 | Inaliénabilité 2 ans |
 | **Préemption** | 12 | Droit prioritaire des associés |
 | **Exclusion** | 20 | Procédure et motifs définis |
 | **CCA** | 24 | Cadre légal, remboursement, intérêts |
@@ -445,7 +409,7 @@ Les frais de constitution sont pris en charge par la société et portés au com
 |--------|------------|--------|-------------------|
 | Cession de parts à un tiers | Très faible | Élevé | ✅ Agrément + lock-up |
 | Dépense non autorisée | Faible | Moyen | ✅ Plafonds art. 15 |
-| Départ d'un associé | Très faible | Élevé | ✅ Lock-up 3 ans |
+| Départ d'un associé | Très faible | Élevé | ✅ Lock-up 2 ans |
 | Activité concurrente | Faible | Moyen | ⚠️ Non couvert (gap court acceptable) |
 | Litige sur la PI | Faible | Moyen | ⚠️ Non couvert (pas de production avant pacte) |
 | Conflit d'intérêt non déclaré | Faible | Moyen | ✅ Conventions réglementées |
@@ -462,53 +426,47 @@ Les frais de constitution sont pris en charge par la société et portés au com
 ### À valider en réunion d'associés
 
 **Capital & Apports**
-- [ ] Montant capital social : 10 000€
-- [ ] Souscription JP/Raph via holding ou en direct
-- [ ] Souscription Julien via holding ou en direct
-- [ ] Libération intégrale ou partielle
+- [x] Montant capital social : 10 000€
+- [x] Libération intégrale
 
 **Siège social**
-- [ ] BUD Douai confirmé (vérifier clause emploi)
-- [ ] Adresse de repli
+- [x] Domiciliation (à confirmer)
 
 **Direction**
-- [ ] Président : Igor Cannone
-- [ ] DG : Baptiste Casnedi
+- [x] Président : Igor Cannone
+- [x] DG : Baptiste Casnedi
 - [ ] Seuil palier 1 (Président seul) : _____ €
 - [ ] Seuil palier 2 (Président + DG) : _____ €
-- [ ] Majorité de révocation : 2/3 ou unanimité hors intéressé
+- [x] Majorité de révocation : unanimité hors intéressé
 
 **Cessions & Sorties**
-- [ ] Majorité agrément entre associés : majorité simple ou 2/3
-- [ ] Agrément cession au conjoint : oui ou non
-- [ ] Durée lock-up : 2 ou 3 ans
-- [ ] Délai préemption : 30 jours
+- [x] Majorité agrément entre associés : majorité 2/3
+- [x] Agrément cession au conjoint : oui
+- [x] Durée lock-up : 2 ans
+- [x] Délai préemption : 30 jours
 
 **Décisions collectives**
-- [ ] Majorité modification capital : 2/3 ou unanimité
-- [ ] Droit de veto pour certains associés
+- [x] Majorité modification capital : unanimité
+- [x] Droit de veto pour certains associés (Président)
 
 **Exercice social**
-- [ ] Année civile (jan-déc) confirmée
-- [ ] Premier exercice long
+- [x] Année civile (jan-déc) confirmée
+- [x] Premier exercice long (→ 31/12/2027)
 
 ---
 
 ## Prochaines Étapes
 
-| # | Action | Responsable | Délai |
-|---|--------|-------------|-------|
-| 1 | Valider ce draft en réunion associés | Tous | Point hebdo 11/02 |
-| 2 | Compléter les questions à valider (checkboxes) | Igor + Baptiste | Semaine du 11/02 |
-| 3 | Attendre holdings JP, Raph, Julien | JP, Raph, Julien | Fin février |
-| 4 | Lancer création Qonto (ou Captain Contrat) | Baptiste | Dès holdings prêtes |
-| 5 | Signature statuts + dépôt capital | Tous | J+1 après holdings |
-| 6 | Publication JAL + dépôt greffe | Baptiste (via plateforme) | J+3 |
-| 7 | Réception Kbis | Greffe | J+7 à J+10 |
-| 8 | Signature pacte d'associés | Tous | J+21 à J+30 |
-| 9 | Lancement propale CAD42 | Igor + Baptiste | Post-signature pacte |
+| # | Action | Responsable | Statut |
+|---|--------|-------------|--------|
+| 1 | ✅ Validation répartition parts | Tous | Atelier BP 04/02 |
+| 2 | ✅ Retours Jean-Philippe & Julien sur drafts | Jean-Philippe, Julien | 24/02 |
+| 3 | ✅ Point all associates | Tous | 25/02 |
+| 4 | 🔲 Transmission à l'avocat (statuts + pacte) | Baptiste | Mars |
+| 5 | 🔲 Holdings finalisées | Jean-Philippe, Raphaël, Julien | Fin février |
+| 6 | 🔲 Création SAS + signature statuts + pacte | Avocat | Mars |
+| 7 | 🔲 Contrat presta CAD42 | Avocat | Q4 2026 |
 
 ---
 
-*Document préparatoire - À compléter et valider avant lancement de la création juridique*
-*Draft rédigé le 11 février 2026*
+*Document préparatoire — v3 du 25 février 2026 (post-comité all associates)*

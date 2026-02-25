@@ -1,7 +1,7 @@
 # Pacte d'Associés - Préparation
 
-**Statut** : Draft v2 - À finaliser post-création SAS (Temps 2, voir STATUTS_SAS_DRAFT.md)
-**Date** : 24 février 2026 (v2 — intègre retours JP du 24/02)
+**Statut** : Draft v3 — Post-comité all associates du 25/02
+**Date** : 25 février 2026
 
 ---
 
@@ -15,16 +15,16 @@ Le pacte d'associés complète les statuts et régit les relations entre associ�
 |---------|-----------|-------------------|-----|
 | Igor Cannone | **38%** | Président — Pilotage, expertise métier, animation formations | Holding |
 | Baptiste Casnedi | **19%** | DG/DAF/CTO — Gestion, finance, tech | Holding |
-| Julien Gardette | **19%** | Réseau BTP, prospection terrain | Holding |
+| Julien Gardette | **19%** | Réseau BTP, Expertise technique et métier | Holding |
 | Jean-Philippe Panaget | **9,5%** | Réseau, apport d'affaires | Holding |
 | Raphaël Garcia-Brotons | **9,5%** | Réseau, apport d'affaires | Holding |
 | Éloïse Bouveret | **5%** | Marketing/Communication | Holding |
 
 **Bloc de contrôle** : Igor + Baptiste + Julien = 76% (majorité qualifiée 2/3)
 
-*Note : Les statuts SAS sont créés en Temps 1 (dès holdings prêtes). Le pacte d'associés est finalisé en Temps 2 (2-3 semaines après). Voir STATUTS_SAS_DRAFT.md pour les clauses de gouvernance couvrant le gap.*
+*Note : Les statuts SAS et le pacte sont finalisés et signés simultanément via l'avocat. Voir STATUTS_SAS_DRAFT.md.*
 
-> **Principe adopté (24/02)** : Les relations commerciales entre Cresceo et les entités liées aux associés (CAD42, Spiraliss, EBCI, etc.) sont régies par des **contrats de prestation séparés**, et non par le présent pacte. Le pacte ne traite que de la gouvernance entre associés.
+> **Principe adopté (24/02)** : Les relations commerciales entre Cresceo et les entités liées aux associés (notamment CAD42) sont régies par des **contrats de prestation séparés**, et non par le présent pacte. Le pacte ne traite que de la gouvernance entre associés.
 
 ---
 
@@ -72,8 +72,8 @@ Chaque associé s'engage selon un profil d'engagement défini ci-dessous. L'unit
 | Baptiste | ? | h/sem | Gestion, finance, tech | Autres activités entrepreneuriales |
 | Julien | ? | j/mois | Prospection, réseau BTP | Activité BTP principale |
 | Éloïse | ? | j/mois | Marketing, communication | Autres clients communication |
-| JP | — | — | Apport d'affaires, réseau | Activités propres (holdings, etc.) |
-| Raph | — | — | Apport d'affaires, réseau | Activités propres (holdings, etc.) |
+| Jean-Philippe | — | — | Apport d'affaires, réseau | Activités propres (holdings, etc.) |
+| Raphaël | — | — | Apport d'affaires, réseau | Activités propres (holdings, etc.) |
 
 **Obligations communes à tous les associés :**
 - Non-obstruction : ne pas bloquer le développement de la société
@@ -81,9 +81,10 @@ Chaque associé s'engage selon un profil d'engagement défini ci-dessous. L'unit
 - Loyauté : agir dans l'intérêt social de Cresceo
 - Respect du pacte et des statuts
 
-**Questions à valider :**
-- [ ] Engagement minimum pour chaque associé (h/sem ou j/mois) ?
-- [ ] Clause de "best efforts" plutôt que temps fixe ?
+**Validé** : Clause de "best efforts" plutôt que temps fixe.
+
+**À finaliser** :
+- [ ] Engagement minimum pour chaque associé (h/sem ou j/mois)
 - [ ] Période de référence pour le suivi (mensuel ? trimestriel ?)
 
 #### 2.2 Rémunération pilotage — Compte Courant d'Associé (CCA)
@@ -113,8 +114,9 @@ Le temps consacré par les associés au pilotage et à la gestion du projet (hor
 
 **Cas particulier Éloïse** : Son temps est couvert par le forfait de prestation de sa holding (2 500€ HT année 1). Pas de CCA pilotage sauf dépassement significatif du périmètre convenu.
 
-**Questions à valider :**
-- [ ] Seuil de déclenchement (30K€ CA ? Point mort ? Autre ?)
+**Validé** : Seuil de déclenchement 30K€ CA cumulé encaissé.
+
+**À finaliser** :
 - [ ] Plafond mensuel par associé (10j ? 15j ?)
 - [ ] CCA rémunéré (intérêts) ou non ?
 
@@ -136,8 +138,8 @@ Le temps consacré par les associés au pilotage et à la gestion du projet (hor
 
 | Associé | Activité autorisée | Lien potentiel |
 |---------|-------------------|----------------|
-| Igor | Spiraliss (Vinci) | Conflit géré via Julien sur Vinci |
-| JP + Raph | CAD 42 | Partenariat structuré |
+| Igor | Spiraliss (Vinci) | Conflit géré via un autre associé |
+| Jean-Philippe + Raphaël | CAD 42 | Partenariat structuré |
 | Baptiste | Activités tech hors formation | Pas de conflit |
 | Julien | Activité BTP (hors formation) | Pas de conflit |
 | Éloïse | Autres clients communication | Pas de conflit |
@@ -226,11 +228,10 @@ Le temps consacré par les associés au pilotage et à la gestion du projet (hor
 
 | Période | Durée | Exception |
 |---------|-------|-----------|
-| Lock-up initial | 3 ans | Décès, invalidité |
+| Lock-up initial | 2 ans | Décès, invalidité |
 | Lock-up après augmentation capital | 1 an | Idem |
 
-**Questions à valider :**
-- [ ] Durée lock-up (2 ans ? 3 ans ?)
+**Validé** : Lock-up 2 ans.
 
 ---
 
@@ -297,9 +298,9 @@ Chaque associé déclare ci-dessous les entités et activités susceptibles de g
 |---------|---------------------------|
 | Igor Cannone | Spiraliss (Vinci) — missions HSE/SPS |
 | Baptiste Casnedi | Activités tech/entrepreneuriales hors formation |
-| Julien Gardette | Activité BTP principale (hors formation) |
-| JP Panaget | Holdings, CAD42, autres participations |
-| Raph Garcia-Brotons | Holdings, CAD42, autres participations |
+| Julien Gardette | Conseil stratégique innovation et renfort opérationnel AMO MOE Entreprise (hors formation) |
+| Jean-Philippe Panaget | Holding, CAD42, autres participations |
+| Raphaël Garcia-Brotons | Holding, CAD42, autres participations |
 | Éloïse Bouveret | Autres clients communication/marketing |
 
 ---
@@ -327,10 +328,7 @@ Le pacte impose uniquement les règles de gouvernance suivantes pour ces contrat
 - Respect des règles de **gestion des conflits d'intérêts** (article 9 du présent pacte)
 - **Information de tous les associés** lors de la conclusion ou modification d'un contrat avec une entité liée
 
-> **Contrats à formaliser en parallèle du pacte :**
-> - Cresceo ↔ CAD42 (apport d'affaires, PI modules co-produits, commissions)
-> - Cresceo ↔ Holding Éloïse Bouveret (prestations marketing/communication)
-> - Tout autre contrat impliquant une entité liée à un associé
+> **Contrat principal à formaliser :** Cresceo ↔ CAD42 (apport d'affaires, PI modules co-produits, commissions) — prévu Q4 2026.
 
 #### 11.2 Évolution du capital
 
@@ -381,12 +379,13 @@ Le pacte impose uniquement les règles de gouvernance suivantes pour ces contrat
 ## Prochaines Étapes
 
 1. ✅ **Validation répartition parts** — Atelier BP 4 février (unanimité)
-2. ✅ **Retours JP sur statuts et pacte** — 24 février
-3. 🔲 **Point all associates** — 26 février (valider les orientations v2)
-4. 🔲 **Création SAS (Temps 1)** — Via Qonto, dès holdings prêtes
-5. 🔲 **Rédaction pacte final + contrat presta CAD42** — En parallèle (avocat ou modèle adapté)
+2. ✅ **Retours Jean-Philippe & Julien sur drafts statuts et pacte** — 24 février
+3. ✅ **Point all associates** — 25 février (validation orientations v3)
+4. 🔲 **Création SAS** — Dès holdings prêtes, via avocat
+5. 🔲 **Rédaction pacte final** — En parallèle avec avocat
 6. 🔲 **Relecture collective** — Tous les associés
-7. 🔲 **Signature pacte + contrat presta (Temps 2)** — Avant lancement opérationnel
+7. 🔲 **Signature pacte** — Avant lancement opérationnel
+8. 🔲 **Rédaction / signature contrat presta CAD42 (Q4 2026)**
 
 ---
 
@@ -405,17 +404,10 @@ Le pacte impose uniquement les règles de gouvernance suivantes pour ces contrat
 | **Durée et résiliation** | Durée engagement, tacite reconduction, conditions de sortie |
 | **Non-exclusivité** | Cresceo peut développer hors CAD42, CAD42 peut travailler avec d'autres OF |
 
-### Contrat Cresceo ↔ Holding Éloïse (EBCI)
-
-| Clause | Contenu à formaliser |
-|--------|---------------------|
-| **Périmètre** | Marketing, communication, identité visuelle |
-| **Forfait** | Montant annuel (2 500€ HT année 1), révision |
-| **Dépassement** | Conditions de facturation hors forfait |
-
-### Autres contrats éventuels
+### Autres contrats éventuels si vraiment pertinents
 
 - Cresceo ↔ Holding Igor (si missions Spiraliss nécessitent formalisation)
+- Cresceo ↔ EBCI (Éloïse) (pour mission mkg/com année 1 — 2 500€ HT)
 - Tout autre contrat impliquant une entité liée à un associé
 
 ---
@@ -430,4 +422,4 @@ Le pacte impose uniquement les règles de gouvernance suivantes pour ces contrat
 
 ---
 
-*Document préparatoire — v2 du 24 février 2026 (intègre retours JP)*
+*Document préparatoire — v3 du 25 février 2026 (post-comité all associates)*

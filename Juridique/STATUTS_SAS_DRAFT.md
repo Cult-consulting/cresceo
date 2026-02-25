@@ -5,30 +5,7 @@
 
 ---
 
-## Contexte : Stratégie Temps 1 / Temps 2
-
-| Phase | Document | Délai | Contenu |
-|-------|----------|-------|---------|
-| **Temps 1** | **Statuts SAS** | Dès holdings prêtes (~fin fév.) | Gouvernance, capital, direction, clauses protectrices |
-| **Temps 2** | **Pacte d'associés** | 2-3 semaines après | Non-concurrence, valorisation, good/bad leaver, PI, CCA |
-
-### Points de vigilance pendant le gap
-
-Durant les quelques semaines entre la signature des statuts et celle du pacte, les associés ne sont liés que par les statuts. Il faut donc y intégrer les **clauses protectrices essentielles** qui ne peuvent pas attendre.
-
-| Clause | Risque si absente pendant le gap | Recommandation |
-|--------|----------------------------------|----------------|
-| **Agrément cession** | Un associé pourrait céder ses parts librement à un tiers | **OBLIGATOIRE dans statuts** |
-| **Inaliénabilité (lock-up)** | Un associé pourrait vouloir sortir immédiatement | **FORTEMENT RECOMMANDÉ dans statuts** |
-| **Plafonds de dépenses** | Le Président aurait les pleins pouvoirs sans limite | **OBLIGATOIRE dans statuts** |
-| **Majorités qualifiées** | Décisions stratégiques à la majorité simple par défaut | **OBLIGATOIRE dans statuts** |
-| **Exclusion** | Aucun recours si un associé agit contre l'intérêt social | **RECOMMANDÉ dans statuts** |
-| Non-concurrence | Un associé pourrait lancer une activité concurrente | Acceptable en gap court (couvert par le pacte rapidement) |
-| Good/Bad leaver | Pas de mécanisme de valorisation différenciée | Acceptable en gap court |
-| Tag-along / Drag-along | Pas de protection minoritaires/majoritaires | Acceptable en gap court |
-| Propriété intellectuelle | Flou sur la propriété des contenus créés | Acceptable si aucune production n'est lancée avant le pacte |
-
-**Conclusion** : Les 5 premières clauses DOIVENT être dans les statuts. Les 4 suivantes peuvent attendre le pacte si celui-ci est signé rapidement (2-3 semaines) et qu'aucune activité opérationnelle significative ne démarre entre-temps.
+> **Note** : Les statuts SAS et le pacte d'associés sont finalisés et signés **simultanément** lors de l'AG constitutive, via l'avocat (Maître Olivier Frachon). Les deux documents forment un ensemble cohérent : les statuts posent le cadre légal (déposé au greffe, public), le pacte complète avec les engagements confidentiels entre associés.
 
 ---
 
@@ -111,7 +88,7 @@ Les actions sont obligatoirement **nominatives**. Elles sont inscrites dans un r
 
 ### Article 10 — Clause d'agrément (ESSENTIELLE)
 
-> **⚠️ Clause critique pour le gap statuts/pacte — Ne pas omettre**
+> Toute cession d'actions est soumise à agrément préalable.
 
 Toute cession d'actions à un tiers non-associé, à quelque titre que ce soit (vente, donation, apport, échange, etc.), est soumise à l'**agrément préalable** de la collectivité des associés, statuant à la majorité des **deux tiers (2/3)** des voix.
 
@@ -137,7 +114,7 @@ Toute cession d'actions à un tiers non-associé, à quelque titre que ce soit (
 
 ### Article 11 — Inaliénabilité temporaire (Lock-up)
 
-> **⚠️ Clause recommandée dans les statuts — Protège contre les sorties prématurées pendant le gap**
+> Protège contre les sorties prématurées en phase d'amorçage.
 
 Les actions sont **inaliénables** pendant une durée de **2 ans** à compter de l'immatriculation de la société.
 
@@ -183,7 +160,7 @@ Le Directeur Général dispose des mêmes pouvoirs de représentation que le Pr�
 
 ### Article 15 — Limitation des pouvoirs (ESSENTIELLE)
 
-> **⚠️ Clause critique pour le gap — Empêche les décisions unilatérales**
+> Encadre les pouvoirs du Président et du DG dans les rapports entre associés.
 
 Les pouvoirs du Président et du Directeur Général sont limités comme suit dans les rapports entre associés :
 
@@ -273,7 +250,7 @@ Un associé peut être exclu par décision collective des associés statuant à 
 2. Condamnation pénale pour des faits portant atteinte à l'honneur ou à la probité
 3. Mise en liquidation judiciaire de l'associé personne morale (holding)
 4. Incapacité légale
-5. Exercice d'une activité directement concurrente non déclarée et non autorisée par les associés (clause transitoire applicable jusqu'à la signature du pacte d'associés, qui définira le régime complet de non-concurrence)
+5. Exercice d'une activité directement concurrente non déclarée et non autorisée par les associés (le régime complet de non-concurrence est défini au pacte d'associés)
 
 #### Procédure d'exclusion
 
@@ -284,7 +261,7 @@ Un associé peut être exclu par décision collective des associés statuant à 
 | 3. Vote | J+30 | Décision collective (2/3 hors intéressé) |
 | 4. Rachat des actions | J+90 | Au prix fixé par accord ou expert (art. 1843-4 C. civ.) |
 
-**En l'absence de pacte d'associés**, la valorisation pour le rachat des actions de l'exclu est déterminée par un **expert désigné** conformément à l'article 1843-4 du Code civil.
+La valorisation pour le rachat des actions de l'exclu est déterminée selon les modalités prévues au pacte d'associés ou, à défaut d'accord, par un **expert désigné** conformément à l'article 1843-4 du Code civil.
 
 **Validé** : Majorité d'exclusion 2/3 hors intéressé.
 
@@ -372,12 +349,14 @@ Les frais de constitution sont pris en charge par la société et portés au com
 
 ---
 
-## Synthèse : Statuts vs Pacte — Qui couvre quoi ?
+## Synthèse : Répartition des thèmes entre Statuts et Pacte
 
-### Ce que les statuts couvrent (Temps 1)
+> Les deux documents sont signés simultanément lors de l'AG constitutive. Les statuts (publics, déposés au greffe) posent le cadre légal. Le pacte (confidentiel) complète avec les engagements détaillés entre associés.
 
-| Thème | Article(s) | Protection assurée |
-|-------|-----------|-------------------|
+### Couvert par les statuts
+
+| Thème | Article(s) | Contenu |
+|-------|-----------|---------|
 | **Gouvernance** | 13-17 | Président, DG, plafonds de dépenses, révocation |
 | **Majorités** | 19 | Simple, qualifiée, unanimité selon le type |
 | **Agrément cession** | 10 | Toute cession soumise à accord 2/3 |
@@ -385,39 +364,23 @@ Les frais de constitution sont pris en charge par la société et portés au com
 | **Préemption** | 12 | Droit prioritaire des associés |
 | **Exclusion** | 20 | Procédure et motifs définis |
 | **CCA** | 24 | Cadre légal, remboursement, intérêts |
-| **Conventions réglementées** | 25 | CAD42, Spiraliss, EBCI identifiés |
+| **Conventions réglementées** | 25 | Procédure pour contrats avec entités liées |
 | **Médiation** | 28 | Obligation de médiation avant contentieux |
 
-### Ce que le pacte complétera (Temps 2)
+### Complété par le pacte
 
 | Thème | Statuts | Pacte |
 |-------|---------|-------|
-| Non-concurrence | ❌ | Périmètre, durée, exceptions pré-déclarées |
-| Good/Bad leaver | ❌ | Valorisation, décote, définition faute grave |
-| Tag-along / Drag-along | ❌ | Seuils, procédure |
+| Non-concurrence | Motif d'exclusion (art. 20) | Périmètre, durée, exceptions pré-déclarées |
+| Good/Bad leaver | — | Valorisation, décote, définition faute grave |
+| Tag-along / Drag-along | — | Seuils, procédure |
 | Valorisation des parts | Renvoi à expert (art. 1843-4) | Multiple EBITDA, ANR |
-| PI / Contenus créés | ❌ | Propriété Cresceo, licences, modules CAD42 |
-| Engagement temps associés | ❌ | Heures/jours par associé, suivi |
+| PI / Contenus créés | — | Propriété Cresceo, licences, modules CAD42 |
+| Engagement temps associés | — | Heures/jours par associé, suivi |
 | CCA détaillé | Cadre général (art. 24) | Seuil déclenchement TJM, mécanisme |
-| Relation CAD42 | Convention réglementée (art. 25) | Commission, exclusivité, durée |
-| Confidentialité | ❌ | Durées, sanctions |
+| Relations commerciales | Convention réglementée (art. 25) | Renvoi aux contrats de prestation séparés |
+| Confidentialité | — | Durées, sanctions |
 | Conflits d'intérêts | Convention réglementée (art. 25) | Procédure déclaration, registre, abstention |
-
-### Risque résiduel pendant le gap
-
-| Risque | Probabilité | Impact | Couverture statuts |
-|--------|------------|--------|-------------------|
-| Cession de parts à un tiers | Très faible | Élevé | ✅ Agrément + lock-up |
-| Dépense non autorisée | Faible | Moyen | ✅ Plafonds art. 15 |
-| Départ d'un associé | Très faible | Élevé | ✅ Lock-up 2 ans |
-| Activité concurrente | Faible | Moyen | ⚠️ Non couvert (gap court acceptable) |
-| Litige sur la PI | Faible | Moyen | ⚠️ Non couvert (pas de production avant pacte) |
-| Conflit d'intérêt non déclaré | Faible | Moyen | ✅ Conventions réglementées |
-
-**Risque global pendant le gap : FAIBLE**, à condition que :
-1. Le pacte soit signé sous 3 semaines max
-2. Aucune activité opérationnelle (propale CAD42) ne démarre avant la signature du pacte
-3. Aucune production de contenu pédagogique ne soit engagée avant la signature du pacte
 
 ---
 

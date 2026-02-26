@@ -16,7 +16,7 @@ Utilisez le menu latéral pour accéder aux différentes sections :
 
 ## Liens rapides
 
-- [Contexte du Projet](Projet/CONTEXTE_PROJET.md)
-- [Plan de Lancement](Projet/PLAN_LANCEMENT_CRESCEO.md)
-- [Business Plan](Projet/Business%20Plan%20Organisme%20Formation%20IA.md)
-- [Statuts SAS (Draft)](Juridique/STATUTS_SAS_DRAFT.md)
+- [Contexte du Projet](/Projet/CONTEXTE_PROJET.md)
+- [Plan de Lancement](/Projet/PLAN_LANCEMENT_CRESCEO.md)
+- [Business Plan](/Projet/Business%20Plan%20Organisme%20Formation%20IA.md)
+- [Statuts SAS (Draft)](/Juridique/STATUTS_SAS_DRAFT.md)

@@ -8,7 +8,7 @@
 
 ## Contexte
 
-Cet atelier fait suite à l'atelier BP. Il vise à présenter Éloïse à l'équipe projet Cresceo et à répartir les tâches du [Plan de Lancement](../Projet/PLAN_LANCEMENT_CRESCEO.md).
+Cet atelier fait suite à l'atelier BP. Il vise à présenter Éloïse à l'équipe projet Cresceo et à répartir les tâches du [Plan de Lancement](/Projet/PLAN_LANCEMENT_CRESCEO.md).
 
 Logique de **répartition d'actions** avec follow-up ultérieur.
 
@@ -26,7 +26,7 @@ Logique de **répartition d'actions** avec follow-up ultérieur.
 
 ### 2. Revue du Plan de Lancement (10 min)
 
-**Support** : [PLAN_LANCEMENT_CRESCEO.md](../Projet/PLAN_LANCEMENT_CRESCEO.md) - Section "Identité"
+**Support** : [PLAN_LANCEMENT_CRESCEO.md](/Projet/PLAN_LANCEMENT_CRESCEO.md) - Section "Identité"
 
 | Domaine | Livrables | Discussion |
 |---------|-----------|------------|
@@ -58,8 +58,8 @@ Logique de **répartition d'actions** avec follow-up ultérieur.
 
 ## Documents de Référence
 
-- [PLAN_LANCEMENT_CRESCEO.md](../Projet/PLAN_LANCEMENT_CRESCEO.md) - Plan de lancement complet
-- [CONTEXTE_PROJET.md](../Projet/CONTEXTE_PROJET.md) - Contexte projet
+- [PLAN_LANCEMENT_CRESCEO.md](/Projet/PLAN_LANCEMENT_CRESCEO.md) - Plan de lancement complet
+- [CONTEXTE_PROJET.md](/Projet/CONTEXTE_PROJET.md) - Contexte projet
 
 ---
 

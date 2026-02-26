@@ -200,14 +200,14 @@ Julien a contacté **Cyril Cortial** (Directeur d'agence Grands Travaux Industri
 
 ## Documents de Référence
 
-- [BP Scénarios Comparatif](../Projet/BP_SCENARIOS_COMPARATIF.md) - Scénario prudent vs ambitieux
-- [Business Plan](../Projet/Business%20Plan%20Organisme%20Formation%20IA.md) - BP détaillé (v4)
-- [Analyse Marché](../Projet/ANALYSE_MARCHE.md) - Données marché
-- [Analyse Qualiopi — 3 options](../Projet/ANALYSE_RACHAT_OF_QUALIOPI.md) - From scratch, rachat, portage salarial
-- [Benchmark Concurrence Contech](../Projet/BENCHMARK_CONCURRENCE_CONTECH.md) - Positionnement "océan bleu" IA x BTP
-- [Pipe Commercial](../Projet/PIPE_COMMERCIAL.md) - Pipeline prospects + stratégie Vinci + funnel de suivi
-- [Planning Déploiement Formations](../Projet/PLANNING_DEPLOIEMENT_FORMATIONS.md) - Calendrier modules + capacité Igor
-- [CR Atelier BP 04/02](CR_ATELIER_BP_2026-02-04.md) - Décisions précédentes
+- [BP Scénarios Comparatif](/Projet/BP_SCENARIOS_COMPARATIF.md) - Scénario prudent vs ambitieux
+- [Business Plan](/Projet/Business%20Plan%20Organisme%20Formation%20IA.md) - BP détaillé (v4)
+- [Analyse Marché](/Projet/ANALYSE_MARCHE.md) - Données marché
+- [Analyse Qualiopi — 3 options](/Projet/ANALYSE_RACHAT_OF_QUALIOPI.md) - From scratch, rachat, portage salarial
+- [Benchmark Concurrence Contech](/Projet/BENCHMARK_CONCURRENCE_CONTECH.md) - Positionnement "océan bleu" IA x BTP
+- [Pipe Commercial](/Projet/PIPE_COMMERCIAL.md) - Pipeline prospects + stratégie Vinci + funnel de suivi
+- [Planning Déploiement Formations](/Projet/PLANNING_DEPLOIEMENT_FORMATIONS.md) - Calendrier modules + capacité Igor
+- [CR Atelier BP 04/02](/Reunions/CR_ATELIER_BP_2026-02-04.md) - Décisions précédentes
 - BP chiffré Igor (Google Sheets) — lien dans le groupe WhatsApp
 - Fiches programmes (Google Docs) — liens dans le groupe WhatsApp
 

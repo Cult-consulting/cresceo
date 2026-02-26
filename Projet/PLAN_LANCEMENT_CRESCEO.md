@@ -219,7 +219,7 @@ Upgrade possible vers Zimbra Pro (1,99€ HT/mois/compte) si besoin ActiveSync o
 - [ ] **Point stratégique complet** (25/02, tous les associés)
 - [ ] **Atelier Marché & Prospection Lyon** (27/02)
 - [ ] Création SAS via Qonto (~1 semaine dès holdings prêtes)
-- [ ] Pacte d'associés (2-3 semaines post-statuts)
+- [ ] Pacte d'associés (signature simultanée avec statuts via avocat)
 - [ ] Workspace Notion (post-création SAS, mars)
 - [ ] Créer page LinkedIn entreprise
 - [ ] Site public V1 (maquette Éloïse)

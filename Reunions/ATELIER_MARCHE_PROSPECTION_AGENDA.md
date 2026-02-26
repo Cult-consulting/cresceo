@@ -18,7 +18,7 @@ Suite au point all associates du 26/02, cet atelier doit traduire les **décisio
 - **Igor a démarré un BP chiffré** sur Google Sheets + 2 fiches programmes en version bêta
 - **3 pistes Qualiopi à arbitrer** : from scratch, rachat OF, portage salarial (idée Igor)
 - **Stratégie go-to-market contech** suggérée par JP (Contech France, Impulse, réseau)
-- **Statuts et pacte d'associés v2** finalisés (retours JP intégrés 24/02)
+- **Statuts et pacte d'associés v3** finalisés (post-comité all associates 25/02, signature simultanée via avocat)
 
 **Objectif principal** : Construire le **plan de prospection 90 jours** aligné sur le scénario ambitieux.
 
@@ -203,7 +203,10 @@ Julien a contacté **Cyril Cortial** (Directeur d'agence Grands Travaux Industri
 - [BP Scénarios Comparatif](../Projet/BP_SCENARIOS_COMPARATIF.md) - Scénario prudent vs ambitieux
 - [Business Plan](../Projet/Business%20Plan%20Organisme%20Formation%20IA.md) - BP détaillé (v4)
 - [Analyse Marché](../Projet/ANALYSE_MARCHE.md) - Données marché
-- [Analyse Rachat OF Qualiopi](../Projet/ANALYSE_RACHAT_OF_QUALIOPI.md) - Étude de faisabilité
+- [Analyse Qualiopi — 3 options](../Projet/ANALYSE_RACHAT_OF_QUALIOPI.md) - From scratch, rachat, portage salarial
+- [Benchmark Concurrence Contech](../Projet/BENCHMARK_CONCURRENCE_CONTECH.md) - Positionnement "océan bleu" IA x BTP
+- [Pipe Commercial](../Projet/PIPE_COMMERCIAL.md) - Pipeline prospects + stratégie Vinci + funnel de suivi
+- [Planning Déploiement Formations](../Projet/PLANNING_DEPLOIEMENT_FORMATIONS.md) - Calendrier modules + capacité Igor
 - [CR Atelier BP 04/02](CR_ATELIER_BP_2026-02-04.md) - Décisions précédentes
 - BP chiffré Igor (Google Sheets) — lien dans le groupe WhatsApp
 - Fiches programmes (Google Docs) — liens dans le groupe WhatsApp

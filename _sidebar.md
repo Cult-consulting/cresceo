@@ -3,12 +3,18 @@
 * **Projet**
   * [Contexte du Projet](Projet/CONTEXTE_PROJET.md)
   * [Business Plan](Projet/Business%20Plan%20Organisme%20Formation%20IA.md)
+  * [BP Scénarios Comparatif](Projet/BP_SCENARIOS_COMPARATIF.md)
   * [Analyse de Marché](Projet/ANALYSE_MARCHE.md)
+  * [Benchmark Concurrence Contech](Projet/BENCHMARK_CONCURRENCE_CONTECH.md)
+  * [Pipe Commercial](Projet/PIPE_COMMERCIAL.md)
+  * [Planning Déploiement Formations](Projet/PLANNING_DEPLOIEMENT_FORMATIONS.md)
+  * [Analyse Qualiopi — 3 options](Projet/ANALYSE_RACHAT_OF_QUALIOPI.md)
   * [Plan de Lancement](Projet/PLAN_LANCEMENT_CRESCEO.md)
 
 * **Juridique**
-  * [Statuts SAS (Draft)](Juridique/STATUTS_SAS_DRAFT.md)
-  * [Pacte d'Associés (Draft)](Juridique/PACTE_ASSOCIES_DRAFT.md)
+  * [Statuts SAS (Draft v3)](Juridique/STATUTS_SAS_DRAFT.md)
+  * [Pacte d'Associés (Draft v3)](Juridique/PACTE_ASSOCIES_DRAFT.md)
+  * [Note Cadrage Contrat CAD42](Juridique/NOTE_CADRAGE_CONTRAT_CAD42.md)
 
 * **Ateliers & CRs**
   * [Atelier Business Plan](Reunions/ATELIER_BP_AGENDA.md)

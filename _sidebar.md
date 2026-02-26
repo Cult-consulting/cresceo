@@ -7,7 +7,6 @@
   * [Analyse de Marché](/Projet/ANALYSE_MARCHE.md)
   * [Benchmark Concurrence Contech](/Projet/BENCHMARK_CONCURRENCE_CONTECH.md)
   * [Pipe Commercial](/Projet/PIPE_COMMERCIAL.md)
-  * [Planning Déploiement Formations](/Projet/PLANNING_DEPLOIEMENT_FORMATIONS.md)
   * [Analyse Qualiopi — 3 options](/Projet/ANALYSE_RACHAT_OF_QUALIOPI.md)
   * [Plan de Lancement](/Projet/PLAN_LANCEMENT_CRESCEO.md)
 

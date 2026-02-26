@@ -173,7 +173,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 
 **Noms non retenus** : Azimut (SEO saturé), Zenho (conflit potentiel), Multiprisme, Zero1, DeepFeel
 
-→ Historique recherche : [RECHERCHE_NOM.md](/COM/RECHERCHE_NOM.md)
+→ Historique recherche : [RECHERCHE_NOM.md](COM/RECHERCHE_NOM.md)
 
 ---
 
@@ -199,7 +199,7 @@ Création d'une société spécialisée dans la **formation IA et l'expertise HS
 - [ ] Multiple EBITDA (4x ? 5x ? 6x ?)
 - [ ] Décote bad leaver (30% ? 50% ?)
 
-→ Détail complet : [PACTE_ASSOCIES_DRAFT.md](/Juridique/PACTE_ASSOCIES_DRAFT.md)
+→ Détail complet : [PACTE_ASSOCIES_DRAFT.md](Juridique/PACTE_ASSOCIES_DRAFT.md)
 
 ---
 
@@ -378,12 +378,12 @@ Le BUD est un dispositif d'exonération fiscale créé en 2017 pour relancer l'a
 | [Business Plan Organisme Formation IA.md](Business%20Plan%20Organisme%20Formation%20IA.md) | BP détaillé | ✅ |
 | [ANALYSE_MARCHE.md](ANALYSE_MARCHE.md) | SWOT, concurrence, opportunités | ✅ |
 | [PLAN_LANCEMENT_CRESCEO.md](PLAN_LANCEMENT_CRESCEO.md) | Plan de lancement complet | ✅ À jour (18/02) |
-| [STATUTS_SAS_DRAFT.md](/Juridique/STATUTS_SAS_DRAFT.md) | Draft statuts SAS | ✅ |
-| [PACTE_ASSOCIES_DRAFT.md](/Juridique/PACTE_ASSOCIES_DRAFT.md) | Draft pacte d'associés | ✅ |
-| [ATELIER_MARCHE_PROSPECTION_AGENDA.md](/Reunions/ATELIER_MARCHE_PROSPECTION_AGENDA.md) | Agenda atelier Lyon 27/02 | ✅ |
-| [CR_ATELIER_BP_2026-02-04.md](/Reunions/CR_ATELIER_BP_2026-02-04.md) | CR atelier BP 04/02 | ✅ |
-| [CR_ATELIER_MKG_2026-02-04.md](/Reunions/CR_ATELIER_MKG_2026-02-04.md) | CR atelier MKG 04/02 | ✅ |
-| [RECHERCHE_NOM.md](/COM/RECHERCHE_NOM.md) | Top 5 noms avec vérifications | ✅ Archive |
+| [STATUTS_SAS_DRAFT.md](Juridique/STATUTS_SAS_DRAFT.md) | Draft statuts SAS | ✅ |
+| [PACTE_ASSOCIES_DRAFT.md](Juridique/PACTE_ASSOCIES_DRAFT.md) | Draft pacte d'associés | ✅ |
+| [ATELIER_MARCHE_PROSPECTION_AGENDA.md](Reunions/ATELIER_MARCHE_PROSPECTION_AGENDA.md) | Agenda atelier Lyon 27/02 | ✅ |
+| [CR_ATELIER_BP_2026-02-04.md](Reunions/CR_ATELIER_BP_2026-02-04.md) | CR atelier BP 04/02 | ✅ |
+| [CR_ATELIER_MKG_2026-02-04.md](Reunions/CR_ATELIER_MKG_2026-02-04.md) | CR atelier MKG 04/02 | ✅ |
+| [RECHERCHE_NOM.md](COM/RECHERCHE_NOM.md) | Top 5 noms avec vérifications | ✅ Archive |
 
 ### Documents Externes
 

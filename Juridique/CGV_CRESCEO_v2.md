@@ -3,8 +3,8 @@
 **CRESCEO SAS** — Organisme de formation professionnelle
 SAS au capital de 10 000 € — SIREN 103 298 188 — RCS Paris
 Siège social : 58 rue de Monceau, 75008 Paris
-N° de déclaration d'activité : [à compléter dès réception NDA]
-Certification Qualiopi : [en cours — audit initial mai 2026]
+Déclaration d'activité enregistrée sous le numéro 11757694675 auprès du préfet de région d'Île-de-France (31/08/2026). Cet enregistrement ne vaut pas agrément de l'État.
+Certification Qualiopi : délivrée par Certifopac au titre des Actions de formation [n° de certificat à compléter]
 Assurance RC Pro : [à compléter après souscription — n° police, assureur]
 Contact : contact@cresceo.fr — cresceo.fr
 

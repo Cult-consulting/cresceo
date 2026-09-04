@@ -14,8 +14,8 @@
 | 1.4 | Forme juridique (SAS) + capital | ❌ | Ajouter "SAS au capital de X €" |
 | 1.5 | RCS + ville immatriculation | ❌ | "RCS Paris" à ajouter (depuis Kbis 07/04) |
 | 1.6 | TVA intracommunautaire | ❌ | À ajouter |
-| 1.7 | N° NDA (déclaration activité préfecture) | ❌ | **À ajouter dès réception** (délai 30-40j post-Kbis) |
-| 1.8 | Mention Qualiopi | ❌ | "Certification Qualiopi en cours — audit 13/05/2026" puis remplacer après certif |
+| 1.7 | N° NDA (déclaration activité préfecture) | ✅ | 11757694675, attribué le 31/08/2026. Forme contractuelle « déclaration d'activité enregistrée sous le numéro 11757694675 auprès du préfet de région d'Île-de-France » ; forme publicitaire (site, plaquettes, art. L. 6352-12) « enregistré sous le numéro 11757694675. Cet enregistrement ne vaut pas agrément de l'État » |
+| 1.8 | Mention Qualiopi | ⚠️ | Certification obtenue (Certifopac, Actions de formation). Reste à renseigner le n° de certificat dans les CGV |
 | 1.9 | Coordonnées (email, téléphone, contact) | ⚠️ | `contact@cresceo.fr` seulement (art. 8). Ajouter téléphone + bloc coordonnées complet en en-tête |
 
 ## 2. Objet & champ d'application
@@ -169,7 +169,7 @@
 |---|--------|----------|-------------|
 | 1 | Corriger adresse siège (58 rue Monceau 75008) | Urgent | Baptiste |
 | 2 | Ajouter bloc identification complet (SIREN, RCS, capital, TVA intra) | Urgent | Baptiste |
-| 3 | Ajouter numéro NDA dès réception (post préfecture, 30-40j) | Post-NDA | Baptiste |
+| 3 | ~~Ajouter numéro NDA dès réception~~ | ✅ Fait 04/09/2026 | Baptiste |
 | 4 | Rédiger politique de confidentialité séparée (RGPD complet) | 30/04 | Baptiste |
 | 5 | Ajouter clauses BtoC (rétractation + médiateur + juridiction domicile) | 30/04 | Olivier Frachon (relecture) |
 | 6 | Ajouter indemnité 40€ + cas OPCO | 30/04 | Baptiste |

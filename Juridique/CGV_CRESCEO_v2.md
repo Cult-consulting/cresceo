@@ -4,7 +4,7 @@
 SAS au capital de 10 000 € — SIREN 103 298 188 — RCS Paris
 Siège social : 58 rue de Monceau, 75008 Paris
 Déclaration d'activité enregistrée sous le numéro 11757694675 auprès du préfet de région d'Île-de-France (31/08/2026). Cet enregistrement ne vaut pas agrément de l'État.
-Certification Qualiopi : délivrée par Certifopac au titre des Actions de formation [n° de certificat à compléter]
+Certification Qualiopi : certificat n° 875611-1 délivré par Certifopac au titre des Actions de formation (L. 6313-1, 1°), valable du 07/09/2026 au 06/09/2029
 Assurance RC Pro : [à compléter après souscription — n° police, assureur]
 Contact : contact@cresceo.fr — cresceo.fr
 

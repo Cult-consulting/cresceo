@@ -22,7 +22,8 @@ Siège social : Les Tricolores, 58 rue de Monceau, 75008 Paris
 SIREN 103 298 188 — SIRET 103 298 188 00014 — RCS Paris — Code NAF 8559A
 Déclaration d'activité enregistrée sous le numéro **11757694675** auprès du préfet de région
 d'Île-de-France. *Cet enregistrement ne vaut pas agrément de l'État.*
-Certification **Qualiopi** au titre des Actions de formation, délivrée par Certifopac.
+Certification **Qualiopi** au titre des Actions de formation (L. 6313-1, 1°), certificat n° 875611-1
+délivré par Certifopac, valable jusqu'au 06/09/2029.
 Représentée par M. Igor CANNONE, Président.
 
 Ci-après « CRESCEO ».

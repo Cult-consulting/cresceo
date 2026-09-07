@@ -15,7 +15,7 @@
 | 1.5 | RCS + ville immatriculation | ❌ | "RCS Paris" à ajouter (depuis Kbis 07/04) |
 | 1.6 | TVA intracommunautaire | ❌ | À ajouter |
 | 1.7 | N° NDA (déclaration activité préfecture) | ✅ | 11757694675, attribué le 31/08/2026. Forme contractuelle « déclaration d'activité enregistrée sous le numéro 11757694675 auprès du préfet de région d'Île-de-France » ; forme publicitaire (site, plaquettes, art. L. 6352-12) « enregistré sous le numéro 11757694675. Cet enregistrement ne vaut pas agrément de l'État » |
-| 1.8 | Mention Qualiopi | ⚠️ | Certification obtenue (Certifopac, Actions de formation). Reste à renseigner le n° de certificat dans les CGV |
+| 1.8 | Mention Qualiopi | ✅ | Certificat n° 875611-1 (Certifopac), Actions de formation, 07/09/2026 → 06/09/2029. Renseigné dans les CGV, la convention type et la page Qualité (07/09/2026) |
 | 1.9 | Coordonnées (email, téléphone, contact) | ⚠️ | `contact@cresceo.fr` seulement (art. 8). Ajouter téléphone + bloc coordonnées complet en en-tête |
 
 ## 2. Objet & champ d'application

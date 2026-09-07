@@ -1650,6 +1650,50 @@
       color: rgba(255,255,255,0.5);
       border: 1px solid rgba(255,255,255,0.2) !important;
     }
+
+    /* ==================== PRESSE & DISTINCTIONS ==================== */
+    .cr-press { background: var(--gris-clair); padding: 4rem 1.5rem; }
+    .cr-press-inner { max-width: 1080px; margin: 0 auto; }
+    .cr-press-header { text-align: center; margin-bottom: 2.5rem; }
+    .cr-press-tag {
+      display: inline-block; font-family: 'Montserrat', sans-serif; font-weight: 600;
+      font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--vert-tech); margin-bottom: 0.6rem;
+    }
+    .cr-press-header h2 {
+      font-family: 'Montserrat', sans-serif; font-weight: 700; color: var(--bleu-profond);
+      font-size: clamp(1.5rem, 3vw, 2rem); margin: 0 0 0.6rem;
+    }
+    .cr-press-header p { margin: 0 auto; max-width: 620px; font-size: 0.95rem; line-height: 1.55; }
+    .cr-press-grid {
+      display: grid; gap: 1.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+    .cr-press-card {
+      display: flex; flex-direction: column; background: var(--blanc);
+      border: 1px solid var(--gris-border); border-radius: 14px; padding: 1.5rem;
+      text-decoration: none; color: inherit; transition: transform .18s ease, box-shadow .18s ease;
+      border-top: 3px solid var(--vert-tech);
+    }
+    .cr-press-card:hover { transform: translateY(-4px); box-shadow: 0 12px 28px rgba(17,35,49,.10); }
+    .cr-press-card--distinction { border-top-color: var(--orange-signal); }
+    .cr-press-eyebrow {
+      font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: 0.7rem;
+      letter-spacing: 0.07em; text-transform: uppercase; color: var(--vert-tech); margin-bottom: 0.7rem;
+    }
+    .cr-press-card--distinction .cr-press-eyebrow { color: var(--orange-signal); }
+    .cr-press-card h3 {
+      font-family: 'Montserrat', sans-serif; font-weight: 600; color: var(--bleu-profond);
+      font-size: 1.05rem; line-height: 1.35; margin: 0 0 0.55rem;
+    }
+    .cr-press-meta { font-size: 0.85rem; line-height: 1.5; color: var(--gris-texte); margin: 0 0 1.1rem; }
+    .cr-press-link {
+      margin-top: auto; font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: 0.85rem;
+      color: var(--vert-tech);
+    }
+    .cr-press-card--distinction .cr-press-link { color: var(--orange-signal); }
+    .cr-press-link::after { content: " \2192"; }
+    @media (max-width: 600px) { .cr-press { padding: 3rem 1.1rem; } }
   </style>
 </head>
 <body>
@@ -1815,6 +1859,37 @@
       <p style="text-align:center;margin-top:1.5rem;color:#a0aec0;font-size:0.78rem;">
         Indicateurs consolidés à l'issue de chaque session &mdash; détail sur <a href="qualite.html" style="color:var(--vert-tech);">notre page qualité</a>.
       </p>
+    </div>
+  </section>
+
+  <!-- ==================== PRESSE & DISTINCTIONS ==================== -->
+  <section class="cr-press" id="presse" aria-label="Presse et distinctions">
+    <div class="cr-press-inner">
+      <div class="cr-press-header">
+        <span class="cr-press-tag">Ils en parlent</span>
+        <h2>Presse &amp; distinctions</h2>
+        <p>Cresceo dans les médias et parmi les projets remarqués de l'innovation dans le BTP.</p>
+      </div>
+
+      <div class="cr-press-grid">
+        <a class="cr-press-card cr-press-card--distinction"
+           href="https://winlab.agorize.com/fr/challenges/trophees-de-l-innovation-du-winlab-2026"
+           target="_blank" rel="noopener noreferrer">
+          <div class="cr-press-eyebrow">Distinction</div>
+          <h3>Finaliste des Trophées de l'Innovation du WinLab'</h3>
+          <p class="cr-press-meta">CCCA-BTP &middot; BATIMAT 2026, Paris Expo Porte de Versailles (28 septembre au 1er octobre). Pitch sur le stand WinLab' et cérémonie le 30 septembre.</p>
+          <span class="cr-press-link">Découvrir les Trophées</span>
+        </a>
+
+        <a class="cr-press-card"
+           href="https://batinfo.com/actualite/cad-42-et-cresceo-sassocient-pour-accelerer-la-formation-a-la-securite-et-a-la-productivite-sur-chantier-grace-a-lia_36509"
+           target="_blank" rel="noopener noreferrer">
+          <div class="cr-press-eyebrow">Presse</div>
+          <h3>CAD.42 et Cresceo s'associent pour la sécurité et la productivité sur chantier</h3>
+          <p class="cr-press-meta">Batinfo &middot; septembre 2026. Un partenariat entre l'expertise formation de Cresceo et la plateforme IA de CAD.42.</p>
+          <span class="cr-press-link">Lire l'article</span>
+        </a>
+      </div>
     </div>
   </section>
 

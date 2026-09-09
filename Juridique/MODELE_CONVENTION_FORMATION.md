@@ -24,7 +24,7 @@ Déclaration d'activité enregistrée sous le numéro **11757694675** auprès du
 d'Île-de-France. *Cet enregistrement ne vaut pas agrément de l'État.*
 Certification **Qualiopi** au titre des Actions de formation (L. 6313-1, 1°), certificat n° 875611-1
 délivré par Certifopac, valable jusqu'au 06/09/2029.
-Représentée par M. Igor CANNONE, Président.
+Représentée par M. Igor CANONNE, Président.
 
 Ci-après « CRESCEO ».
 
@@ -156,5 +156,5 @@ Fait à [.....], le [JJ/MM/AAAA], en deux exemplaires originaux.
 
 | Pour CRESCEO | Pour le Client |
 |---|---|
-| Igor CANNONE, Président | [Prénom NOM], [fonction] |
+| Igor CANONNE, Président | [Prénom NOM], [fonction] |
 | *(cachet et signature)* | *(cachet et signature, précédés de la mention « lu et approuvé »)* |
